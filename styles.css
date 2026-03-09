@@ -177,6 +177,17 @@ img {
   line-height: 1.55;
 }
 
+.visual-source {
+  margin-top: 0.65rem;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.visual-source em {
+  color: var(--ink);
+}
+
 .callout-grid,
 .card-grid,
 .resource-grid {
@@ -259,6 +270,14 @@ img {
   gap: 1.2rem;
   align-items: center;
   margin-top: 1.5rem;
+}
+
+.logo-row > p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  align-items: center;
+  margin: 0;
 }
 
 .logo-row img {

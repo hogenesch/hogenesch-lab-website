@@ -45,7 +45,7 @@ permalink: /resources.html
 <div class="resource-card">
 <h2>CircaDB</h2>
 <p>A searchable database of mammalian circadian gene-expression profiles built for bench and computational users.</p>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a> · <a href="http://circadb.org">Site</a></p>
+<p><a href="circadb.html">Overview</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a> · <a href="https://circadb.hogeneschlab.org/">Live database</a></p>
 </div>
 <div class="resource-card">
 <h2>Gene Atlas and Gene Wiki</h2>
@@ -64,7 +64,7 @@ permalink: /resources.html
 - Use JTK_CYCLE or MetaCycle for rhythmicity detection in structured time-series experiments.
 - Use PSEA when the question concerns phase-coordinated gene sets rather than individual genes.
 - Use CYCLOPS when transcriptomic samples are unordered in time.
-- Use CircaDB and the circadian atlas to explore tissue-specific rhythmic transcription.
+- Use CircaDB and the circadian atlas to explore tissue-specific rhythmic transcription and move quickly from gene names to rhythmic-expression profiles.
 
 <footer class="page-footer">
 <p>These resources are complemented by the reading list on <a href="publications.html">Selected Publications</a>.</p>
