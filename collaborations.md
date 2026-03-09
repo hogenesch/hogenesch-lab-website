@@ -28,8 +28,13 @@ permalink: /collaborations.html
 </header>
 
 <section class="theme-block">
+<div class="collab-heading">
+<img class="institution-logo" src="assets/images/scripps-logo.png" alt="Scripps Research logo" />
+<div>
 <p class="eyebrow">Collaboration 1</p>
 <h2>Andrew Su - Scripps Research</h2>
+</div>
+</div>
 <p>For more than two decades the Hogenesch and Su laboratories have collaborated to develop large-scale genomic resources and community knowledge bases. This work focused on making genomic information broadly accessible to researchers and integrating biological data with open scientific infrastructure. <a href="https://sulab.org/">Scripps Research - Su Lab</a>.</p>
 <ul class="theme-list">
 <li><strong>Gene Atlas</strong> - one of the first comprehensive maps of gene expression across mammalian tissues.</li>
@@ -41,16 +46,26 @@ permalink: /collaborations.html
 </section>
 
 <section class="theme-block">
+<div class="collab-heading">
+<img class="institution-logo" src="assets/images/uf-logo-horizontal.png" alt="University of Florida logo" />
+<div>
 <p class="eyebrow">Collaboration 2</p>
 <h2>Andrew Liu - University of Florida</h2>
+</div>
+</div>
 <p>The Hogenesch and Liu laboratories collaborate on experimental and systems approaches to circadian biology, integrating genome-scale functional genomics with cellular and organismal models. <a href="https://physiology.med.ufl.edu/profile/liu-andrew/">University of Florida - Andrew Liu</a>.</p>
 <p>Published work from this collaboration includes a whole-genome siRNA screen in U2OS cells to identify regulators of circadian rhythms and the development of cellular and genetic models for human circadian disorders. More recent published studies from this partnership extend circadian and sleep phenotyping into rare disease contexts, including Smith-Kingsmore syndrome.</p>
 <p>This collaboration connects large-scale discovery approaches with mechanistic studies of human disease.</p>
 </section>
 
 <section class="theme-block">
+<div class="collab-heading">
+<img class="institution-logo" src="assets/images/upenn-logo.svg" alt="University of Pennsylvania logo" />
+<div>
 <p class="eyebrow">Collaboration 3</p>
 <h2>Ron Anafi - University of Pennsylvania</h2>
+</div>
+</div>
 <p>The Hogenesch and Anafi laboratories collaborate on computational and statistical approaches to circadian genomics. This work has focused on developing algorithms that extract rhythmic biological signals from large-scale genomic datasets. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">University of Pennsylvania - Ron Anafi</a>.</p>
 <p>Key contributions include the development of the CYCLOPS algorithm for reconstructing circadian structure from unordered human transcriptomic datasets and subsequent methodological work built around large human data resources. These studies enabled the identification of circadian transcriptional rhythms in human datasets and helped establish computational approaches for studying circadian biology in human populations.</p>
 <p>This collaboration strengthened the statistical and translational foundation for human circadian genomics.</p>

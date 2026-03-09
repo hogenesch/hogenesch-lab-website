@@ -32,6 +32,8 @@ permalink: /people.html
 Research in the Hogenesch Lab spans circadian biology, systems genomics, public data
 resources, and circadian medicine.
 
+<p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&hl=en&oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
+
 ## Research Scientists
 
 <p class="placeholder">Current roster to be added.</p>

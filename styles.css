@@ -366,6 +366,24 @@ img {
   margin-bottom: 0.45rem;
 }
 
+.collab-heading {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.collab-heading .eyebrow {
+  margin-bottom: 0.45rem;
+}
+
+.institution-logo {
+  display: block;
+  width: auto;
+  max-width: 13rem;
+  max-height: 3.2rem;
+}
+
 .resource-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -415,6 +433,15 @@ img {
 
 .alumni-links a + a {
   margin-left: 0.7rem;
+}
+
+.profile-links {
+  margin-top: 0.8rem;
+  font: 600 0.92rem/1.5 var(--sans);
+}
+
+.profile-links a + a {
+  margin-left: 0.85rem;
 }
 
 .placeholder {
@@ -468,6 +495,11 @@ img {
   .button {
     width: 100%;
     text-align: center;
+  }
+
+  .collab-heading {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .name-grid {
