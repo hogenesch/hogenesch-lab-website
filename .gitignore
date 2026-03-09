@@ -1,0 +1,14 @@
+*
+!.gitignore
+!README.md
+!MIGRATION_NOTES.md
+!index.md
+!research.md
+!people.md
+!publications.md
+!resources.md
+!join.md
+!styles.css
+!assets/
+!assets/images/
+!assets/images/**
