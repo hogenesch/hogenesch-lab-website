@@ -1,0 +1,67 @@
+{
+  "verified_alumni": [
+    {
+      "name": "Julie Baggs",
+      "role_in_lab": "Research Associate",
+      "years_in_lab": null,
+      "current_position": "Scientific Director",
+      "current_institution": "Omega Bio-tek",
+      "website": "https://omegabiotek.com/about-us/our-team/",
+      "google_scholar": null
+    },
+    {
+      "name": "Ron Anafi",
+      "role_in_lab": "Postdoctoral Fellow",
+      "years_in_lab": null,
+      "current_position": "Associate Professor of Medicine",
+      "current_institution": "Perelman School of Medicine, University of Pennsylvania",
+      "website": "https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976",
+      "google_scholar": null
+    },
+    {
+      "name": "Jason DeBruyne",
+      "role_in_lab": "Postdoctoral Fellow",
+      "years_in_lab": null,
+      "current_position": "Professor and Program Director, PhD in Biomedical Sciences",
+      "current_institution": "Morehouse School of Medicine",
+      "website": "https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php",
+      "google_scholar": null
+    },
+    {
+      "name": "Michael E. Hughes",
+      "role_in_lab": "Postdoctoral Fellow",
+      "years_in_lab": null,
+      "current_position": "Assistant Professor of Medicine",
+      "current_institution": "Washington University in St. Louis School of Medicine",
+      "website": "https://medicine.wustl.edu/news/remembering-michael-hughes-phd/",
+      "google_scholar": null
+    },
+    {
+      "name": "Anthony Olarerin-George",
+      "role_in_lab": "PhD Student",
+      "years_in_lab": null,
+      "current_position": "Assistant Professor",
+      "current_institution": "Rutgers New Jersey Medical School",
+      "website": "https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php",
+      "google_scholar": null
+    },
+    {
+      "name": "Yool Lee",
+      "role_in_lab": "Former lab member",
+      "years_in_lab": null,
+      "current_position": "Assistant Professor",
+      "current_institution": "Washington State University Elson S. Floyd College of Medicine",
+      "website": "https://lee-lab.org/",
+      "google_scholar": null
+    },
+    {
+      "name": "Marc D. Ruben",
+      "role_in_lab": "Postdoctoral Researcher",
+      "years_in_lab": null,
+      "current_position": null,
+      "current_institution": "Cincinnati Children's Hospital Medical Center",
+      "website": "https://www.marcruben.net/",
+      "google_scholar": null
+    }
+  ]
+}

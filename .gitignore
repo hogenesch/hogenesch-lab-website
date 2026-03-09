@@ -22,6 +22,9 @@
 !collaborations.html
 !styles.css
 !page-template.html
+!data/
+data/*
+!data/alumni.json
 !assets/
 !assets/images/
 !assets/images/**

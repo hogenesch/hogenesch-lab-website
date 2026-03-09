@@ -7,6 +7,7 @@ Minimal GitHub Pages-ready site for the Hogenesch Lab.
 - `index.md` homepage
 - `research.md` research overview
 - `people.md` lab structure and current-page placeholders
+- `data/alumni.json` structured alumni records used to maintain the alumni section
 - `collaborations.md` long-term scientific partnerships and shared outputs
 - `publications.md` selected landmark papers
 - `resources.md` software, databases, and analysis resources
@@ -33,5 +34,6 @@ To regenerate pages locally:
 - Keep content in Markdown unless HTML is needed for simple layout blocks.
 - Prefer short, durable prose over institution-specific marketing copy.
 - Update `people.md` and `join.md` when roster, affiliations, or contact details change.
+- Update `data/alumni.json` and the alumni block in `people.md` together when verifying former lab members.
 - Add new images under `assets/images/` and reference them with relative paths.
 - Keep navigation limited to `Home`, `Research`, `People`, `Collaborations`, `Publications`, `Resources`, and `Join`.

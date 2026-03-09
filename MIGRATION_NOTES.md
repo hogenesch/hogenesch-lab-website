@@ -21,8 +21,8 @@ adding complexity.
 
 - Rewrote the homepage so the first screen clearly states who the lab is, what it studies,
   and why it matters.
-- Simplified the top navigation to six durable pages only: `Home`, `Research`, `People`,
-  `Publications`, `Resources`, and `Join`.
+- Simplified the top navigation to durable pages only: `Home`, `Research`, `People`,
+  `Collaborations`, `Publications`, `Resources`, and `Join`.
 - Reorganized the homepage around landmark contributions, research themes, a CircaDB feature,
   a people preview, and a recruiting block.
 - Rewrote the research page into a clearer narrative organized by molecular clock biology,
@@ -31,6 +31,8 @@ adding complexity.
   and PubMed rather than a full on-site bibliography.
 - Reorganized the people page into durable sections with placeholders where current roster
   information is missing.
+- Added a structured alumni data file and replaced the earlier name-only alumni list with
+  verified current or subsequent affiliations where publicly confirmable.
 - Refined the resources page around key public tools and datasets: JTK_CYCLE, PSEA,
   MetaCycle, CYCLOPS, CircaDB, and related atlases.
 - Kept a dedicated CircaDB landing page while removing it from the primary navigation.
@@ -45,6 +47,8 @@ adding complexity.
 - Nonpublic or speculative work is excluded.
 - Where current roster information is missing, placeholders are used instead of invented text.
 - Collaboration summaries are limited to established published work and public resources.
+- Alumni entries are limited to former lab members whose current or subsequent public
+  professional pages could be reasonably confirmed.
 
 ## Local sources used
 
