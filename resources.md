@@ -17,8 +17,8 @@ permalink: /resources.html
   <p class="eyebrow">Resources</p>
   <h1>Tools, databases, and analysis frameworks</h1>
   <p class="lede">
-    The lab's most durable field contributions are the methods and datasets other groups
-    can use directly. This page keeps the list compact and focused.
+    Public methods and databases associated with the lab's established contributions to
+    rhythmic biology.
   </p>
 </header>
 
@@ -29,13 +29,18 @@ permalink: /resources.html
     <p><a href="https://pubmed.ncbi.nlm.nih.gov/20876817/">Publication</a></p>
   </div>
   <div class="resource-card">
+    <h2>PSEA</h2>
+    <p>Phase Set Enrichment Analysis for interpreting biologically related gene sets in periodic datasets.</p>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/26955841/">Publication</a></p>
+  </div>
+  <div class="resource-card">
     <h2>MetaCycle</h2>
     <p>An integrated R package that combines ARSER, JTK_CYCLE, and Lomb-Scargle for periodicity analysis.</p>
     <p><a href="https://pubmed.ncbi.nlm.nih.gov/27378304/">Publication</a> · <a href="https://github.com/gangwug/MetaCycle">GitHub</a></p>
   </div>
   <div class="resource-card">
     <h2>CYCLOPS</h2>
-    <p>A machine-learning framework for reconstructing temporal order and circadian phase from unordered samples.</p>
+    <p>A framework for reconstructing temporal order in unordered human transcriptomic data.</p>
     <p><a href="https://pubmed.ncbi.nlm.nih.gov/28439010/">Publication</a></p>
   </div>
   <div class="resource-card">
@@ -49,18 +54,18 @@ permalink: /resources.html
     <p><a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Gene Atlas</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/19755503/">Gene Wiki</a></p>
   </div>
   <div class="resource-card">
-    <h2>SkinPhaser and Oslops</h2>
-    <p>Skin-phase biomarker validation and population-ordering workflows that support human circadian medicine studies.</p>
-    <p><a href="https://github.com/gangwug/SkinPhaser">SkinPhaser</a> · <a href="https://github.com/gangwug/Oslops">Oslops</a></p>
+    <h2>Circadian Atlas</h2>
+    <p>The multi-organ mouse circadian atlas that established the breadth and tissue specificity of rhythmic transcription.</p>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/25349387/">Publication</a></p>
   </div>
 </div>
 
 ## Notes on Use
 
 - Use JTK_CYCLE or MetaCycle for rhythmicity detection in structured time-series experiments.
-- Use CYCLOPS and related ordering workflows when sample time is missing or incomplete.
-- Use CircaDB and atlas papers to identify tissue-specific rhythmic transcripts and phases.
-- Use skin-based biomarker resources when the goal is translational phase estimation in humans.
+- Use PSEA when the question concerns phase-coordinated gene sets rather than individual genes.
+- Use CYCLOPS when transcriptomic samples are unordered in time.
+- Use CircaDB and the circadian atlas to explore tissue-specific rhythmic transcription.
 
 <footer class="page-footer">
   <p>These resources are complemented by the reading list on <a href="publications.html">Selected Publications</a>.</p>

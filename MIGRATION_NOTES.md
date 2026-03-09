@@ -23,7 +23,6 @@ a literal page-for-page conversion of a legacy site.
 - `hogenesch_cchmc_scripps_template/make_hogenesch_cchmc_scripps_template.py`
 - `hogenesch_cchmc_scripps_template/assets/cchmc_logo.png`
 - `hogenesch_cchmc_scripps_template/assets/scripps_logo.png`
-- `figures/fig1_concept/outputs/figure1_circadian_amplitude_concept.svg`
 - `Oslops_ref/README.md`
 - `preOslops/README.md`
 
@@ -34,8 +33,8 @@ a literal page-for-page conversion of a legacy site.
 - The people page preserves durable structure and named trainees/alumni recoverable from local
   materials instead of asserting a fully current roster.
 - The publications page is a representative reading list, not a complete CV bibliography.
-- The resources page preserves key tools and databases repeatedly referenced in local materials:
-  JTK_CYCLE, MetaCycle, CYCLOPS, CircaDB, Gene Atlas, Gene Wiki, SkinPhaser, and Oslops.
+- The resources page preserves key published tools and databases repeatedly referenced in local
+  materials: JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CircaDB, Gene Atlas, and Gene Wiki.
 
 ## Repository hygiene
 
@@ -49,4 +48,4 @@ a literal page-for-page conversion of a legacy site.
 - Review `people.md` against any unavailable legacy members page if a current roster is needed.
 - Decide whether both institutional logos should remain public on the site.
 - If a true legacy site export exists elsewhere, compare it against this reconstruction and pull
-  over any missing news, member bios, or archived photos.
+  over any missing public-facing historical content.

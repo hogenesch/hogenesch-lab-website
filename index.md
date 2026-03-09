@@ -14,50 +14,54 @@ permalink: /index.html
 </nav>
 
 <header class="hero">
-  <p class="eyebrow">Circadian Biology • Systems Genomics • Circadian Medicine</p>
+  <p class="eyebrow">Published contributions in circadian biology, genomics, and medicine</p>
   <h1>Hogenesch Lab</h1>
   <p class="lede">
-    The lab studies how biological time organizes physiology, behavior, and disease.
-    Our work connects core clock mechanisms to genome-scale regulation and clinical
-    questions, with an emphasis on durable methods, open resources, and translational
-    relevance.
+    The lab is known for foundational work on the mammalian circadian clock, genome-scale
+    analysis of rhythmic transcription, and widely used computational tools and public
+    resources for rhythmic biology.
   </p>
-  <div class="callout-grid">
-    <div class="callout">
-      <h2>Circadian Biology</h2>
-      <p>Mechanisms of the mammalian clock in cells, tissues, and whole organisms.</p>
-    </div>
-    <div class="callout">
-      <h2>Systems Genomics</h2>
-      <p>Transcriptome-scale analysis, functional screens, and computational rhythm discovery.</p>
-    </div>
-    <div class="callout">
-      <h2>Circadian Medicine</h2>
-      <p>Human timing biomarkers, population studies, and chronotherapy-oriented translation.</p>
-    </div>
-  </div>
 </header>
 
 ## Overview
 
-The Hogenesch Lab works at the intersection of experimental chronobiology, computational
-genomics, and translational medicine. Across academia and industry, the lab has built a
-research program focused on how genes and environment shape daily rhythms in behavior,
-physiology, and disease.
+The Hogenesch Lab studies how the circadian clock organizes transcription and physiology
+across cells, tissues, and organisms. The lab's most visible contributions include discovery
+and characterization of BMAL1 and related clock components, functional genomics of circadian
+transcription, the mammalian circadian transcriptome, the circadian gene expression atlas
+across mouse organs, and public tools and databases used throughout the field.
 
-Representative contributions include foundational work on mammalian clock components,
-genome-scale analysis of circadian output, and community resources such as JTK_CYCLE,
-MetaCycle, CYCLOPS, and CircaDB. The lab also helped define how population-level human
-sampling can reveal clinically useful timing information from tissues such as skin.
+Representative public resources include JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CircaDB.
+The lab has also contributed to human circadian transcriptomics and broader discussions of
+circadian medicine and chronotherapy through public datasets and published analyses.
 
-![Circadian amplitude concept](assets/images/circadian-amplitude-concept.svg)
+## Research Themes
 
-## Working Style
+<div class="callout-grid">
+  <div class="callout">
+    <h2>Molecular Mechanisms of the Circadian Clock</h2>
+    <p>Core clock components, transcriptional feedback structure, and molecular regulation of rhythmic physiology.</p>
+  </div>
+  <div class="callout">
+    <h2>Systems Circadian Biology and Genome-Scale Datasets</h2>
+    <p>Transcriptome-wide analyses, organ-level atlases, and large public datasets defining rhythmic transcription.</p>
+  </div>
+  <div class="callout">
+    <h2>Computational Tools for Rhythmic Biology</h2>
+    <p>Statistical and computational methods including JTK_CYCLE, PSEA, MetaCycle, and CYCLOPS.</p>
+  </div>
+  <div class="callout">
+    <h2>Circadian Medicine and Chronotherapy</h2>
+    <p>Published work linking timing biology to human transcriptomics, physiology, and therapeutic timing.</p>
+  </div>
+</div>
 
-- Mechanism first: define the clock, its inputs, and its outputs with rigorous experiments.
-- Genome scale by default: use broad molecular profiling and functional genomics to find new biology.
-- Translation with intent: prioritize questions that can influence biomarkers, timing, and therapy.
-- Build for reuse: release methods, databases, and analysis frameworks that other labs can adopt.
+## Selected Impact Areas
+
+- Discovery and characterization of BMAL1 and related mammalian clock components.
+- Functional genomics approaches that defined regulators and outputs of the clock.
+- The mammalian circadian transcriptome and the mouse multi-organ circadian atlas.
+- Public databases and methods that remain widely used in rhythmic biology.
 
 ## Quick Paths
 
@@ -68,11 +72,11 @@ sampling can reveal clinically useful timing information from tissues such as sk
   </a>
   <a class="card-link" href="publications.html">
     <strong>Selected Publications</strong>
-    <span>Representative papers spanning core mechanisms, atlases, and medicine.</span>
+    <span>Key papers plus a direct link to the full publication list on Google Scholar.</span>
   </a>
   <a class="card-link" href="resources.html">
     <strong>Software and Data</strong>
-    <span>JTK_CYCLE, MetaCycle, CYCLOPS, CircaDB, atlases, and related tools.</span>
+    <span>JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CircaDB, and the circadian atlas.</span>
   </a>
   <a class="card-link" href="people.html">
     <strong>People</strong>

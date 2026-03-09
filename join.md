@@ -26,7 +26,7 @@ permalink: /join.html
 
 - Experimental biologists interested in circadian mechanisms, physiology, and disease.
 - Computational scientists working on transcriptomics, machine learning, and rhythm analysis.
-- Clinician-scientists interested in sleep, biomarkers, chronotherapy, or human time-of-day effects.
+- Clinician-scientists interested in sleep, circadian medicine, chronotherapy, or human time-of-day effects.
 - Trainees who value shared tools, reproducible analysis, and cross-disciplinary collaboration.
 
 ## What to Send
