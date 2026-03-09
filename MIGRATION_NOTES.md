@@ -36,12 +36,15 @@ adding complexity.
 - Kept a dedicated CircaDB landing page while removing it from the primary navigation.
 - Replaced the earlier color system with a restrained white, near-black, deep-blue palette
   and updated the typography stacks for a more modern academic presentation.
+- Added a dedicated collaborations page and promoted it into the primary navigation after
+  `People`.
 
 ## Content policy enforced in V2
 
 - Only established, published work is referenced.
 - Nonpublic or speculative work is excluded.
 - Where current roster information is missing, placeholders are used instead of invented text.
+- Collaboration summaries are limited to established published work and public resources.
 
 ## Local sources used
 

@@ -7,6 +7,7 @@ Minimal GitHub Pages-ready site for the Hogenesch Lab.
 - `index.md` homepage
 - `research.md` research overview
 - `people.md` lab structure and current-page placeholders
+- `collaborations.md` long-term scientific partnerships and shared outputs
 - `publications.md` selected landmark papers
 - `resources.md` software, databases, and analysis resources
 - `join.md` contact and recruiting page
@@ -33,4 +34,4 @@ To regenerate pages locally:
 - Prefer short, durable prose over institution-specific marketing copy.
 - Update `people.md` and `join.md` when roster, affiliations, or contact details change.
 - Add new images under `assets/images/` and reference them with relative paths.
-- Keep navigation limited to `Home`, `Research`, `People`, `Publications`, `Resources`, and `Join`.
+- Keep navigation limited to `Home`, `Research`, `People`, `Collaborations`, `Publications`, `Resources`, and `Join`.

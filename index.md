@@ -9,6 +9,7 @@ permalink: /index.html
   <a class="active" href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
+  <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>
   <a href="join.html">Join</a>
