@@ -3,74 +3,65 @@ title: People
 permalink: /people.html
 ---
 
-<nav class="site-nav">
-  <a class="brand" href="index.html">Hogenesch Lab</a>
+<div class="masthead">
+<a class="site-title" href="index.html">Hogenesch Lab</a>
+<nav class="site-nav" aria-label="Primary">
+  <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a class="active" href="people.html">People</a>
   <a href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>
   <a href="join.html">Join</a>
 </nav>
+</div>
 
 <header class="page-header">
   <p class="eyebrow">People</p>
-  <h1>Experimental, computational, and translational chronobiology</h1>
+  <h1>People</h1>
   <p class="lede">
-    The lab brings together genome biologists, physiologists, computational scientists,
-    and clinician-scientists around questions of biological time.
+    The lab combines molecular biology, systems genomics, computational method development,
+    and translational circadian science.
   </p>
 </header>
 
-## Leadership
+## Principal Investigator
 
 ### John B. Hogenesch, PhD
 
-John Hogenesch leads the lab's work in circadian biology, genomics, and translational
-systems medicine. Local source materials describe a research program spanning fundamental
-clock mechanisms, genome-scale analysis, public databases, computational methods, and
-clinical questions in circadian medicine.
+Research in the Hogenesch Lab spans circadian biology, systems genomics, public data
+resources, and circadian medicine.
 
-## Lab Structure
+## Research Scientists
 
-The legacy lab materials consistently point to a shared structure:
+<p class="placeholder">Current roster to be added.</p>
 
-- A principal investigator anchored in circadian biology and genomics.
-- Experimental researchers studying mechanism in mammalian systems.
-- Computational scientists developing methods, atlases, and analysis tools.
-- Clinician-scientists and collaborators translating timing biology into human studies.
+## Postdoctoral Fellows
 
-## Selected Trainees and Alumni
+<p class="placeholder">Current roster to be added.</p>
 
-The following names are recoverable from local lab documents and letters as trainees,
-alumni, or closely mentored investigators associated with the Hogenesch research program:
+## Students
 
-- Ron Anafi
-- Sumit Chanda
-- Jason DeBruyne
-- Michael Hughes
-- Yool Lee
-- Anthony Olarerin-George
-- Satchin Panda
-- Marc Ruben
-- David Smith
-- Andrew Su
-- Rochelle Witt
-- Ray Zhang
+<p class="placeholder">Current roster to be added.</p>
 
-## Research Community
+## Alumni
 
-The lab's training model emphasizes:
+Selected alumni and mentored investigators recoverable from local source materials:
 
-- Shared ownership of scientific problems.
-- Strong quantitative and experimental fluency.
-- Reusable tools and open scientific resources.
-- Cross-disciplinary collaboration between basic and translational investigators.
-
-<div class="logo-row">
-<img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's logo">
-<img src="assets/images/scripps-logo.png" alt="Scripps Research logo">
-</div>
+<ul class="name-grid">
+<li>Ron Anafi</li>
+<li>Sumit Chanda</li>
+<li>Jason DeBruyne</li>
+<li>Michael Hughes</li>
+<li>Yool Lee</li>
+<li>Anthony Olarerin-George</li>
+<li>Satchin Panda</li>
+<li>Marc Ruben</li>
+<li>David Smith</li>
+<li>Andrew Su</li>
+<li>Rochelle Witt</li>
+<li>Ray Zhang</li>
+</ul>
 
 <footer class="page-footer">
-<p>For opportunities and contact details, visit <a href="join.html">Join</a>.</p>
+<p>For current opportunities and contact details, visit <a href="join.html">Join</a>.</p>
 </footer>

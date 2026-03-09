@@ -6,28 +6,31 @@ Minimal GitHub Pages-ready site for the Hogenesch Lab.
 
 - `index.md` homepage
 - `research.md` research overview
-- `people.md` lab structure and selected trainees/alumni
-- `publications.md` representative reading list
+- `people.md` lab structure and current-page placeholders
+- `publications.md` selected landmark papers
 - `resources.md` software, databases, and analysis resources
 - `join.md` contact and recruiting page
+- `circadb.md` landing page for the CircaDB resource
+- `page-template.html` shared Pandoc template
 - `styles.css` shared site styling
 - `assets/images/` logos and scientific figure assets
 - `MIGRATION_NOTES.md` reconstruction notes and manual review items
 
 ## Deployment
 
-The Markdown pages include Jekyll front matter so GitHub Pages can render them directly.
-No framework or build step is required.
+The published site is plain static HTML served by GitHub Pages with `.nojekyll`.
+Markdown pages are the editable source; matching `.html` files are generated before publish.
 
-To publish on GitHub Pages:
+To regenerate pages locally:
 
-1. Push the repository to GitHub.
-2. Enable Pages for the `main` branch at the repository root.
-3. The site will render from the Markdown pages and `styles.css`.
+1. Edit the relevant `.md` file.
+2. Run `pandoc <page>.md -f markdown+yaml_metadata_block+raw_html -t html5 --template=page-template.html --standalone -o <page>.html`.
+3. Push the updated `.md`, `.html`, assets, and `styles.css`.
 
 ## Maintenance
 
 - Keep content in Markdown unless HTML is needed for simple layout blocks.
-- Prefer short, durable prose over institution-specific web copy.
+- Prefer short, durable prose over institution-specific marketing copy.
 - Update `people.md` and `join.md` when roster, affiliations, or contact details change.
 - Add new images under `assets/images/` and reference them with relative paths.
+- Keep navigation limited to `Home`, `Research`, `People`, `Publications`, `Resources`, and `Join`.

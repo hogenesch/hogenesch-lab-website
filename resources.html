@@ -8,33 +8,36 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<nav class="site-nav">
-<a class="brand" href="index.html">Hogenesch Lab</a>
-<a href="research.html">Research</a> <a href="people.html">People</a>
+<div class="masthead">
+<a class="site-title" href="index.html">Hogenesch Lab</a>
+<nav class="site-nav" aria-label="Primary">
+<a href="index.html">Home</a> <a href="research.html">Research</a>
+<a href="people.html">People</a>
 <a href="publications.html">Publications</a>
 <a class="active" href="resources.html">Resources</a>
 <a href="join.html">Join</a>
 </nav>
+</div>
 <header class="page-header">
 <p class="eyebrow">
 Resources
 </p>
 <h1>
-Tools, databases, and analysis frameworks
+Methods, software, and public datasets
 </h1>
 <p class="lede">
-Public methods and databases associated with the lab’s established
-contributions to rhythmic biology.
+The lab’s public-facing tools and datasets make rhythmic biology easier
+to analyze, compare, and reuse.
 </p>
 </header>
+<h2 id="core-lab-resources">Core Lab Resources</h2>
 <div class="resource-grid">
 <div class="resource-card">
 <h2>
 JTK_CYCLE
 </h2>
 <p>
-A widely used nonparametric method for detecting rhythmic signals in
-genome-scale time-series data.
+Nonparametric rhythmicity detection for genome-scale time-series data.
 </p>
 <p>
 <a href="https://pubmed.ncbi.nlm.nih.gov/20876817/">Publication</a>
@@ -45,8 +48,8 @@ genome-scale time-series data.
 PSEA
 </h2>
 <p>
-Phase Set Enrichment Analysis for interpreting biologically related gene
-sets in periodic datasets.
+Phase Set Enrichment Analysis for interpreting rhythmic pathways and
+coordinated gene sets.
 </p>
 <p>
 <a href="https://pubmed.ncbi.nlm.nih.gov/26955841/">Publication</a>
@@ -57,11 +60,11 @@ sets in periodic datasets.
 MetaCycle
 </h2>
 <p>
-An integrated R package that combines ARSER, JTK_CYCLE, and Lomb-Scargle
-for periodicity analysis.
+Integrated rhythmicity analysis that combines complementary periodicity
+algorithms.
 </p>
 <p>
-<a href="https://pubmed.ncbi.nlm.nih.gov/27378304/">Publication</a> ·
+<a href="https://pubmed.ncbi.nlm.nih.gov/27378304/">Publication</a> •
 <a href="https://github.com/gangwug/MetaCycle">GitHub</a>
 </p>
 </div>
@@ -70,40 +73,31 @@ for periodicity analysis.
 CYCLOPS
 </h2>
 <p>
-A framework for reconstructing temporal order in unordered human
-transcriptomic data.
+Computational recovery of temporal order in unordered human
+transcriptomic datasets.
 </p>
 <p>
 <a href="https://pubmed.ncbi.nlm.nih.gov/28439010/">Publication</a>
 </p>
 </div>
-<div class="resource-card">
+<div class="resource-card resource-card-featured">
 <h2>
 CircaDB
 </h2>
 <p>
-A searchable database of mammalian circadian gene-expression profiles
-built for bench and computational users.
+Searchable mammalian circadian gene-expression profiles for bench and
+computational investigators.
 </p>
 <p>
-<a href="circadb.html">Overview</a> ·
-<a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a> ·
+<a href="circadb.html">Overview</a> •
+<a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a> •
 <a href="https://circadb.hogeneschlab.org/">Live database</a>
 </p>
 </div>
-<div class="resource-card">
-<h2>
-Gene Atlas and Gene Wiki
-</h2>
-<p>
-Large-scale expression mapping and community annotation resources that
-broaden functional genomics utility.
-</p>
-<p>
-<a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Gene Atlas</a> ·
-<a href="https://pubmed.ncbi.nlm.nih.gov/19755503/">Gene Wiki</a>
-</p>
 </div>
+<h2 id="public-datasets-and-reference-resources">Public Datasets and
+Reference Resources</h2>
+<div class="resource-grid">
 <div class="resource-card">
 <h2>
 Circadian Atlas
@@ -116,22 +110,47 @@ tissue specificity of rhythmic transcription.
 <a href="https://pubmed.ncbi.nlm.nih.gov/25349387/">Publication</a>
 </p>
 </div>
+<div class="resource-card">
+<h2>
+Human Circadian Resource
+</h2>
+<p>
+The published human tissue resource built from CYCLOPS-ordered
+transcriptomic data with applications to circadian medicine.
+</p>
+<p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30209245/">Publication</a>
+</p>
 </div>
-<h2 id="notes-on-use">Notes on Use</h2>
+<div class="resource-card">
+<h2>
+Gene Atlas and Gene Wiki
+</h2>
+<p>
+Earlier large-scale expression and annotation resources that broadened
+functional genomics utility.
+</p>
+<p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Gene Atlas</a> •
+<a href="https://pubmed.ncbi.nlm.nih.gov/19755503/">Gene Wiki</a>
+</p>
+</div>
+</div>
+<h2 id="practical-use">Practical Use</h2>
 <ul>
 <li>Use JTK_CYCLE or MetaCycle for rhythmicity detection in structured
 time-series experiments.</li>
-<li>Use PSEA when the question concerns phase-coordinated gene sets
-rather than individual genes.</li>
-<li>Use CYCLOPS when transcriptomic samples are unordered in time.</li>
-<li>Use CircaDB and the circadian atlas to explore tissue-specific
-rhythmic transcription and move quickly from gene names to
-rhythmic-expression profiles.</li>
+<li>Use PSEA for questions about pathway timing rather than isolated
+genes.</li>
+<li>Use CYCLOPS when samples lack collection times but still preserve
+circadian structure.</li>
+<li>Use CircaDB and the circadian atlas to move from a gene or tissue to
+a published rhythmic-expression context.</li>
 </ul>
 <footer class="page-footer">
 <p>
-These resources are complemented by the reading list on
-<a href="publications.html">Selected Publications</a>.
+This page highlights stable public resources rather than news,
+announcements, or software release notes.
 </p>
 </footer>
 </body>

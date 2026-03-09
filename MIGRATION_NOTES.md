@@ -1,18 +1,47 @@
 # Migration Notes
 
-## What changed
+## Baseline migration
 
-This repository was converted into a minimal static site designed for GitHub Pages and
-long-term maintenance. The new site uses a small set of Markdown pages plus one shared
-stylesheet and a narrow `assets/images/` directory.
+This repository was first converted into a minimal static site for GitHub Pages using a small
+set of Markdown pages, generated HTML files, one shared stylesheet, and a narrow
+`assets/images/` directory.
 
 ## Important constraint
 
 No actual WordPress tree or clear legacy website mirror was present in the current checkout.
 Searches of the working directory did not find `wp-content`, `wp-admin`, `wp-includes`,
-`wp-config.php`, exported XML, or other recognizable WordPress artifacts. Because of that,
-this migration is a reconstruction from local Hogenesch-related source materials rather than
-a literal page-for-page conversion of a legacy site.
+`wp-config.php`, exported XML, or other recognizable WordPress artifacts. The site therefore
+remains a reconstruction from local Hogenesch-related source materials rather than a literal
+page-for-page conversion.
+
+## V2 refinement summary
+
+The V2 pass focused on structure, clarity, navigation, and academic presentation rather than
+adding complexity.
+
+- Rewrote the homepage so the first screen clearly states who the lab is, what it studies,
+  and why it matters.
+- Simplified the top navigation to six durable pages only: `Home`, `Research`, `People`,
+  `Publications`, `Resources`, and `Join`.
+- Reorganized the homepage around landmark contributions, research themes, a CircaDB feature,
+  a people preview, and a recruiting block.
+- Rewrote the research page into a clearer narrative organized by molecular clock biology,
+  systems circadian biology, computational methods, and circadian medicine.
+- Reworked the publications page into grouped landmark papers with links to Google Scholar
+  and PubMed rather than a full on-site bibliography.
+- Reorganized the people page into durable sections with placeholders where current roster
+  information is missing.
+- Refined the resources page around key public tools and datasets: JTK_CYCLE, PSEA,
+  MetaCycle, CYCLOPS, CircaDB, and related atlases.
+- Kept a dedicated CircaDB landing page while removing it from the primary navigation.
+- Replaced the earlier color system with a restrained white, near-black, deep-blue palette
+  and updated the typography stacks for a more modern academic presentation.
+
+## Content policy enforced in V2
+
+- Only established, published work is referenced.
+- Nonpublic or speculative work is excluded.
+- Where current roster information is missing, placeholders are used instead of invented text.
 
 ## Local sources used
 
@@ -25,27 +54,12 @@ a literal page-for-page conversion of a legacy site.
 - `hogenesch_cchmc_scripps_template/assets/scripps_logo.png`
 - `Oslops_ref/README.md`
 - `preOslops/README.md`
-
-## Content decisions
-
-- The homepage was rewritten around three stable themes: circadian biology, systems genomics,
-  and circadian medicine.
-- The people page preserves durable structure and named trainees/alumni recoverable from local
-  materials instead of asserting a fully current roster.
-- The publications page is a representative reading list, not a complete CV bibliography.
-- The resources page preserves key published tools and databases repeatedly referenced in local
-  materials: JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CircaDB, Gene Atlas, and Gene Wiki.
-
-## Repository hygiene
-
-- Added a root `.gitignore` that ignores the unrelated working directories already present in
-  this workspace so the migration commit only captures the site.
-- Replaced the prior root `README.md` with site-specific documentation.
+- Open-access published figures from PMC for Hughes et al. 2009 and Pizarro et al. 2013
 
 ## Manual review items
 
 - Confirm whether `john.hogenesch@cchmc.org` is still the desired public contact address.
-- Review `people.md` against any unavailable legacy members page if a current roster is needed.
-- Decide whether both institutional logos should remain public on the site.
-- If a true legacy site export exists elsewhere, compare it against this reconstruction and pull
-  over any missing public-facing historical content.
+- Replace the placeholders on `people.md` with a current roster when available.
+- Decide whether the homepage should keep both institutional logos in the hero area.
+- If a true legacy site export is found later, compare it against this reconstruction and
+  pull over any missing public-facing historical content.

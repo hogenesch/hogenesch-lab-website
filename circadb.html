@@ -8,24 +8,27 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<nav class="site-nav">
-<a class="brand" href="index.html">Hogenesch Lab</a>
-<a href="research.html">Research</a> <a href="people.html">People</a>
+<div class="masthead">
+<a class="site-title" href="index.html">Hogenesch Lab</a>
+<nav class="site-nav" aria-label="Primary">
+<a href="index.html">Home</a> <a href="research.html">Research</a>
+<a href="people.html">People</a>
 <a href="publications.html">Publications</a>
-<a class="active" href="circadb.html">CircaDB</a>
-<a href="resources.html">Resources</a> <a href="join.html">Join</a>
+<a class="active" href="resources.html">Resources</a>
+<a href="join.html">Join</a>
 </nav>
+</div>
 <header class="page-header">
 <p class="eyebrow">
-Database Resource
+Featured Resource
 </p>
 <h1>
 CircaDB
 </h1>
 <p class="lede">
-CircaDB is the lab’s searchable database of mammalian circadian
-gene-expression profiles, designed to make rhythmic datasets explorable
-by gene, tissue, phase, and supporting statistics.
+CircaDB is a searchable database of mammalian circadian gene-expression
+profiles built to make published rhythmic datasets accessible by gene,
+tissue, phase, and supporting statistics.
 </p>
 </header>
 <div class="callout">
@@ -37,64 +40,53 @@ Visit CircaDB
 circadb.hogeneschlab.org</a>.
 </p>
 <p>
-<a href="https://circadb.hogeneschlab.org/about/">Read the CircaDB
-overview</a> ·
-<a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a> •
+<a href="resources.html">Resources</a>
 </p>
 </div>
-<div class="hero-visuals">
-<figure class="hero-visual">
+<h2 id="what-the-database-provides">What the Database Provides</h2>
+<ul>
+<li>Searchable rhythmic expression profiles across public mammalian
+datasets.</li>
+<li>Gene-centric views that combine annotation, rhythmicity statistics,
+and expression traces.</li>
+<li>A practical bridge between published circadian datasets and
+day-to-day biological questions.</li>
+</ul>
+<h2 id="interface-preview">Interface Preview</h2>
+<div class="resource-grid">
+<figure class="feature-figure">
 <img src="assets/images/circadb-query-2013.jpg" alt="Published CircaDB query interface showing filters for dataset, phase, and significance." />
 <figcaption>
-Query interface for moving from a gene or probe to rhythmic datasets,
-phase filters, and circadian statistics.
+Query interface for moving from a gene or probe to datasets, phase
+filters, and circadian statistics.
 </figcaption>
 <p class="visual-source">
-From Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access
-figure (CC BY-NC 3.0).
+Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access figure
+(CC BY-NC 3.0).
 </p>
 </figure>
-<figure class="hero-visual">
-<img src="assets/images/circadb-report-2013.jpg" alt="Published CircaDB expression-profile report showing rhythmic expression and circadian algorithm results." />
+<figure class="feature-figure">
+<img src="assets/images/circadb-report-2013.jpg" alt="Published CircaDB expression report showing rhythmic expression and algorithm results." />
 <figcaption>
-Expression-profile report view, combining annotation, algorithm outputs,
-and a compact rhythm visualization.
+Expression-profile report view combining annotations, algorithm outputs,
+and compact rhythmic expression traces.
 </figcaption>
 <p class="visual-source">
-From Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access
-figure (CC BY-NC 3.0).
+Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access figure
+(CC BY-NC 3.0).
 </p>
 </figure>
 </div>
-<h2 id="what-circadb-provides">What CircaDB Provides</h2>
-<ul>
-<li>Searchable circadian expression profiles across public mammalian
-datasets.</li>
-<li>Gene-centric views that bring together annotations, rhythmicity
-statistics, and expression traces.</li>
-<li>Fast access to tissue-specific rhythmic patterns without rebuilding
-a local analysis workflow.</li>
-</ul>
-<h2 id="why-it-mattered">Why It Mattered</h2>
-<p>CircaDB helped make circadian transcriptomics usable outside
-specialized computational pipelines. It gave experimental and
-computational investigators a common entry point for browsing rhythmic
-genes, comparing tissues, and moving between gene-level intuition and
-genome-scale datasets.</p>
-<p>The database fits the broader lab emphasis on systems circadian
-biology: not just identifying core clock components, but making large
-rhythmic datasets interpretable and reusable.</p>
-<h2 id="related-work">Related Work</h2>
-<ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">CircaDB
-publication</a></li>
-<li><a href="resources.html">Resources overview</a></li>
-<li><a href="publications.html">Selected publications</a></li>
-</ul>
+<h2 id="why-it-matters">Why It Matters</h2>
+<p>CircaDB helped make circadian transcriptomics easier to explore
+outside specialized analysis pipelines. It remains one of the lab’s
+clearest examples of building reusable public infrastructure for
+rhythmic biology.</p>
 <footer class="page-footer">
 <p>
-CircaDB remains one of the lab’s most visible public-facing resources
-for rhythmic biology.
+CircaDB is one part of a broader lab portfolio of public resources,
+algorithms, and circadian datasets.
 </p>
 </footer>
 </body>
