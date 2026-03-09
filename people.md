@@ -48,91 +48,58 @@ resources, and circadian medicine.
 
 ## Alumni
 
-Selected alumni, mentored scientists, and longtime collaborators with verified current or
-subsequent professional pages.
+<p class="alumni-intro">The lab's alumni span GNF / Novartis, Scripps Research, Penn Medicine, and Cincinnati Children's Hospital. This section is intentionally inclusive and aims to recognize people who helped build the lab across its different institutional phases, including postdocs, graduate students, research scientists, lab managers, technicians, and closely associated alumni.</p>
 
-<div class="resource-grid alumni-grid">
-<div class="resource-card alumni-card">
-<h3>Andrew Su</h3>
-<p class="alumni-role">Graduate Student</p>
-<p class="alumni-current">Professor, Scripps Research</p>
-<p class="alumni-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Anthony Olarerin-George</h3>
-<p class="alumni-role">PhD Student</p>
-<p class="alumni-current">Assistant Professor, Rutgers New Jersey Medical School</p>
-<p class="alumni-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>David F. Smith</h3>
-<p class="alumni-role">Longtime clinical collaborator</p>
-<p class="alumni-current">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery, Cincinnati Children's Hospital Medical Center</p>
-<p class="alumni-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Jason DeBruyne</h3>
-<p class="alumni-role">Postdoctoral Fellow</p>
-<p class="alumni-current">Professor and Program Director, PhD in Biomedical Sciences, Morehouse School of Medicine</p>
-<p class="alumni-links"><a href="https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Julie Baggs</h3>
-<p class="alumni-role">Research Associate</p>
-<p class="alumni-current">Scientific Director, Omega Bio-tek</p>
-<p class="alumni-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Marc D. Ruben</h3>
-<p class="alumni-role">Postdoctoral Researcher</p>
-<p class="alumni-current">Assistant Professor, Cincinnati Children's Hospital Medical Center</p>
-<p class="alumni-links"><a href="https://www.marcruben.net/">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Michael E. Hughes</h3>
-<p class="alumni-role">Postdoctoral Fellow</p>
-<p class="alumni-current">In memoriam; formerly Assistant Professor of Medicine, Washington University in St. Louis School of Medicine</p>
-<p class="alumni-links"><a href="https://medicine.wustl.edu/news/remembering-michael-hughes-phd/">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Ray Zhang</h3>
-<p class="alumni-role">Graduate Student</p>
-<p class="alumni-current">Assistant Professor, Department of Pathology, UT Southwestern Medical Center</p>
-<p class="alumni-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Rochelle M. Witt</h3>
-<p class="alumni-role">Mentored Scientist</p>
-<p class="alumni-current">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology, Cincinnati Children's Hospital Medical Center</p>
-<p class="alumni-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Ron Anafi</h3>
-<p class="alumni-role">Postdoctoral Fellow</p>
-<p class="alumni-current">Associate Professor of Medicine, Perelman School of Medicine, University of Pennsylvania</p>
-<p class="alumni-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Satchin Panda</h3>
-<p class="alumni-role">Former lab member</p>
-<p class="alumni-current">Professor, Regulatory Biology Laboratory, Salk Institute for Biological Studies</p>
-<p class="alumni-links"><a href="https://panda.salk.edu/people/">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Sumit Chanda</h3>
-<p class="alumni-role">Former lab member</p>
-<p class="alumni-current">Professor, Department of Immunology and Microbiology, Scripps Research</p>
-<p class="alumni-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></p>
-</div>
-<div class="resource-card alumni-card">
-<h3>Yool Lee</h3>
-<p class="alumni-role">Former lab member</p>
-<p class="alumni-current">Assistant Professor, Department of Translational Medicine and Physiology, Washington State University Elson S. Floyd College of Medicine</p>
-<p class="alumni-links"><a href="https://lee-lab.org/">Website</a></p>
-</div>
-</div>
+<section class="alumni-group">
+<h3>Postdoctoral Fellows</h3>
+<ul class="alumni-list">
+<li><strong>Ron Anafi</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Associate Professor of Medicine, Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
+<li><strong>Jason DeBruyne</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Professor and Program Director, PhD in Biomedical Sciences, Morehouse School of Medicine</span><span class="alumni-entry-links"><a href="https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php">Website</a></span></li>
+<li><strong>Michael E. Hughes</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">In memoriam; formerly Assistant Professor of Medicine, Washington University in St. Louis School of Medicine</span><span class="alumni-entry-links"><a href="https://medicine.wustl.edu/news/remembering-michael-hughes-phd/">Website</a></span></li>
+<li><strong>Marc D. Ruben</strong><span class="alumni-meta">Cincinnati Children's Hospital</span><span class="alumni-current-line">Assistant Professor, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.marcruben.net/">Website</a></span></li>
+<li><strong>Satchin Panda</strong><span class="alumni-meta">Scripps Research (Florida)</span><span class="alumni-current-line">Professor, Regulatory Biology Laboratory, Salk Institute for Biological Studies</span><span class="alumni-entry-links"><a href="https://panda.salk.edu/people/">Website</a></span></li>
+<li><strong>Sumit Chanda</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology, Scripps Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
+<li><strong>Yool Lee</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Translational Medicine and Physiology, Washington State University Elson S. Floyd College of Medicine</span><span class="alumni-entry-links"><a href="https://lee-lab.org/">Website</a></span></li>
+</ul>
+</section>
 
-<p class="section-link">Additional names from earlier site materials can be added as roles and public pages are confirmed.</p>
+<section class="alumni-group">
+<h3>Graduate Students</h3>
+<ul class="alumni-list">
+<li><strong>Andrew Su</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Professor, Scripps Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
+<li><strong>Anthony Olarerin-George</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Assistant Professor, Rutgers New Jersey Medical School</span><span class="alumni-entry-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></span></li>
+<li><strong>Ray Zhang</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Pathology, UT Southwestern Medical Center</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
+</ul>
+</section>
+
+<section class="alumni-group">
+<h3>Research Scientists</h3>
+<ul class="alumni-list">
+<li><strong>Julie Baggs</strong><span class="alumni-meta">GNF / Novartis; Penn Medicine</span><span class="alumni-current-line">Scientific Director, Omega Bio-tek</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
+<li><strong>Pedro Aza-Blanc</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span></li>
+<li><strong>Mark Watson</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
+</ul>
+</section>
+
+<section class="alumni-group">
+<h3>Lab Managers and Technical Staff</h3>
+<ul class="alumni-list">
+<li><strong>Jeanne Geske</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
+<li><strong>Josephine Harada</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
+<li><strong>Trey Sato</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
+<li><strong>Amy Richardson</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
+</ul>
+</section>
+
+<section class="alumni-group">
+<h3>Other Alumni</h3>
+<ul class="alumni-list">
+<li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
+<li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
+</ul>
+</section>
+
+<p class="section-link">This alumni section will continue to expand as additional names are recovered from earlier lab materials and publications.</p>
 
 <footer class="page-footer">
 <p>For current opportunities and contact details, visit <a href="join.html">Join</a>.</p>

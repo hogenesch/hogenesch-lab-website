@@ -444,6 +444,57 @@ img {
   margin-left: 0.85rem;
 }
 
+.alumni-intro {
+  max-width: 52rem;
+}
+
+.alumni-group {
+  padding-top: 1.6rem;
+  border-top: 1px solid var(--line);
+}
+
+.alumni-group h3 {
+  margin-top: 0;
+}
+
+.alumni-list {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+}
+
+.alumni-list li {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.alumni-list li:last-child {
+  border-bottom: 0;
+}
+
+.alumni-meta,
+.alumni-current-line,
+.alumni-entry-links {
+  display: block;
+  max-width: none;
+}
+
+.alumni-meta {
+  margin-top: 0.2rem;
+  color: var(--accent);
+  font: 600 0.9rem/1.5 var(--sans);
+}
+
+.alumni-current-line {
+  margin-top: 0.3rem;
+  color: var(--muted);
+}
+
+.alumni-entry-links {
+  margin-top: 0.4rem;
+  font: 600 0.88rem/1.5 var(--sans);
+}
+
 .placeholder {
   color: var(--muted);
   font-style: italic;
