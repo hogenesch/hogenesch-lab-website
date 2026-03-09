@@ -41,7 +41,7 @@ adding complexity.
   `People`.
 - Added a dedicated `Scientific Lineage` page and linked it from the homepage and primary navigation.
 - Added simple query-string cache busting for the shared stylesheet and core image assets to reduce stale browser renders after deploy.
-- Standardized CircaDB links to the canonical external URL `https://circadb.hogeneschlab.org` and removed the redundant local CircaDB page.
+- Standardized CircaDB links to the canonical external URL `http://circadb.hogeneschlab.org/` and removed the redundant local CircaDB page.
 
 ## Content policy enforced in V2
 

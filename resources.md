@@ -13,7 +13,7 @@ permalink: /resources.html
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a class="active" href="resources.html">Resources</a>
-  <a href="https://circadb.hogeneschlab.org" target="_blank" rel="noopener">CircaDB</a>
+  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
 </div>
@@ -53,7 +53,7 @@ permalink: /resources.html
 <div class="resource-card resource-card-featured">
 <h2>CircaDB</h2>
 <p>Searchable mammalian circadian gene-expression profiles for bench and computational investigators.</p>
-<p><a href="https://circadb.hogeneschlab.org" target="_blank" rel="noopener">Explore CircaDB</a> &#8226; <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a></p>
+<p><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a> &#8226; <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a></p>
 </div>
 </div>
 

@@ -13,7 +13,7 @@ permalink: /index.html
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>
-  <a href="https://circadb.hogeneschlab.org" target="_blank" rel="noopener">CircaDB</a>
+  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
 </div>
@@ -27,7 +27,7 @@ permalink: /index.html
 <div class="hero-actions">
 <a class="button" href="research.html">Research</a>
 <a class="button button-secondary" href="publications.html">Selected Publications</a>
-<a class="button button-secondary" href="https://circadb.hogeneschlab.org" target="_blank" rel="noopener">CircaDB</a>
+<a class="button button-secondary" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
 <a class="button button-secondary" href="people.html">People</a>
 <a class="button button-secondary" href="join.html">Join the Lab</a>
 </div>
@@ -100,7 +100,7 @@ permalink: /index.html
 <h2>CircaDB</h2>
 <p>CircaDB is a public database of mammalian circadian gene expression profiles developed by the Hogenesch Lab in collaboration with Andrew Su. The resource allows researchers to explore rhythmic gene expression across tissues and datasets and has become a widely used tool in the circadian biology community.</p>
 <div class="feature-links">
-<a class="button" href="https://circadb.hogeneschlab.org" target="_blank" rel="noopener">Explore CircaDB</a>
+<a class="button" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a>
 </div>
 </div>
 <div class="feature-media">
