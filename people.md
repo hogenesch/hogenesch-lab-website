@@ -37,7 +37,7 @@ resources, and circadian medicine.
 
 <div class="callout">
 <h2>Scientific Lineage</h2>
-<p>The Hogenesch Lab builds on intellectual traditions in chemical biology, circadian biology, and functional genomics. The scientific direction of the lab was shaped by training with several exceptional mentors: Christopher A. Bradfield, Joseph Takahashi, Peter G. Schultz, and Steve A. Kay.</p>
+<p>The Hogenesch Lab builds on intellectual traditions in chemical biology, circadian biology, and functional genomics. The scientific direction of the lab was shaped by training with several exceptional mentors: <a href="https://mcardle.wisc.edu/faculty/christopher-bradfield/">Christopher A. Bradfield</a>, <a href="https://profiles.utsouthwestern.edu/profile/105885/joseph-takahashi.html">Joseph Takahashi</a>, <a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a>, and <a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a>.</p>
 <p><a href="lineage.html">Read the Scientific Lineage page</a>.</p>
 </div>
 
