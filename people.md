@@ -34,6 +34,11 @@ resources, and circadian medicine.
 
 <p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&hl=en&oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
 
+<div class="callout">
+<h2>Mentors</h2>
+<p>John Hogenesch gratefully acknowledges formative mentorship from Christopher A. Bradfield, Joseph Takahashi, Peter G. Schultz, and Steve A. Kay.</p>
+</div>
+
 ## Research Scientists
 
 <p class="placeholder">Current roster to be added.</p>
