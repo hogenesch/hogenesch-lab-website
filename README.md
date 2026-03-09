@@ -13,7 +13,6 @@ Minimal GitHub Pages-ready site for the Hogenesch Lab.
 - `publications.md` selected landmark papers
 - `resources.md` software, databases, and analysis resources
 - `join.md` contact and recruiting page
-- `circadb.md` landing page for the CircaDB resource
 - `page-template.html` shared Pandoc template
 - `styles.css` shared site styling
 - `assets/images/` logos and scientific figure assets
@@ -37,4 +36,4 @@ To regenerate pages locally:
 - Update `people.md` and `join.md` when roster, affiliations, or contact details change.
 - Update `data/alumni.json` and the alumni block in `people.md` together when verifying former lab members.
 - Add new images under `assets/images/` and reference them with relative paths.
-- Keep navigation limited to `Home`, `Research`, `People`, `Scientific Lineage`, `Collaborations`, `Publications`, `Resources`, and `Join`.
+- Keep navigation limited to `Home`, `Research`, `People`, `Scientific Lineage`, `Collaborations`, `Publications`, `Resources`, `CircaDB`, and `Join`.

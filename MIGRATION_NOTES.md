@@ -35,13 +35,13 @@ adding complexity.
   verified current or subsequent affiliations where publicly confirmable.
 - Refined the resources page around key public tools and datasets: JTK_CYCLE, PSEA,
   MetaCycle, CYCLOPS, CircaDB, and related atlases.
-- Kept a dedicated CircaDB landing page while removing it from the primary navigation.
 - Replaced the earlier color system with a restrained white, near-black, deep-blue palette
   and updated the typography stacks for a more modern academic presentation.
 - Added a dedicated collaborations page and promoted it into the primary navigation after
   `People`.
 - Added a dedicated `Scientific Lineage` page and linked it from the homepage and primary navigation.
 - Added simple query-string cache busting for the shared stylesheet and core image assets to reduce stale browser renders after deploy.
+- Standardized CircaDB links to the canonical external URL `https://circadb.hogeneschlab.org` and removed the redundant local CircaDB page.
 
 ## Content policy enforced in V2
 
