@@ -2,7 +2,6 @@
 title: Hogenesch Lab
 permalink: /index.html
 ---
-<style>@import url("styles.css");</style>
 
 <nav class="site-nav">
   <a class="brand" href="index.html">Hogenesch Lab</a>
@@ -38,22 +37,22 @@ circadian medicine and chronotherapy through public datasets and published analy
 ## Research Themes
 
 <div class="callout-grid">
-  <div class="callout">
-    <h2>Molecular Mechanisms of the Circadian Clock</h2>
-    <p>Core clock components, transcriptional feedback structure, and molecular regulation of rhythmic physiology.</p>
-  </div>
-  <div class="callout">
-    <h2>Systems Circadian Biology and Genome-Scale Datasets</h2>
-    <p>Transcriptome-wide analyses, organ-level atlases, and large public datasets defining rhythmic transcription.</p>
-  </div>
-  <div class="callout">
-    <h2>Computational Tools for Rhythmic Biology</h2>
-    <p>Statistical and computational methods including JTK_CYCLE, PSEA, MetaCycle, and CYCLOPS.</p>
-  </div>
-  <div class="callout">
-    <h2>Circadian Medicine and Chronotherapy</h2>
-    <p>Published work linking timing biology to human transcriptomics, physiology, and therapeutic timing.</p>
-  </div>
+<div class="callout">
+<h2>Molecular Mechanisms of the Circadian Clock</h2>
+<p>Core clock components, transcriptional feedback structure, and molecular regulation of rhythmic physiology.</p>
+</div>
+<div class="callout">
+<h2>Systems Circadian Biology and Genome-Scale Datasets</h2>
+<p>Transcriptome-wide analyses, organ-level atlases, and large public datasets defining rhythmic transcription.</p>
+</div>
+<div class="callout">
+<h2>Computational Tools for Rhythmic Biology</h2>
+<p>Statistical and computational methods including JTK_CYCLE, PSEA, MetaCycle, and CYCLOPS.</p>
+</div>
+<div class="callout">
+<h2>Circadian Medicine and Chronotherapy</h2>
+<p>Published work linking timing biology to human transcriptomics, physiology, and therapeutic timing.</p>
+</div>
 </div>
 
 ## Selected Impact Areas
@@ -66,28 +65,28 @@ circadian medicine and chronotherapy through public datasets and published analy
 ## Quick Paths
 
 <div class="card-grid">
-  <a class="card-link" href="research.html">
-    <strong>Research</strong>
-    <span>Clock mechanisms, systems chronobiology, and human translation.</span>
-  </a>
-  <a class="card-link" href="publications.html">
-    <strong>Selected Publications</strong>
-    <span>Key papers plus a direct link to the full publication list on Google Scholar.</span>
-  </a>
-  <a class="card-link" href="resources.html">
-    <strong>Software and Data</strong>
-    <span>JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CircaDB, and the circadian atlas.</span>
-  </a>
-  <a class="card-link" href="people.html">
-    <strong>People</strong>
-    <span>Leadership, lab structure, and selected trainees and alumni.</span>
-  </a>
-  <a class="card-link" href="join.html">
-    <strong>Join</strong>
-    <span>Opportunities for experimental, computational, and clinician-scientist trainees.</span>
-  </a>
+<a class="card-link" href="research.html">
+<strong>Research</strong>
+<span>Clock mechanisms, systems chronobiology, and human translation.</span>
+</a>
+<a class="card-link" href="publications.html">
+<strong>Selected Publications</strong>
+<span>Key papers plus a direct link to the full publication list on Google Scholar.</span>
+</a>
+<a class="card-link" href="resources.html">
+<strong>Software and Data</strong>
+<span>JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CircaDB, and the circadian atlas.</span>
+</a>
+<a class="card-link" href="people.html">
+<strong>People</strong>
+<span>Leadership, lab structure, and selected trainees and alumni.</span>
+</a>
+<a class="card-link" href="join.html">
+<strong>Join</strong>
+<span>Opportunities for experimental, computational, and clinician-scientist trainees.</span>
+</a>
 </div>
 
 <footer class="page-footer">
-  <p>Minimal static site for long-term maintenance and GitHub Pages deployment.</p>
+<p>Minimal static site for long-term maintenance and GitHub Pages deployment.</p>
 </footer>

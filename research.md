@@ -2,7 +2,6 @@
 title: Research
 permalink: /research.html
 ---
-<style>@import url("styles.css");</style>
 
 <nav class="site-nav">
   <a class="brand" href="index.html">Hogenesch Lab</a>
@@ -25,22 +24,22 @@ permalink: /research.html
 ## Research Themes
 
 <div class="callout-grid">
-  <div class="callout">
-    <h2>Molecular Mechanisms of the Circadian Clock</h2>
-    <p>Discovery and characterization of BMAL1 and related clock components, plus mechanistic studies of core circadian transcriptional regulation.</p>
-  </div>
-  <div class="callout">
-    <h2>Systems Circadian Biology and Genome-Scale Datasets</h2>
-    <p>Functional genomics of circadian transcription, the mammalian circadian transcriptome, and the circadian atlas across mouse organs.</p>
-  </div>
-  <div class="callout">
-    <h2>Computational Tools for Rhythmic Biology</h2>
-    <p>Algorithms and resources including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CircaDB.</p>
-  </div>
-  <div class="callout">
-    <h2>Circadian Medicine and Chronotherapy</h2>
-    <p>Published human circadian transcriptomics and translational analyses that connect timing biology to medicine.</p>
-  </div>
+<div class="callout">
+<h2>Molecular Mechanisms of the Circadian Clock</h2>
+<p>Discovery and characterization of BMAL1 and related clock components, plus mechanistic studies of core circadian transcriptional regulation.</p>
+</div>
+<div class="callout">
+<h2>Systems Circadian Biology and Genome-Scale Datasets</h2>
+<p>Functional genomics of circadian transcription, the mammalian circadian transcriptome, and the circadian atlas across mouse organs.</p>
+</div>
+<div class="callout">
+<h2>Computational Tools for Rhythmic Biology</h2>
+<p>Algorithms and resources including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CircaDB.</p>
+</div>
+<div class="callout">
+<h2>Circadian Medicine and Chronotherapy</h2>
+<p>Published human circadian transcriptomics and translational analyses that connect timing biology to medicine.</p>
+</div>
 </div>
 
 ## Molecular Clock Mechanisms
@@ -78,24 +77,24 @@ circadian medicine and chronotherapy.
 ## Representative Contributions
 
 <div class="callout-grid">
-  <div class="callout">
-    <h2>Discovery</h2>
-    <p>Foundational work on BMAL1/MOP3 and the positive limb of the mammalian clock.</p>
-  </div>
-  <div class="callout">
-    <h2>Functional Genomics</h2>
-    <p>Genome-wide RNAi and expression profiling approaches to reveal clock components and outputs.</p>
-  </div>
-  <div class="callout">
-    <h2>Community Tools</h2>
-    <p>Algorithms and databases built so the broader field can analyze rhythmic biology at scale.</p>
-  </div>
-  <div class="callout">
-    <h2>Human Translation</h2>
-    <p>Human circadian transcriptomics and published analyses relevant to circadian medicine and chronotherapy.</p>
-  </div>
+<div class="callout">
+<h2>Discovery</h2>
+<p>Foundational work on BMAL1/MOP3 and the positive limb of the mammalian clock.</p>
+</div>
+<div class="callout">
+<h2>Functional Genomics</h2>
+<p>Genome-wide RNAi and expression profiling approaches to reveal clock components and outputs.</p>
+</div>
+<div class="callout">
+<h2>Community Tools</h2>
+<p>Algorithms and databases built so the broader field can analyze rhythmic biology at scale.</p>
+</div>
+<div class="callout">
+<h2>Human Translation</h2>
+<p>Human circadian transcriptomics and published analyses relevant to circadian medicine and chronotherapy.</p>
+</div>
 </div>
 
 <footer class="page-footer">
-  <p>See <a href="publications.html">selected publications</a> and <a href="resources.html">resources</a> for representative papers and tools.</p>
+<p>See <a href="publications.html">selected publications</a> and <a href="resources.html">resources</a> for representative papers and tools.</p>
 </footer>

@@ -149,6 +149,11 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 }
 
+.card-grid > p {
+  display: contents;
+  margin: 0;
+}
+
 .callout,
 .resource-card,
 .card-link {

@@ -2,7 +2,6 @@
 title: People
 permalink: /people.html
 ---
-<style>@import url("styles.css");</style>
 
 <nav class="site-nav">
   <a class="brand" href="index.html">Hogenesch Lab</a>
@@ -68,10 +67,10 @@ The lab's training model emphasizes:
 - Cross-disciplinary collaboration between basic and translational investigators.
 
 <div class="logo-row">
-  <img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's logo">
-  <img src="assets/images/scripps-logo.png" alt="Scripps Research logo">
+<img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's logo">
+<img src="assets/images/scripps-logo.png" alt="Scripps Research logo">
 </div>
 
 <footer class="page-footer">
-  <p>For opportunities and contact details, visit <a href="join.html">Join</a>.</p>
+<p>For opportunities and contact details, visit <a href="join.html">Join</a>.</p>
 </footer>

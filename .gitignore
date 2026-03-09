@@ -1,5 +1,7 @@
 *
 !.gitignore
+!.nojekyll
+!CNAME
 !README.md
 !MIGRATION_NOTES.md
 !index.md
@@ -8,7 +10,14 @@
 !publications.md
 !resources.md
 !join.md
+!index.html
+!research.html
+!people.html
+!publications.html
+!resources.html
+!join.html
 !styles.css
+!page-template.html
 !assets/
 !assets/images/
 !assets/images/**

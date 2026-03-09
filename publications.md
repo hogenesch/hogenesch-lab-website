@@ -2,7 +2,6 @@
 title: Publications
 permalink: /publications.html
 ---
-<style>@import url("styles.css");</style>
 
 <nav class="site-nav">
   <a class="brand" href="index.html">Hogenesch Lab</a>
@@ -23,8 +22,8 @@ permalink: /publications.html
 </header>
 
 <div class="callout">
-  <h2>Full Publication List</h2>
-  <p><a href="https://scholar.google.com/citations?user=xwEBT0gAAAAJ&amp;hl=en">View the complete publication list on Google Scholar</a>.</p>
+<h2>Full Publication List</h2>
+<p><a href="https://scholar.google.com/citations?user=xwEBT0gAAAAJ&amp;hl=en">View the complete publication list on Google Scholar</a>.</p>
 </div>
 
 ## Selected Publications
@@ -41,5 +40,5 @@ permalink: /publications.html
 - Anafi RC, Francey LJ, Hogenesch JB, Kim J. [CYCLOPS reveals human transcriptional rhythms in health and disease](https://pubmed.ncbi.nlm.nih.gov/28439010/). *Proc Natl Acad Sci U S A*. 2017.
 
 <footer class="page-footer">
-  <p>For tools and databases highlighted on this page, visit <a href="resources.html">Resources</a>.</p>
+<p>For tools and databases highlighted on this page, visit <a href="resources.html">Resources</a>.</p>
 </footer>

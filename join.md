@@ -2,7 +2,6 @@
 title: Join
 permalink: /join.html
 ---
-<style>@import url("styles.css");</style>
 
 <nav class="site-nav">
   <a class="brand" href="index.html">Hogenesch Lab</a>
@@ -43,10 +42,10 @@ For scientific inquiries, collaboration discussions, or trainee interest, contac
 <a href="mailto:john.hogenesch@cchmc.org">john.hogenesch@cchmc.org</a>.
 
 <div class="logo-row">
-  <img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's logo">
-  <img src="assets/images/scripps-logo.png" alt="Scripps Research logo">
+<img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's logo">
+<img src="assets/images/scripps-logo.png" alt="Scripps Research logo">
 </div>
 
 <footer class="page-footer">
-  <p>See <a href="research.html">Research</a> for current scientific directions and <a href="resources.html">Resources</a> for lab-built tools.</p>
+<p>See <a href="research.html">Research</a> for current scientific directions and <a href="resources.html">Resources</a> for lab-built tools.</p>
 </footer>
