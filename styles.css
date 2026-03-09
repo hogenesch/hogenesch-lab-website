@@ -132,6 +132,51 @@ img {
   background: var(--paper);
 }
 
+.hero-visuals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin: -1rem 0 2.8rem;
+}
+
+.hero-affiliations {
+  margin: -1rem 0 1.2rem;
+  padding: 1rem 1.15rem;
+  background: rgba(255, 253, 248, 0.7);
+  border: 1px solid rgba(23, 34, 41, 0.06);
+}
+
+.hero-affiliations .eyebrow {
+  margin-bottom: 0.4rem;
+}
+
+.hero-affiliations .logo-row {
+  margin-top: 0.5rem;
+}
+
+.hero-visual {
+  margin: 0;
+  padding: 0.9rem;
+  background: rgba(255, 253, 248, 0.92);
+  border: 1px solid rgba(23, 34, 41, 0.08);
+  box-shadow: var(--shadow);
+}
+
+.hero-visual img {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  border: 0;
+  background: transparent;
+}
+
+.hero-visual figcaption {
+  margin-top: 0.85rem;
+  color: var(--muted);
+  font-size: 0.96rem;
+  line-height: 1.55;
+}
+
 .callout-grid,
 .card-grid,
 .resource-grid {

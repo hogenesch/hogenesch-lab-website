@@ -22,6 +22,29 @@ permalink: /index.html
   </p>
 </header>
 
+<section class="hero-affiliations">
+<p class="eyebrow">Institutional Affiliations</p>
+<div class="logo-row">
+<img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's Hospital Medical Center logo" />
+<img src="assets/images/scripps-logo.png" alt="Scripps Research logo" />
+</div>
+</section>
+
+<div class="hero-visuals">
+<figure class="hero-visual">
+<img src="assets/images/circadian-cycle.svg" alt="A 24-hour circadian clock schematic showing light and dark phases." />
+<figcaption>Daily organization of molecular and physiological rhythms.</figcaption>
+</figure>
+<figure class="hero-visual">
+<img src="assets/images/transcriptome-atlas.svg" alt="A stylized heatmap representing rhythmic gene expression across multiple tissues." />
+<figcaption>Genome-scale circadian transcription across organs and tissues.</figcaption>
+</figure>
+<figure class="hero-visual">
+<img src="assets/images/chronotherapy-window.svg" alt="A 24-hour timeline showing circadian variation in treatment timing." />
+<figcaption>Timing biology as a framework for circadian medicine and chronotherapy.</figcaption>
+</figure>
+</div>
+
 ## Overview
 
 The Hogenesch Lab studies how the circadian clock organizes transcription and physiology
@@ -71,7 +94,7 @@ circadian medicine and chronotherapy through public datasets and published analy
 </a>
 <a class="card-link" href="publications.html">
 <strong>Selected Publications</strong>
-<span>Key papers plus a direct link to the full publication list on Google Scholar.</span>
+<span>Key papers plus direct links to the full publication list on Google Scholar and PubMed.</span>
 </a>
 <a class="card-link" href="resources.html">
 <strong>Software and Data</strong>

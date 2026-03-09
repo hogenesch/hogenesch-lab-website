@@ -23,7 +23,8 @@ permalink: /publications.html
 
 <div class="callout">
 <h2>Full Publication List</h2>
-<p><a href="https://scholar.google.com/citations?user=xwEBT0gAAAAJ&amp;hl=en">View the complete publication list on Google Scholar</a>.</p>
+<p><a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&amp;hl=en&amp;oi=ao">View the full publication list on Google Scholar</a>.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">Browse Hogenesch publications on PubMed</a>.</p>
 </div>
 
 ## Selected Publications

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Circadian medicine timing schematic</title>
+  <desc id="desc">A stylized 24-hour treatment timeline showing shifting physiological sensitivity over the day.</desc>
+  <rect width="600" height="420" fill="#fffdf8"/>
+  <rect x="0" y="0" width="600" height="420" fill="#f5f1e8"/>
+  <g fill="#172229" font-family="Palatino Linotype, Georgia, serif" font-size="24">
+    <text x="70" y="70">Timing matters in physiology</text>
+    <text x="70" y="100">and therapy</text>
+  </g>
+  <rect x="70" y="170" width="460" height="86" rx="18" fill="#fffdf8" stroke="#d6cec0" stroke-width="8"/>
+  <rect x="78" y="178" width="180" height="70" rx="14" fill="#f0c768"/>
+  <rect x="258" y="178" width="110" height="70" rx="14" fill="#d6ece7"/>
+  <rect x="368" y="178" width="162" height="70" rx="14" fill="#355c7d"/>
+  <g fill="#172229" font-family="Arial Narrow, sans-serif" font-size="15" letter-spacing="2">
+    <text x="90" y="160">DAWN</text>
+    <text x="281" y="160">DAY</text>
+    <text x="454" y="160">NIGHT</text>
+  </g>
+  <line x1="104" y1="284" x2="508" y2="284" stroke="#172229" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#172229" stroke-width="3">
+    <line x1="104" y1="272" x2="104" y2="296"/>
+    <line x1="205" y1="272" x2="205" y2="296"/>
+    <line x1="306" y1="272" x2="306" y2="296"/>
+    <line x1="407" y1="272" x2="407" y2="296"/>
+    <line x1="508" y1="272" x2="508" y2="296"/>
+  </g>
+  <g fill="#5f6e73" font-family="Arial Narrow, sans-serif" font-size="14" letter-spacing="1.5">
+    <text x="94" y="318">0</text>
+    <text x="194" y="318">6</text>
+    <text x="295" y="318">12</text>
+    <text x="396" y="318">18</text>
+    <text x="497" y="318">24</text>
+  </g>
+  <path d="M104 346 C145 330 184 300 229 302 C278 304 307 342 354 344 C410 347 451 299 508 292" fill="none" stroke="#0f766e" stroke-width="10" stroke-linecap="round"/>
+  <rect x="226" y="128" width="118" height="28" rx="14" fill="#0f766e"/>
+  <text x="247" y="147" fill="#fffdf8" font-family="Arial Narrow, sans-serif" font-size="16" letter-spacing="1.5">THERAPEUTIC WINDOW</text>
+  <g fill="#5f6e73" font-family="Palatino Linotype, Georgia, serif" font-size="18">
+    <text x="70" y="382">Published circadian medicine studies link phase to physiology and treatment timing.</text>
+  </g>
+</svg>
