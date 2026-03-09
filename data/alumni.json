@@ -132,16 +132,6 @@
           "website": "",
           "scholar": "",
           "linkedin": ""
-        },
-        {
-          "name": "Mark Watson",
-          "role": "Research Scientist",
-          "lab_locations": ["Scripps Research (Florida)"],
-          "current_position": "",
-          "current_institution": "",
-          "website": "",
-          "scholar": "",
-          "linkedin": ""
         }
       ]
     },
@@ -170,16 +160,6 @@
         },
         {
           "name": "Trey Sato",
-          "role": "Technical Staff",
-          "lab_locations": ["Scripps Research (Florida)"],
-          "current_position": "",
-          "current_institution": "",
-          "website": "",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
-          "name": "Amy Richardson",
           "role": "Technical Staff",
           "lab_locations": ["Scripps Research (Florida)"],
           "current_position": "",

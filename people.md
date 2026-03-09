@@ -77,7 +77,6 @@ resources, and circadian medicine.
 <ul class="alumni-list">
 <li><strong>Julie Baggs</strong><span class="alumni-meta">GNF / Novartis; Penn Medicine</span><span class="alumni-current-line">Scientific Director, Omega Bio-tek</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
 <li><strong>Pedro Aza-Blanc</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span></li>
-<li><strong>Mark Watson</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
 </ul>
 </section>
 
@@ -87,7 +86,6 @@ resources, and circadian medicine.
 <li><strong>Jeanne Geske</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
 <li><strong>Josephine Harada</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
 <li><strong>Trey Sato</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
-<li><strong>Amy Richardson</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
 </ul>
 </section>
 
