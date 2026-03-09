@@ -9,6 +9,7 @@ permalink: /people.html
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a class="active" href="people.html">People</a>
+  <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>
@@ -37,6 +38,7 @@ resources, and circadian medicine.
 <div class="callout">
 <h2>Scientific Lineage</h2>
 <p>The Hogenesch Lab builds on intellectual traditions in chemical biology, circadian biology, and functional genomics. The scientific direction of the lab was shaped by training with several exceptional mentors: Christopher A. Bradfield, Joseph Takahashi, Peter G. Schultz, and Steve A. Kay.</p>
+<p><a href="lineage.html">Read the Scientific Lineage page</a>.</p>
 </div>
 
 ## Research Scientists
@@ -88,7 +90,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Lab Managers and Technical Staff</h3>
 <ul class="alumni-list">
-<li><strong>Jeanne Geske</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
+<li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
 <li><strong>Josephine Harada</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
 <li><strong>Trey Sato</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
 </ul>

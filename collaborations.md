@@ -9,6 +9,7 @@ permalink: /collaborations.html
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
+  <a href="lineage.html">Scientific Lineage</a>
   <a class="active" href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>
@@ -29,7 +30,7 @@ permalink: /collaborations.html
 
 <section class="theme-block">
 <div class="collab-heading">
-<img class="institution-logo" src="assets/images/scripps-logo.png" alt="Scripps Research logo" />
+<img class="institution-logo" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
 <div>
 <p class="eyebrow">Collaboration 1</p>
 <h2>Andrew Su - Scripps Research</h2>
@@ -47,7 +48,7 @@ permalink: /collaborations.html
 
 <section class="theme-block">
 <div class="collab-heading">
-<img class="institution-logo" src="assets/images/uf-logo-horizontal.png" alt="University of Florida logo" />
+<img class="institution-logo" src="assets/images/uf-logo-horizontal.png?v=20260309-1" alt="University of Florida logo" />
 <div>
 <p class="eyebrow">Collaboration 2</p>
 <h2>Andrew Liu - University of Florida</h2>
@@ -60,7 +61,7 @@ permalink: /collaborations.html
 
 <section class="theme-block">
 <div class="collab-heading">
-<img class="institution-logo" src="assets/images/upenn-logo.svg" alt="University of Pennsylvania logo" />
+<img class="institution-logo" src="assets/images/upenn-logo.svg?v=20260309-1" alt="University of Pennsylvania logo" />
 <div>
 <p class="eyebrow">Collaboration 3</p>
 <h2>Ron Anafi - University of Pennsylvania</h2>

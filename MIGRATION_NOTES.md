@@ -40,6 +40,8 @@ adding complexity.
   and updated the typography stacks for a more modern academic presentation.
 - Added a dedicated collaborations page and promoted it into the primary navigation after
   `People`.
+- Added a dedicated `Scientific Lineage` page and linked it from the homepage and primary navigation.
+- Added simple query-string cache busting for the shared stylesheet and core image assets to reduce stale browser renders after deploy.
 
 ## Content policy enforced in V2
 

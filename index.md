@@ -9,6 +9,7 @@ permalink: /index.html
   <a class="active" href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
+  <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>
@@ -31,13 +32,13 @@ permalink: /index.html
 </div>
 <div class="logo-strip">
 <span class="logo-strip-label">Affiliations</span>
-<img src="assets/images/cchmc-logo.png" alt="Cincinnati Children's Hospital Medical Center logo" />
-<img src="assets/images/scripps-logo.png" alt="Scripps Research logo" />
+<img src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" />
+<img src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
 </div>
 </div>
 <div class="hero-media">
 <figure class="feature-figure">
-<img src="assets/images/circadian-systems-network.svg" alt="Schematic of a circadian systems network linking a core oscillator to multiple organs and outputs." />
+<img src="assets/images/circadian-systems-network.svg?v=20260309-1" alt="Schematic of a circadian systems network linking a core oscillator to multiple organs and outputs." />
 <figcaption>Published circadian systems work from the lab connects core clock mechanisms to organ-specific transcriptional programs and physiological timing.</figcaption>
 </figure>
 </div>
@@ -60,7 +61,7 @@ permalink: /index.html
 </ul>
 </div>
 <figure class="feature-figure">
-<img src="assets/images/hughes-2009-harmonics-heatmap.jpg" alt="Published heatmap showing harmonic structure in mammalian circadian transcription." />
+<img src="assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260309-1" alt="Published heatmap showing harmonic structure in mammalian circadian transcription." />
 <figcaption>Genome-scale temporal structure in mammalian transcription from published lab work on circadian and sub-circadian rhythms.</figcaption>
 <p class="visual-source">Hughes et al., <em>PLoS Genetics</em> 2009. Open-access figure (CC BY).</p>
 </figure>
@@ -105,7 +106,7 @@ permalink: /index.html
 </div>
 <div class="feature-media">
 <figure class="feature-figure">
-<img src="assets/images/circadb-query-2013.jpg" alt="Published CircaDB query interface." />
+<img src="assets/images/circadb-query-2013.jpg?v=20260309-1" alt="Published CircaDB query interface." />
 <figcaption>CircaDB provides direct access to circadian expression data by gene, dataset, tissue, phase, and significance threshold.</figcaption>
 <p class="visual-source">Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access figure (CC BY-NC 3.0).</p>
 </figure>
@@ -128,7 +129,7 @@ permalink: /index.html
 <p>Research in the group brings together experimental biologists, computational scientists, clinician-scientists, trainees, and collaborators around shared questions of biological timing.</p>
 </div>
 </div>
-<p class="section-link"><a href="people.html">View the full People page</a>.</p>
+<p class="section-link"><a href="people.html">View the full People page</a> or <a href="lineage.html">Scientific Lineage</a>.</p>
 </section>
 
 <section class="section recruit-block">

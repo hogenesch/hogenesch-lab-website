@@ -9,6 +9,7 @@ permalink: /publications.html
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
+  <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a class="active" href="publications.html">Publications</a>
   <a href="resources.html">Resources</a>

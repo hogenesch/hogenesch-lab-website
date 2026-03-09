@@ -9,6 +9,7 @@ permalink: /circadb.html
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
+  <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
   <a class="active" href="resources.html">Resources</a>
@@ -42,12 +43,12 @@ permalink: /circadb.html
 
 <div class="resource-grid">
 <figure class="feature-figure">
-<img src="assets/images/circadb-query-2013.jpg" alt="Published CircaDB query interface showing filters for dataset, phase, and significance." />
+<img src="assets/images/circadb-query-2013.jpg?v=20260309-1" alt="Published CircaDB query interface showing filters for dataset, phase, and significance." />
 <figcaption>Query interface for moving from a gene or probe to datasets, phase filters, and circadian statistics.</figcaption>
 <p class="visual-source">Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access figure (CC BY-NC 3.0).</p>
 </figure>
 <figure class="feature-figure">
-<img src="assets/images/circadb-report-2013.jpg" alt="Published CircaDB expression report showing rhythmic expression and algorithm results." />
+<img src="assets/images/circadb-report-2013.jpg?v=20260309-1" alt="Published CircaDB expression report showing rhythmic expression and algorithm results." />
 <figcaption>Expression-profile report view combining annotations, algorithm outputs, and compact rhythmic expression traces.</figcaption>
 <p class="visual-source">Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access figure (CC BY-NC 3.0).</p>
 </figure>
