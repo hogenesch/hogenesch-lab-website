@@ -29,7 +29,7 @@ permalink: /lineage.html
 </header>
 
 <section class="theme-block">
-<p>The scientific direction of the lab was shaped by training with Christopher A. Bradfield, Joseph S. Takahashi, Peter G. Schultz, and Steve A. Kay. Their work helped define the experimental rigor, conceptual range, and interdisciplinary style that continue to inform the lab's approach to biological timing and genome-scale biology.</p>
+<p>The scientific direction of the lab was shaped by training with Christopher A. Bradfield, Joseph S. Takahashi, Steve A. Kay, and Peter G. Schultz. Their work helped define the experimental rigor, conceptual range, and interdisciplinary style that continue to inform the lab's approach to biological timing and genome-scale biology.</p>
 </section>
 
 <section class="theme-block">
@@ -56,24 +56,24 @@ permalink: /lineage.html
 
 <section class="theme-block">
 <div class="collab-heading">
-<img class="institution-logo" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
-<div>
-<p class="eyebrow">Mentor 3</p>
-<h2><a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a></h2>
-</div>
-</div>
-<p>Training with Schultz reinforced a style of science that values chemical biology, inventive experimental tools, and broad interdisciplinary thinking.</p>
-</section>
-
-<section class="theme-block">
-<div class="collab-heading">
 <img class="institution-logo" src="assets/images/usc-badge.svg?v=20260309-1" alt="University of Southern California icon" />
 <div>
-<p class="eyebrow">Mentor 4</p>
+<p class="eyebrow">Mentor 3</p>
 <h2><a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a></h2>
 </div>
 </div>
 <p>Training with Kay helped define the lab's interest in circadian biology, systems-level questions, and functional genomics at scale.</p>
+</section>
+
+<section class="theme-block">
+<div class="collab-heading">
+<img class="institution-logo" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
+<div>
+<p class="eyebrow">Mentor 4</p>
+<h2><a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a></h2>
+</div>
+</div>
+<p>Training with Schultz reinforced a style of science that values chemical biology, inventive experimental tools, and broad interdisciplinary thinking.</p>
 </section>
 
 <div class="callout">
