@@ -47,7 +47,7 @@ resources, and circadian medicine.
 <h2>Society for Research on Biological Rhythms</h2>
 </div>
 </div>
-<p>John Hogenesch serves as President of <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">SRBR</a> and has also served as President-Elect, Treasurer, Comptroller, and Ad Hoc Member.</p>
+<p>John Hogenesch has devoted decades of service to <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">SRBR</a>, including roles as President, President-Elect, Treasurer, Comptroller, and Ad Hoc Member.</p>
 <p>The <a href="https://srbr.org/2026-biennial-meeting/" target="_blank" rel="noopener">2026 Biennial Meeting</a> will be held May 9-13, 2026, in Amelia Island, Florida.</p>
 </div>
 
