@@ -40,8 +40,8 @@ permalink: /index.html
 </div>
 <div class="hero-media">
 <figure class="feature-figure">
-<img src="assets/images/circadian-systems-network.svg?v=20260309-1" alt="Schematic of a circadian systems network linking a core oscillator to multiple organs and outputs." />
-<figcaption>Published circadian systems work from the lab connects core clock mechanisms to organ-specific transcriptional programs and physiological timing.</figcaption>
+<img src="assets/images/five-directions-concept.svg?v=20260310-1" alt="Conceptual diagram showing five connected directions of the Hogenesch Lab research program." />
+<figcaption>Five connected directions organize the research program: molecular clock biology, circadian biology, systems biology, computational methods and resources, and circadian medicine including rare disease.</figcaption>
 </figure>
 </div>
 </header>
@@ -74,7 +74,7 @@ permalink: /index.html
 <section class="section">
 <div class="section-head">
 <p class="eyebrow">Research Themes</p>
-<h2>Four pillars of research</h2>
+<h2>Five directions of research</h2>
 </div>
 <div class="theme-grid">
 <div class="theme-card">
@@ -82,16 +82,20 @@ permalink: /index.html
 <p>Mechanistic work on BMAL1, NPAS2, transcriptional feedback architecture, and clock-controlled gene regulation in mammalian systems.</p>
 </div>
 <div class="theme-card">
-<h3>Circadian Biology of Clocks</h3>
-<p>Genome-scale analyses of rhythmic transcription, multi-organ atlases, and tissue-specific timing programs across physiology.</p>
+<h3>Circadian Biology</h3>
+<p>Rhythmic physiology across organs, tissues, and cell systems, including the architecture and outputs of biological clocks.</p>
 </div>
 <div class="theme-card">
-<h3>Computational Methods</h3>
-<p>Algorithms and analytical frameworks including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CYCLOPS2, alongside public data infrastructure.</p>
+<h3>Systems Biology</h3>
+<p>Genome-scale transcriptional programs, the mammalian circadian transcriptome, and atlas-level studies of time across tissues.</p>
 </div>
 <div class="theme-card">
-<h3>Circadian Medicine</h3>
-<p>Human transcriptomics, time-of-day structure in physiology, and published work that connects circadian biology to medicine and chronotherapy.</p>
+<h3>Computational Methods and Resources</h3>
+<p>Algorithms and public tools including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CYCLOPS2, CircaDB, and Gene Atlas.</p>
+</div>
+<div class="theme-card">
+<h3>Circadian Medicine and Rare Disease</h3>
+<p>Human transcriptomics, chronotherapy, and published work linking circadian phenotypes to Human Genetics and rare disease, including Smith-Kingsmore syndrome.</p>
 </div>
 </div>
 </section>
@@ -123,7 +127,7 @@ permalink: /index.html
 <div class="preview-card">
 <h3>Principal Investigator</h3>
 <p><strong>John B. Hogenesch, PhD</strong></p>
-<p>The lab's work spans molecular circadian biology, systems genomics, public resources, and translational questions in circadian medicine.</p>
+<p>The lab's work spans molecular circadian biology, systems biology, public resources, and translational questions in circadian medicine.</p>
 </div>
 <div class="preview-card">
 <h3>Lab Community</h3>
@@ -136,7 +140,7 @@ permalink: /index.html
 <section class="section recruit-block">
 <p class="eyebrow">Join the Lab</p>
 <h2>Students, postdoctoral fellows, and collaborators</h2>
-<p>The lab welcomes inquiries from people interested in circadian biology, systems genomics, computational methods, and translational timing questions in medicine.</p>
+<p>The lab welcomes inquiries from people interested in circadian biology, systems biology, computational methods, and translational timing questions in medicine.</p>
 <p><a class="button" href="join.html">Join the Lab</a></p>
 </section>
 
