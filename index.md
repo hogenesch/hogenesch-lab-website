@@ -43,8 +43,8 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </div>
 <div class="hero-media">
 <figure class="feature-figure">
-<img src="assets/images/five-directions-concept.svg?v=20260310-1" alt="Conceptual diagram showing five connected directions of the Hogenesch Lab research program." />
-<figcaption>Five connected directions organize the research program: molecular clock biology, circadian biology, systems biology, computational methods and resources, and circadian medicine including rare disease.</figcaption>
+<img src="assets/images/hero-circadian-network.svg?v=20260311-1" alt="Abstract clock and network graphic representing connected areas of circadian biology, systems biology, and medicine." />
+<figcaption>An abstract view of biological timing across molecular mechanisms, tissues, methods, and medicine.</figcaption>
 </figure>
 </div>
 </header>
