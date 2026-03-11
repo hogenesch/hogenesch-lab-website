@@ -421,80 +421,47 @@ img {
   text-decoration: none;
 }
 
-.source-badge {
+.press-mark {
   display: inline-flex;
-  min-width: 2.7rem;
-  height: 2.1rem;
+  min-width: 3.35rem;
+  min-height: 2.2rem;
   align-items: center;
   justify-content: center;
-  padding: 0 0.55rem;
+  padding: 0.25rem 0.5rem;
   border-radius: 0.6rem;
-  font: 700 0.72rem/1 var(--sans);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: #ffffff;
-  background: var(--accent);
+  border: 1px solid var(--line);
+  background: #ffffff;
   flex: 0 0 auto;
 }
 
-.source-badge-nyt {
-  background: #111111;
+.press-source-logo {
+  display: block;
+  max-width: 1.5rem;
+  max-height: 1.5rem;
+  width: auto;
+  height: auto;
 }
 
-.source-badge-cchmc {
-  background: #0b5cab;
+.press-source-logo-wide {
+  max-width: 5.75rem;
+  max-height: 1.4rem;
 }
 
-.source-badge-alt {
-  background: #60656d;
-}
-
-.source-badge-scripps {
-  background: #006b5b;
-}
-
-.source-badge-scidaily {
-  background: #c24a00;
-}
-
-.source-badge-paper {
-  background: #4c5d73;
-}
-
-.source-badge-abc {
-  background: #222222;
-}
-
-.source-badge-bbc {
-  background: #8f002d;
-}
-
-.source-badge-penn {
-  background: #8a1538;
-}
-
-.source-badge-physorg {
-  background: #3f6ed8;
-}
-
-.source-badge-scientist {
-  background: #7a2147;
-}
-
-.source-badge-sciam {
-  background: #b2301f;
-}
-
-.source-badge-atlantic {
-  background: #2a2a2a;
-}
-
-.source-badge-book {
-  background: #6b4e2e;
-}
-
-.source-badge-eureka {
-  background: #145c67;
+.press-source-fallback {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3.35rem;
+  min-height: 2.2rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.6rem;
+  border: 1px solid var(--line);
+  background: var(--accent-soft);
+  color: var(--accent);
+  font: 700 0.68rem/1 var(--sans);
+  letter-spacing: 0.04em;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .alumni-grid {
