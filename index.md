@@ -68,7 +68,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </div>
 <figure class="feature-figure">
 <img src="assets/images/landmark-contributions-map.svg?v=20260311-7" alt="Conceptual map showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
-<figcaption>A neutral view of the lab's major contributions across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
+<figcaption>A temporal view of the lab's major contributions, with time as the organizing variable across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
 </div>
 </section>
