@@ -44,7 +44,9 @@ resources, and circadian medicine.
 
 ## Research Scientists
 
-<p class="placeholder">Current roster to be added.</p>
+<ul class="alumni-list">
+<li><strong>Jiffin Paulose, PhD</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Lab Manager</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/contact">Website</a></span></li>
+</ul>
 
 ## Postdoctoral Fellows
 
@@ -52,7 +54,9 @@ resources, and circadian medicine.
 
 ## Students
 
-<p class="placeholder">Current roster to be added.</p>
+<ul class="alumni-list">
+<li><strong>Sharon Tamir</strong><span class="alumni-meta">Current</span></li>
+</ul>
 
 ## Alumni
 
@@ -61,12 +65,16 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
+<li><strong>Ines Hoffmann</strong><span class="alumni-meta">GNF / Novartis</span></li>
 <li><strong>Ron Anafi</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Associate Professor of Medicine, Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
 <li><strong>Jason DeBruyne</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Professor and Program Director, PhD in Biomedical Sciences, Morehouse School of Medicine</span><span class="alumni-entry-links"><a href="https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php">Website</a></span></li>
 <li><strong>Michael E. Hughes</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">In memoriam; formerly Assistant Professor of Medicine, Washington University in St. Louis School of Medicine</span><span class="alumni-entry-links"><a href="https://medicine.wustl.edu/news/remembering-michael-hughes-phd/">Website</a></span></li>
 <li><strong>Marc D. Ruben</strong><span class="alumni-meta">Cincinnati Children's Hospital</span><span class="alumni-current-line">Assistant Professor, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.marcruben.net/">Website</a></span></li>
 <li><strong>Satchin Panda</strong><span class="alumni-meta">Scripps Research (Florida)</span><span class="alumni-current-line">Professor, Regulatory Biology Laboratory, Salk Institute for Biological Studies</span><span class="alumni-entry-links"><a href="https://panda.salk.edu/people/">Website</a></span></li>
+<li><strong>Sibel Cal Kayitmazbatir</strong><span class="alumni-meta">Cincinnati Children's Hospital</span><span class="alumni-current-line">PDRA, Musculoskeletal &amp; Ageing Science, University of Liverpool</span><span class="alumni-entry-links"><a href="https://www.liverpool.ac.uk/people/sibel-cal-kayitmazbatir">Website</a></span></li>
 <li><strong>Sumit Chanda</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology, Scripps Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
+<li><strong>Tony Orth</strong><span class="alumni-meta">GNF / Novartis</span></li>
+<li><strong>Trey Sato</strong><span class="alumni-meta">Scripps Research (Florida)</span><span class="alumni-current-line">Senior Scientist, Wisconsin Energy Institute, University of Wisconsin-Madison</span><span class="alumni-entry-links"><a href="https://energy.wisc.edu/index.php/about/energy-experts/trey-sato">Website</a></span></li>
 <li><strong>Yool Lee</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Translational Medicine and Physiology, Washington State University Elson S. Floyd College of Medicine</span><span class="alumni-entry-links"><a href="https://lee-lab.org/">Website</a></span></li>
 </ul>
 </section>
@@ -74,9 +82,11 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Graduate Students</h3>
 <ul class="alumni-list">
-<li><strong>Andrew Su</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Professor, Scripps Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
+<li><strong>Andrew Su</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span><span class="alumni-current-line">Professor, Scripps Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
 <li><strong>Anthony Olarerin-George</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Assistant Professor, Rutgers New Jersey Medical School</span><span class="alumni-entry-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></span></li>
+<li><strong>Nick Lahens</strong><span class="alumni-meta">Penn Medicine</span></li>
 <li><strong>Ray Zhang</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Pathology, UT Southwestern Medical Center</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
+<li><strong>Heather Ballance</strong><span class="alumni-meta">Penn Medicine</span></li>
 </ul>
 </section>
 
@@ -84,6 +94,7 @@ resources, and circadian medicine.
 <h3>Research Scientists</h3>
 <ul class="alumni-list">
 <li><strong>Julie Baggs</strong><span class="alumni-meta">GNF / Novartis; Penn Medicine</span><span class="alumni-current-line">Scientific Director, Omega Bio-tek</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
+<li><strong>Josephine Harada, PhD, MBA</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span><span class="alumni-current-line">Vice President, Corporate and Business Development, Precede Biosciences</span><span class="alumni-entry-links"><a href="https://www.precede.bio/">Website</a></span></li>
 <li><strong>Pedro Aza-Blanc</strong><span class="alumni-meta">GNF / Novartis; Scripps Research (Florida)</span></li>
 </ul>
 </section>
@@ -92,8 +103,6 @@ resources, and circadian medicine.
 <h3>Lab Managers and Technical Staff</h3>
 <ul class="alumni-list">
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
-<li><strong>Josephine Harada</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
-<li><strong>Trey Sato</strong><span class="alumni-meta">Scripps Research (Florida)</span></li>
 </ul>
 </section>
 

@@ -20,9 +20,9 @@ permalink: /index.html
 
 <header class="hero home-hero">
 <div class="hero-copy">
-<p class="eyebrow">Published research program</p>
+<p class="eyebrow">Research program</p>
 <h1>Hogenesch Lab</h1>
-<p class="hero-subtitle">Circadian Biology &#8226; Systems Genomics &#8226; Circadian Medicine</p>
+<p class="hero-subtitle">Circadian Biology &#8226; Systems Biology &#8226; Circadian Medicine</p>
 <p class="lede">The Hogenesch Lab studies biological timing across molecular mechanisms, genome-scale transcription, and medicine. The work links core clock architecture to tissue-scale rhythmic programs and to translational questions about when physiology, disease processes, and therapies are most sensitive to time of day.</p>
 <div class="hero-actions">
 <a class="button" href="research.html">Research</a>
@@ -54,6 +54,7 @@ permalink: /index.html
 <div>
 <ul class="landmark-list">
 <li>Discovery and characterization of BMAL1, NPAS2, and related mammalian clock components.</li>
+<li>Creation of Gene Atlas, one of the first comprehensive maps of gene expression across mammalian tissues.</li>
 <li>Defining the mammalian circadian transcriptome with genome-scale temporal profiling.</li>
 <li>Creation of the circadian gene expression atlas across mouse organs.</li>
 <li>Development of widely used algorithms including JTK_CYCLE, PSEA, and MetaCycle.</li>
@@ -72,7 +73,7 @@ permalink: /index.html
 <section class="section">
 <div class="section-head">
 <p class="eyebrow">Research Themes</p>
-<h2>Four durable areas of work</h2>
+<h2>Four pillars of research</h2>
 </div>
 <div class="theme-grid">
 <div class="theme-card">
@@ -80,7 +81,7 @@ permalink: /index.html
 <p>Mechanistic work on BMAL1, NPAS2, transcriptional feedback architecture, and clock-controlled gene regulation in mammalian systems.</p>
 </div>
 <div class="theme-card">
-<h3>Systems Circadian Biology</h3>
+<h3>Circadian Biology of Clocks</h3>
 <p>Genome-scale analyses of rhythmic transcription, multi-organ atlases, and tissue-specific timing programs across physiology.</p>
 </div>
 <div class="theme-card">

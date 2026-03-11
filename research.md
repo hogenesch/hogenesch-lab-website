@@ -80,5 +80,5 @@ permalink: /research.html
 </div>
 
 <footer class="page-footer">
-<p>The lab's research program is organized around durable published contributions rather than project-specific announcements.</p>
+<p>The lab's research is organized around these themes.</p>
 </footer>
