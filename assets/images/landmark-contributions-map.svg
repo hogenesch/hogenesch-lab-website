@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
-  <title id="title">Landmark contributions across molecular clock biology, atlas-scale genomics, computational methods, and public resources</title>
-  <desc id="desc">A minimal contributions map showing six major areas: positive clock loop, Gene Atlas, circadian transcriptome and organ atlas, algorithms, CYCLOPS and CYCLOPS2, and CircaDB.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" role="img" aria-labelledby="title desc">
+  <title id="title">Landmark contributions arranged around a circle</title>
+  <desc id="desc">A legible circular diagram showing the Hogenesch Lab's landmark contributions: positive loop of the clock, Gene Atlas, core loop with RORA, algorithms, mouse circadian atlas, CYCLOPS, and human circadian atlas.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
       <stop offset="0" stop-color="#f8fbff"/>
@@ -8,51 +8,58 @@
     </linearGradient>
     <style>
       .bg { fill: url(#bg); }
-      .frame { fill: none; stroke: #dce7f1; stroke-width: 2; }
-      .card { fill: #ffffff; stroke: #dce7f1; stroke-width: 2; }
-      .kicker { fill: #1f4e79; font: 700 14px Inter, Arial, sans-serif; letter-spacing: 0.18em; text-transform: uppercase; }
-      .title { fill: #1a1a1a; font: 700 34px Inter, Arial, sans-serif; }
-      .sub { fill: #5a5f66; font: 400 20px "Source Serif Pro", Georgia, serif; }
-      .card-title { fill: #1f4e79; font: 700 24px Inter, Arial, sans-serif; }
-      .card-copy { fill: #33404d; font: 400 18px "Source Serif Pro", Georgia, serif; }
+      .ring { fill: none; stroke: #d5e4f2; stroke-width: 4; }
+      .center { fill: #ffffff; stroke: #dce7f1; stroke-width: 3; }
+      .node { fill: #ffffff; stroke: #dce7f1; stroke-width: 2.5; }
+      .kicker { fill: #1f4e79; font: 700 15px Inter, Arial, sans-serif; letter-spacing: 0.16em; text-transform: uppercase; }
+      .title { fill: #1a1a1a; font: 700 42px Inter, Arial, sans-serif; }
+      .sub { fill: #5a5f66; font: 400 21px "Source Serif Pro", Georgia, serif; }
+      .node-title { fill: #1f4e79; font: 700 26px Inter, Arial, sans-serif; }
+      .node-copy { fill: #33404d; font: 400 19px "Source Serif Pro", Georgia, serif; }
       .mark { fill: #1f4e79; }
     </style>
   </defs>
 
-  <rect class="bg" width="960" height="720" rx="28"/>
-  <rect class="frame" x="28" y="28" width="904" height="664" rx="24"/>
+  <rect class="bg" width="1200" height="840" rx="32"/>
+  <circle class="ring" cx="600" cy="430" r="248"/>
+  <circle class="center" cx="600" cy="430" r="150"/>
 
-  <text class="kicker" x="88" y="98">Landmark Contributions</text>
-  <text class="title" x="88" y="150">A published body of work</text>
-  <text class="sub" x="88" y="190">Clock mechanisms, atlases, computational methods, human ordering, and public resources.</text>
+  <text class="kicker" x="600" y="390" text-anchor="middle">Landmark Contributions</text>
+  <text class="title" x="600" y="445" text-anchor="middle">Published work</text>
+  <text class="sub" x="600" y="485" text-anchor="middle">Clock biology, atlases, methods, and human timing</text>
 
-  <rect class="card" x="72" y="242" width="376" height="118" rx="22"/>
-  <circle class="mark" cx="106" cy="282" r="7"/>
-  <text class="card-title" x="126" y="292">Positive clock loop</text>
-  <text class="card-copy" x="106" y="326">BMAL1, CLOCK, NPAS2, and BMAL2</text>
+  <rect class="node" x="455" y="44" width="290" height="104" rx="24"/>
+  <circle class="mark" cx="492" cy="84" r="7"/>
+  <text class="node-title" x="512" y="94">Positive loop</text>
+  <text class="node-copy" x="492" y="127">BMAL1, CLOCK, NPAS2, BMAL2</text>
 
-  <rect class="card" x="512" y="242" width="376" height="118" rx="22"/>
-  <circle class="mark" cx="546" cy="282" r="7"/>
-  <text class="card-title" x="566" y="292">Gene Atlas</text>
-  <text class="card-copy" x="546" y="326">Tissue-scale mammalian expression maps</text>
+  <rect class="node" x="812" y="154" width="292" height="104" rx="24"/>
+  <circle class="mark" cx="849" cy="194" r="7"/>
+  <text class="node-title" x="869" y="204">Gene Atlas</text>
+  <text class="node-copy" x="849" y="237">Mammalian tissue expression map</text>
 
-  <rect class="card" x="72" y="392" width="376" height="118" rx="22"/>
-  <circle class="mark" cx="106" cy="432" r="7"/>
-  <text class="card-title" x="126" y="442">Circadian atlases</text>
-  <text class="card-copy" x="106" y="476">Transcriptome profiling and mouse organ atlas</text>
+  <rect class="node" x="846" y="372" width="306" height="104" rx="24"/>
+  <circle class="mark" cx="883" cy="412" r="7"/>
+  <text class="node-title" x="903" y="422">Core loop</text>
+  <text class="node-copy" x="883" y="455">RORA, Sato et al., 2004</text>
 
-  <rect class="card" x="512" y="392" width="376" height="118" rx="22"/>
-  <circle class="mark" cx="546" cy="432" r="7"/>
-  <text class="card-title" x="566" y="442">Algorithms</text>
-  <text class="card-copy" x="546" y="476">JTK_CYCLE, PSEA, and MetaCycle</text>
+  <rect class="node" x="770" y="614" width="320" height="104" rx="24"/>
+  <circle class="mark" cx="807" cy="654" r="7"/>
+  <text class="node-title" x="827" y="664">Algorithms</text>
+  <text class="node-copy" x="807" y="697">JTK_CYCLE, PSEA, MetaCycle</text>
 
-  <rect class="card" x="72" y="542" width="376" height="104" rx="22"/>
-  <circle class="mark" cx="106" cy="580" r="7"/>
-  <text class="card-title" x="126" y="590">Human circadian ordering</text>
-  <text class="card-copy" x="106" y="622">CYCLOPS and CYCLOPS2</text>
+  <rect class="node" x="394" y="704" width="412" height="104" rx="24"/>
+  <circle class="mark" cx="431" cy="744" r="7"/>
+  <text class="node-title" x="451" y="754">Mouse circadian atlas</text>
+  <text class="node-copy" x="431" y="787">Multi-organ rhythmic transcription</text>
 
-  <rect class="card" x="512" y="542" width="376" height="104" rx="22"/>
-  <circle class="mark" cx="546" cy="580" r="7"/>
-  <text class="card-title" x="566" y="590">Public resources</text>
-  <text class="card-copy" x="546" y="622">CircaDB and shared circadian data access</text>
+  <rect class="node" x="108" y="614" width="270" height="104" rx="24"/>
+  <circle class="mark" cx="145" cy="654" r="7"/>
+  <text class="node-title" x="165" y="664">CYCLOPS</text>
+  <text class="node-copy" x="145" y="697">Ordered human transcriptomes</text>
+
+  <rect class="node" x="60" y="330" width="334" height="104" rx="24"/>
+  <circle class="mark" cx="97" cy="370" r="7"/>
+  <text class="node-title" x="117" y="380">Human circadian atlas</text>
+  <text class="node-copy" x="97" y="413">Population-scale timing structure</text>
 </svg>
