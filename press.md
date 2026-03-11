@@ -46,6 +46,16 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
+<p class="eyebrow">2024</p>
+<h2>Books and long-form coverage</h2>
+<p>Long-form public writing on circadian medicine and biological timing has also included book-length treatment.</p>
+<div class="press-links">
+<a class="press-link" href="https://lynnepeeples.com/the-inner-clock/" target="_blank" rel="noopener"><span class="source-badge source-badge-book">BOOK</span><span><em>The Inner Clock: Living in Sync with Our Circadian Rhythms</em> by Lynne Peeples</span></a>
+<a class="press-link" href="https://www.theatlantic.com/health/archive/2020/08/hospitals-should-follow-the-bodys-biological-clock/615340/" target="_blank" rel="noopener"><span class="source-badge source-badge-atlantic">ATL</span><span>Our Bodies Process Medicines Best at Certain Times of Day</span></a>
+</div>
+</section>
+
+<section class="theme-block">
 <p class="eyebrow">2004</p>
 <h2>Rora and core clock mechanisms</h2>
 <p>Coverage following the <em>Neuron</em> paper identifying Rora as a component of the mammalian circadian clock.</p>

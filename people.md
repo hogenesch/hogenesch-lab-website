@@ -37,6 +37,8 @@ resources, and circadian medicine.
 
 <p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&hl=en&oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
 
+<p>John Hogenesch serves as President of the <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">Society for Research on Biological Rhythms (SRBR)</a>. The <a href="https://srbr.org/2026-biennial-meeting/" target="_blank" rel="noopener">2026 Biennial Meeting</a> will be held May 9-13, 2026, in Amelia Island, Florida.</p>
+
 <div class="callout">
 <h2>Scientific Lineage</h2>
 <p>The Hogenesch Lab builds on intellectual traditions in core molecular clock work, genomics, systems biology, and circadian medicine. The scientific direction of the lab was shaped by training with several exceptional mentors: <a href="https://mcardle.wisc.edu/faculty/christopher-bradfield/">Christopher A. Bradfield</a>, <a href="https://profiles.utsouthwestern.edu/profile/105885/joseph-takahashi.html">Joseph S. Takahashi</a>, <a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a>, and <a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a>.</p>

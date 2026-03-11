@@ -485,6 +485,14 @@ img {
   background: #b2301f;
 }
 
+.source-badge-atlantic {
+  background: #2a2a2a;
+}
+
+.source-badge-book {
+  background: #6b4e2e;
+}
+
 .source-badge-eureka {
   background: #145c67;
 }
