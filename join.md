@@ -1,6 +1,7 @@
 ---
 title: Join
 permalink: /join.html
+description: Opportunities to join the Hogenesch Lab in circadian biology, systems biology, computational methods, and circadian medicine.
 ---
 
 <div class="masthead">

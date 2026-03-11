@@ -1,6 +1,7 @@
 ---
 title: Scientific Lineage
 permalink: /lineage.html
+description: Scientific Lineage of the Hogenesch Lab, acknowledging the influence of Christopher A. Bradfield, Joseph S. Takahashi, Steve A. Kay, and Peter G. Schultz.
 ---
 
 <div class="masthead">

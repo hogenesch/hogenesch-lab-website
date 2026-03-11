@@ -1,6 +1,7 @@
 ---
 title: Resources
 permalink: /resources.html
+description: Methods, software, and public datasets from the Hogenesch Lab, including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CircaDB, and Gene Atlas.
 ---
 
 <div class="masthead">

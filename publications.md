@@ -1,6 +1,7 @@
 ---
 title: Publications
 permalink: /publications.html
+description: Selected landmark publications from the Hogenesch Lab, with major papers in circadian biology, systems biology, algorithms, and public resources.
 ---
 
 <div class="masthead">

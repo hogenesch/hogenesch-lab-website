@@ -1,6 +1,7 @@
 ---
 title: People
 permalink: /people.html
+description: Meet the Hogenesch Lab, including John B. Hogenesch, current team members, scientific lineage, and alumni across Novartis, Scripps, Penn, and Cincinnati Children's.
 ---
 
 <div class="masthead">

@@ -1,6 +1,7 @@
 ---
 title: Research
 permalink: /research.html
+description: Published research from the Hogenesch Lab spans molecular clock mechanisms, systems biology, computational methods, circadian medicine, and Human Genetics.
 ---
 
 <div class="masthead">

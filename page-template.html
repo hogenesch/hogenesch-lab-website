@@ -3,8 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>$title$</title>
-  <meta name="description" content="Hogenesch Lab: circadian biology, systems biology, and circadian medicine.">
+  <title>$if(seo_title)$$seo_title$$else$$title$ | Hogenesch Lab$endif$</title>
+  <meta name="description" content="$if(description)$$description$$else$Hogenesch Lab studies circadian biology, systems biology, and circadian medicine across clocks, transcriptomes, and public resources.$endif$">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta name="theme-color" content="#1f4e79">
+  <link rel="canonical" href="$if(canonical)$$canonical$$else$https://hogeneschlab.org$permalink$$endif$">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Hogenesch Lab">
+  <meta property="og:title" content="$if(seo_title)$$seo_title$$else$$title$ | Hogenesch Lab$endif$">
+  <meta property="og:description" content="$if(description)$$description$$else$Hogenesch Lab studies circadian biology, systems biology, and circadian medicine across clocks, transcriptomes, and public resources.$endif$">
+  <meta property="og:url" content="$if(canonical)$$canonical$$else$https://hogeneschlab.org$permalink$$endif$">
+  <meta property="og:image" content="https://hogeneschlab.org/assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260309-1">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="$if(seo_title)$$seo_title$$else$$title$ | Hogenesch Lab$endif$">
+  <meta name="twitter:description" content="$if(description)$$description$$else$Hogenesch Lab studies circadian biology, systems biology, and circadian medicine across clocks, transcriptomes, and public resources.$endif$">
+  <meta name="twitter:image" content="https://hogeneschlab.org/assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260309-1">
   <link rel="stylesheet" href="styles.css?v=20260310-1">
 </head>
 <body>

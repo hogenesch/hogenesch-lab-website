@@ -1,6 +1,9 @@
 ---
 title: Hogenesch Lab
 permalink: /index.html
+seo_title: Hogenesch Lab
+canonical: https://hogeneschlab.org/
+description: Hogenesch Lab studies circadian biology, systems biology, and circadian medicine, with landmark contributions in molecular clocks, functional genomics, algorithms, and public resources.
 ---
 
 <div class="masthead">

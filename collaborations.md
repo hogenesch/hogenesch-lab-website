@@ -1,6 +1,7 @@
 ---
 title: Collaborations
 permalink: /collaborations.html
+description: Long-term collaborations of the Hogenesch Lab with Andrew Su, Andrew Liu, Ron Anafi, and others across genomics, circadian biology, and public resources.
 ---
 
 <div class="masthead">
