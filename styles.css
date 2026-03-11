@@ -444,6 +444,13 @@ img {
   margin-left: 0.85rem;
 }
 
+.inline-icon {
+  width: 0.95rem;
+  height: 0.95rem;
+  margin-left: 0.3rem;
+  vertical-align: -0.08rem;
+}
+
 .alumni-intro {
   max-width: 52rem;
 }
