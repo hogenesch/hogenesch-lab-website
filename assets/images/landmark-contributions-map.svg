@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 920" role="img" aria-labelledby="title desc">
   <title id="title">Landmark contributions arranged around a circle</title>
   <desc id="desc">A legible circular diagram showing the Hogenesch Lab's landmark contributions: positive loop of the clock, Gene Atlas, core loop with RORA, algorithms, mouse organ atlas, CYCLOPS, and human circadian transcriptomic structure.</desc>
   <defs>
@@ -8,58 +8,57 @@
     </linearGradient>
     <style>
       .bg { fill: url(#bg); }
-      .ring { fill: none; stroke: #d5e4f2; stroke-width: 4; }
+      .ring { fill: none; stroke: #c8dbee; stroke-width: 6; }
       .center { fill: #ffffff; stroke: #dce7f1; stroke-width: 3; }
       .node { fill: #ffffff; stroke: #dce7f1; stroke-width: 2.5; }
       .kicker { fill: #1f4e79; font: 700 18px Inter, Arial, sans-serif; letter-spacing: 0.16em; text-transform: uppercase; }
-      .title { fill: #1a1a1a; font: 700 56px Inter, Arial, sans-serif; }
-      .sub { fill: #5a5f66; font: 400 27px "Source Serif Pro", Georgia, serif; }
+      .title { fill: #1a1a1a; font: 700 60px Inter, Arial, sans-serif; }
       .node-title { fill: #1f4e79; font: 700 26px Inter, Arial, sans-serif; }
       .node-copy { fill: #33404d; font: 400 19px "Source Serif Pro", Georgia, serif; }
       .mark { fill: #1f4e79; }
     </style>
   </defs>
 
-  <rect class="bg" width="1200" height="840" rx="32"/>
-  <circle class="ring" cx="600" cy="430" r="318"/>
-  <circle class="center" cx="600" cy="430" r="220"/>
+  <rect class="bg" width="1280" height="920" rx="32"/>
+  <circle class="ring" cx="640" cy="460" r="324"/>
+  <circle class="center" cx="640" cy="460" r="198"/>
 
-  <text class="kicker" x="600" y="384" text-anchor="middle">Landmark Contributions</text>
-  <text class="title" x="600" y="452" text-anchor="middle">Published work</text>
-  <text class="sub" x="600" y="505" text-anchor="middle">Clocks, atlases, methods, medicine</text>
+  <text class="kicker" x="640" y="420" text-anchor="middle">Landmark Contributions</text>
+  <text class="title" x="640" y="478" text-anchor="middle">Published</text>
+  <text class="title" x="640" y="542" text-anchor="middle">work</text>
 
-  <rect class="node" x="455" y="28" width="290" height="104" rx="24"/>
-  <circle class="mark" cx="492" cy="84" r="7"/>
-  <text class="node-title" x="512" y="94">Positive loop</text>
-  <text class="node-copy" x="492" y="127">BMAL1, CLOCK, NPAS2, BMAL2</text>
+  <rect class="node" x="495" y="28" width="290" height="104" rx="24"/>
+  <circle class="mark" cx="532" cy="84" r="7"/>
+  <text class="node-title" x="552" y="94">Positive loop</text>
+  <text class="node-copy" x="532" y="127">BMAL1, CLOCK, NPAS2, BMAL2</text>
 
-  <rect class="node" x="844" y="132" width="292" height="104" rx="24"/>
-  <circle class="mark" cx="881" cy="172" r="7"/>
-  <text class="node-title" x="901" y="182">Gene Atlas</text>
-  <text class="node-copy" x="881" y="215">Mammalian tissue expression map</text>
+  <rect class="node" x="934" y="154" width="292" height="104" rx="24"/>
+  <circle class="mark" cx="971" cy="194" r="7"/>
+  <text class="node-title" x="991" y="204">Gene Atlas</text>
+  <text class="node-copy" x="971" y="237">Mammalian tissue expression map</text>
 
-  <rect class="node" x="876" y="368" width="306" height="104" rx="24"/>
-  <circle class="mark" cx="913" cy="408" r="7"/>
-  <text class="node-title" x="933" y="418">Core loop</text>
-  <text class="node-copy" x="913" y="451">RORA, Sato et al., 2004</text>
+  <rect class="node" x="954" y="408" width="306" height="104" rx="24"/>
+  <circle class="mark" cx="991" cy="448" r="7"/>
+  <text class="node-title" x="1011" y="458">Core loop</text>
+  <text class="node-copy" x="991" y="491">RORA, Sato et al., 2004</text>
 
-  <rect class="node" x="784" y="636" width="320" height="104" rx="24"/>
-  <circle class="mark" cx="821" cy="676" r="7"/>
-  <text class="node-title" x="841" y="686">Algorithms</text>
-  <text class="node-copy" x="821" y="719">JTK_CYCLE, PSEA, MetaCycle</text>
+  <rect class="node" x="850" y="736" width="320" height="104" rx="24"/>
+  <circle class="mark" cx="887" cy="776" r="7"/>
+  <text class="node-title" x="907" y="786">Algorithms</text>
+  <text class="node-copy" x="887" y="819">JTK_CYCLE, PSEA, MetaCycle</text>
 
-  <rect class="node" x="394" y="724" width="412" height="104" rx="24"/>
-  <circle class="mark" cx="431" cy="764" r="7"/>
-  <text class="node-title" x="451" y="774">Mouse organ atlas</text>
-  <text class="node-copy" x="431" y="807">Circadian gene expression across organs</text>
+  <rect class="node" x="434" y="794" width="412" height="98" rx="24"/>
+  <circle class="mark" cx="471" cy="832" r="7"/>
+  <text class="node-title" x="491" y="842">Mouse organ atlas</text>
+  <text class="node-copy" x="471" y="872">Circadian gene expression across organs</text>
 
-  <rect class="node" x="96" y="636" width="270" height="104" rx="24"/>
-  <circle class="mark" cx="133" cy="676" r="7"/>
-  <text class="node-title" x="153" y="686">CYCLOPS</text>
-  <text class="node-copy" x="133" y="719">Ordered human transcriptomes</text>
+  <rect class="node" x="110" y="736" width="270" height="104" rx="24"/>
+  <circle class="mark" cx="147" cy="776" r="7"/>
+  <text class="node-title" x="167" y="786">CYCLOPS</text>
+  <text class="node-copy" x="147" y="819">Ordered human transcriptomes</text>
 
-  <rect class="node" x="18" y="368" width="334" height="104" rx="24"/>
-  <circle class="mark" cx="55" cy="408" r="7"/>
-  <text class="node-title" x="75" y="418">Human circadian atlas</text>
-  <text class="node-copy" x="55" y="451">Transcriptomic structure in human cohorts</text>
+  <rect class="node" x="20" y="408" width="334" height="104" rx="24"/>
+  <circle class="mark" cx="57" cy="448" r="7"/>
+  <text class="node-title" x="77" y="458">Human circadian atlas</text>
+  <text class="node-copy" x="57" y="491">Transcriptomic structure in human cohorts</text>
 </svg>
