@@ -37,7 +37,17 @@ resources, and circadian medicine.
 
 <p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&hl=en&oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
 
-<p>John Hogenesch serves as President of the <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">Society for Research on Biological Rhythms (SRBR)</a>. The <a href="https://srbr.org/2026-biennial-meeting/" target="_blank" rel="noopener">2026 Biennial Meeting</a> will be held May 9-13, 2026, in Amelia Island, Florida.</p>
+<div class="callout">
+<div class="collab-heading">
+<img class="institution-logo" src="assets/images/srbr-logo.png?v=20260310-1" alt="Society for Research on Biological Rhythms logo" />
+<div>
+<p class="eyebrow">Professional Service</p>
+<h2>Society for Research on Biological Rhythms</h2>
+</div>
+</div>
+<p>John Hogenesch serves as President of <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">SRBR</a> and has also served as President-Elect, Treasurer, and Comptroller.</p>
+<p>The <a href="https://srbr.org/2026-biennial-meeting/" target="_blank" rel="noopener">2026 Biennial Meeting</a> will be held May 9-13, 2026, in Amelia Island, Florida.</p>
+</div>
 
 <div class="callout">
 <h2>Scientific Lineage</h2>
@@ -68,7 +78,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
-<li><strong>Anand Venkataram</strong><span class="alumni-meta">Penn Medicine</span></li>
+<li><strong>Anand Venkataram</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
 <li><strong>Kevin Hayes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
 <li><strong>Ines Hoffmann</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Director, Head of Clinical Operations, Verge Genomics</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
 <li><strong>Gang Wu</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
