@@ -35,11 +35,14 @@ permalink: /press.html
 </div>
 
 <section class="theme-block">
-<p class="eyebrow">2024</p>
-<h2>Books and long-form coverage</h2>
-<p>Long-form public writing on circadian medicine and biological timing has also included book-length treatment.</p>
+<p class="eyebrow">Books</p>
+<h2>Books and book chapters</h2>
+<p>Book-length treatment and invited book chapters have also helped frame the lab's work for broader scientific and public audiences. This list is limited to direct, verifiable book references rather than generic search-result mentions.</p>
 <div class="press-links">
 <a class="press-link" href="https://lynnepeeples.com/the-inner-clock/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/lynnepeeples.ico?v=20260310-1" alt="Lynne Peeples site icon" /></span><span><em>The Inner Clock: Living in Sync with Our Circadian Rhythms</em> by Lynne Peeples</span></a>
+<a class="press-link" href="https://pure.johnshopkins.edu/en/publications/the-role-of-the-circadian-system-in-homeostasis" target="_blank" rel="noopener"><span class="press-source-fallback">JHU</span><span><em>The Role of the Circadian System in Homeostasis</em> in <em>Handbook of Systems Biology</em> (2013)</span></a>
+<a class="press-link" href="https://link.springer.com/book/10.1007/978-1-4615-0515-0" target="_blank" rel="noopener"><span class="press-source-fallback">BOOK</span><span><em>PAS Proteins in the Mammalian Circadian Clock</em> in <em>PAS Proteins: Regulators and Sensors of Development and Physiology</em> (2003)</span></a>
+<a class="press-link" href="https://utsouthwestern.elsevierpure.com/en/publications/circadian-transcriptional-output-in-the-scn-and-liver-of-the-mous" target="_blank" rel="noopener"><span class="press-source-fallback">UTSW</span><span><em>Circadian transcriptional output in the SCN and liver of the mouse</em> in <em>Novartis Foundation Symposium</em> 253 (2003)</span></a>
 </div>
 </section>
 
