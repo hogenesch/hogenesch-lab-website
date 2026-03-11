@@ -76,6 +76,12 @@ permalink: /resources.html
 ## Public Datasets and Reference Resources
 
 <div class="resource-grid">
+<div class="resource-card resource-card-featured">
+<img class="resource-icon" src="assets/images/gene-atlas-icon.svg" alt="Grid atlas icon representing Gene Atlas." />
+<h2>Gene Atlas</h2>
+<p>The Gene Atlas is one of the earliest comprehensive maps of gene expression across mammalian tissues and remains one of the lab's most influential functional genomics resources.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Publication</a></p>
+</div>
 <div class="resource-card">
 <h2>Circadian Atlas</h2>
 <p>The multi-organ mouse circadian atlas that established the breadth and tissue specificity of rhythmic transcription.</p>
