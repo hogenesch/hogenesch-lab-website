@@ -54,7 +54,7 @@ permalink: /index.html
 <div class="landmark-shell">
 <div>
 <ul class="landmark-list">
-<li>Discovery and characterization of BMAL1, NPAS2, and related mammalian clock components.</li>
+<li>Defining the positive loop of the mammalian circadian clock through BMAL1, CLOCK, NPAS2, and BMAL2.</li>
 <li>Creation of Gene Atlas, one of the first comprehensive maps of gene expression across mammalian tissues.</li>
 <li>Defining the mammalian circadian transcriptome with genome-scale temporal profiling.</li>
 <li>Creation of the circadian gene expression atlas across mouse organs.</li>
