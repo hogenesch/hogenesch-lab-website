@@ -4,9 +4,19 @@
       "title": "Postdoctoral Fellows",
       "entries": [
         {
+          "name": "Anand Venkataram",
+          "role": "Postdoctoral Fellow",
+          "lab_locations": ["Penn Medicine"],
+          "current_position": "",
+          "current_institution": "",
+          "website": "",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
           "name": "Kevin Hayes",
           "role": "Postdoctoral Fellow",
-          "lab_locations": ["GNF / Novartis"],
+          "lab_locations": ["Scripps Research (Florida)", "Penn Medicine"],
           "current_position": "",
           "current_institution": "Pioneer Hi-Bred / DuPont",
           "website": "",
@@ -59,7 +69,7 @@
           "lab_locations": ["Penn Medicine"],
           "current_position": "In memoriam; formerly Assistant Professor of Medicine",
           "current_institution": "Washington University in St. Louis School of Medicine",
-          "website": "https://medicine.wustl.edu/news/remembering-michael-hughes-phd/",
+          "website": "https://medicine.washu.edu/news/obituary-michael-e-hughes-assistant-professor-of-pulmonary-medicine-41/",
           "scholar": "",
           "linkedin": ""
         },
