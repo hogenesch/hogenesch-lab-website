@@ -32,6 +32,8 @@ permalink: /people.html
 
 ### John B. Hogenesch, PhD
 
+Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.
+
 Research in the Hogenesch Lab spans circadian biology, systems genomics, public data
 resources, and circadian medicine.
 

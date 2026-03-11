@@ -127,6 +127,7 @@ permalink: /index.html
 <div class="preview-card">
 <h3>Principal Investigator</h3>
 <p><strong>John B. Hogenesch, PhD</strong></p>
+<p>Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.</p>
 <p>The lab's work spans molecular circadian biology, systems biology, public resources, and translational questions in circadian medicine.</p>
 </div>
 <div class="preview-card">
