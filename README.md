@@ -11,6 +11,7 @@ Minimal GitHub Pages-ready site for the Hogenesch Lab.
 - `data/alumni.json` structured alumni records used to maintain the alumni section
 - `collaborations.md` long-term scientific partnerships and shared outputs
 - `publications.md` selected landmark papers
+- `press.md` selected press coverage and image links for published work
 - `resources.md` software, databases, and analysis resources
 - `join.md` contact and recruiting page
 - `page-template.html` shared Pandoc template
@@ -36,4 +37,4 @@ To regenerate pages locally:
 - Update `people.md` and `join.md` when roster, affiliations, or contact details change.
 - Update `data/alumni.json` and the alumni block in `people.md` together when verifying former lab members.
 - Add new images under `assets/images/` and reference them with relative paths.
-- Keep navigation limited to `Home`, `Research`, `People`, `Scientific Lineage`, `Collaborations`, `Publications`, `Resources`, `CircaDB`, and `Join`.
+- Keep navigation limited to `Home`, `Research`, `People`, `Scientific Lineage`, `Collaborations`, `Publications`, `In the Press`, `Resources`, `CircaDB`, and `Join`.

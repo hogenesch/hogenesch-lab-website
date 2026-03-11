@@ -401,6 +401,13 @@ img {
   letter-spacing: -0.01em;
 }
 
+.resource-icon {
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  margin-bottom: 0.8rem;
+}
+
 .alumni-grid {
   margin-top: 1.2rem;
 }

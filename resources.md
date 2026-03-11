@@ -12,6 +12,7 @@ permalink: /resources.html
   <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a class="active" href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
@@ -27,33 +28,48 @@ permalink: /resources.html
   </p>
 </header>
 
+<div class="callout">
+<h2>Recent Methods Highlight</h2>
+<p><a href="https://journals.sagepub.com/doi/10.1177/07487304251359604" target="_blank" rel="noopener">CYCLOPS2</a> extends the lab's work with Ron Anafi on reconstructing circadian structure from unordered human datasets and addresses newer challenges in circadian data integration.</p>
+</div>
+
 ## Core Lab Resources
 
 <div class="resource-grid">
 <div class="resource-card">
+<img class="resource-icon" src="assets/images/jtk-cycle-icon.svg" alt="Waveform icon representing JTK_CYCLE." />
 <h2>JTK_CYCLE</h2>
 <p>Nonparametric rhythmicity detection for genome-scale time-series data.</p>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/20876817/">Publication</a></p>
 </div>
 <div class="resource-card">
+<img class="resource-icon" src="assets/images/psea-icon.svg" alt="Phase pathway icon representing PSEA." />
 <h2>PSEA</h2>
 <p>Phase Set Enrichment Analysis for interpreting rhythmic pathways and coordinated gene sets.</p>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/26955841/">Publication</a></p>
 </div>
 <div class="resource-card">
+<img class="resource-icon" src="assets/images/metacycle-icon.svg" alt="Combined rhythm icon representing MetaCycle." />
 <h2>MetaCycle</h2>
 <p>Integrated rhythmicity analysis that combines complementary periodicity algorithms.</p>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/27378304/">Publication</a> &#8226; <a href="https://github.com/gangwug/MetaCycle">GitHub</a></p>
 </div>
 <div class="resource-card">
-<h2>CYCLOPS</h2>
-<p>Computational recovery of temporal order in unordered human transcriptomic datasets.</p>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/28439010/">Publication</a></p>
+<img class="resource-icon" src="assets/images/cyclops-icon.svg" alt="Circular ordering icon representing CYCLOPS." />
+<h2>CYCLOPS / CYCLOPS2</h2>
+<p>Computational recovery of temporal order in unordered human transcriptomic datasets, with recent methods work extending the framework to newer integration challenges.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/28439010/">CYCLOPS</a> &#8226; <a href="https://journals.sagepub.com/doi/10.1177/07487304251359604" target="_blank" rel="noopener">CYCLOPS2</a></p>
 </div>
 <div class="resource-card resource-card-featured">
 <h2>CircaDB</h2>
 <p>Searchable mammalian circadian gene-expression profiles for bench and computational investigators.</p>
 <p><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a> &#8226; <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a></p>
+</div>
+<div class="resource-card">
+<img class="resource-icon" src="assets/images/gene-atlas-icon.svg" alt="Grid atlas icon representing Gene Atlas." />
+<h2>Gene Atlas</h2>
+<p>One of the earliest comprehensive maps of gene expression across mammalian tissues and a foundational functional genomics resource.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Publication</a></p>
 </div>
 </div>
 
@@ -71,9 +87,9 @@ permalink: /resources.html
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/30209245/">Publication</a></p>
 </div>
 <div class="resource-card">
-<h2>Gene Atlas and Gene Wiki</h2>
-<p>Earlier large-scale expression and annotation resources that broadened functional genomics utility.</p>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Gene Atlas</a> &#8226; <a href="https://pubmed.ncbi.nlm.nih.gov/19755503/">Gene Wiki</a></p>
+<h2>Gene Wiki</h2>
+<p>Open community annotation for human genes, developed to broaden access to functional genomic knowledge.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/19755503/">Publication</a></p>
 </div>
 </div>
 

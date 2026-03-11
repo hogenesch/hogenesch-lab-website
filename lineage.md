@@ -12,6 +12,7 @@ permalink: /lineage.html
   <a class="active" href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
@@ -22,8 +23,8 @@ permalink: /lineage.html
   <p class="eyebrow">Scientific Lineage</p>
   <h1>Scientific Lineage</h1>
   <p class="lede">
-    The Hogenesch Lab builds on intellectual traditions in chemical biology,
-    circadian biology, and functional genomics.
+    The Hogenesch Lab builds on intellectual traditions in core molecular
+    clock work, genomics, systems biology, and circadian medicine.
   </p>
 </header>
 

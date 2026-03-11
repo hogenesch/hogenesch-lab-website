@@ -12,6 +12,7 @@ permalink: /collaborations.html
   <a href="lineage.html">Scientific Lineage</a>
   <a class="active" href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>

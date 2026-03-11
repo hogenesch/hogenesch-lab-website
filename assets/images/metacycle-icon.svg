@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>MetaCycle icon</title>
+  <rect width="64" height="64" rx="12" fill="#eef4fa"/>
+  <path d="M8 36c5 0 5-10 10-10s5 10 10 10 5-10 10-10 5 10 10 10 5-10 10-10" fill="none" stroke="#1f4e79" stroke-width="3"/>
+  <path d="M8 28c5 0 5-10 10-10s5 10 10 10 5-10 10-10 5 10 10 10 5-10 10-10" fill="none" stroke="#00aac8" stroke-width="3"/>
+  <path d="M8 44c5 0 5-10 10-10s5 10 10 10 5-10 10-10 5 10 10 10 5-10 10-10" fill="none" stroke="#5f8a2f" stroke-width="3"/>
+</svg>

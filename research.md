@@ -12,6 +12,7 @@ permalink: /research.html
   <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
@@ -41,7 +42,7 @@ permalink: /research.html
 
 <section class="theme-block">
 <p class="eyebrow">Theme 2</p>
-<h2>Systems Circadian Biology</h2>
+<h2>Circadian Biology of Clocks</h2>
 <p>The lab has used genome-scale experimental designs to define the breadth of rhythmic transcription across tissues and organs. This work established the mammalian circadian transcriptome as a large, tissue-specific regulatory system rather than a narrow set of canonical clock genes.</p>
 <ul class="theme-list">
 <li>High-resolution temporal profiling of circadian transcription.</li>
@@ -53,11 +54,11 @@ permalink: /research.html
 <section class="theme-block">
 <p class="eyebrow">Theme 3</p>
 <h2>Computational Methods and Public Resources</h2>
-<p>A major part of the lab's scientific footprint is methodological. JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CircaDB were all built to make rhythmic data more interpretable, more reproducible, and more broadly usable by the field.</p>
+<p>A major part of the lab's scientific footprint is methodological. JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CYCLOPS2, and CircaDB were all built to make rhythmic data more interpretable, more reproducible, and more broadly usable by the field.</p>
 <ul class="theme-list">
 <li>JTK_CYCLE and MetaCycle for rhythmicity detection.</li>
 <li>PSEA for phase-structured pathway interpretation.</li>
-<li>CYCLOPS for recovering temporal order in unordered human datasets.</li>
+<li>CYCLOPS and CYCLOPS2 for recovering temporal order and addressing newer integration problems in unordered human datasets.</li>
 <li>CircaDB as a public gene-expression database for rhythmic biology.</li>
 </ul>
 </section>

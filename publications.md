@@ -12,6 +12,7 @@ permalink: /publications.html
   <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a class="active" href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
@@ -31,6 +32,17 @@ permalink: /publications.html
 <h2>Full Publication List</h2>
 <p><a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&amp;hl=en&amp;oi=ao">View the full publication list on Google Scholar</a>.</p>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">Browse Hogenesch publications on PubMed</a>.</p>
+</div>
+
+<div class="callout">
+<h2>Selected Press and News Coverage</h2>
+<p>Several of the papers below were covered by science and general-interest media. Selected examples:</p>
+<p><a href="press.html">See the full In the Press page</a> for additional story links and figure or image sources.</p>
+<ul class="theme-list">
+<li><strong>Sato et al.</strong>, <em>Neuron</em> (2004): <a href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener">ScienceDaily</a> &#8226; <a href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener">Scripps Research News</a></li>
+<li><strong>Zhang et al.</strong>, <em>PNAS</em> (2014): <a href="https://www.sciencedaily.com/releases/2014/10/141027181951.htm" target="_blank" rel="noopener">ScienceDaily</a> &#8226; <a href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener">Phys.org</a> &#8226; <a href="https://www.the-scientist.com/circadian-atlas-chronicles-gene-expression-36537" target="_blank" rel="noopener">The Scientist</a></li>
+<li><strong>Ruben et al.</strong>, <em>Science Translational Medicine</em> (2018): <a href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener">Scientific American</a> &#8226; <a href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener">EurekAlert!</a> &#8226; <a href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener">Cincinnati Children's</a></li>
+</ul>
 </div>
 
 ## Molecular Clock Mechanisms
@@ -54,6 +66,7 @@ permalink: /publications.html
 ## Human Circadian Biology and Circadian Medicine
 
 - Anafi RC, Francey LJ, Hogenesch JB, Kim J. [CYCLOPS reveals human transcriptional rhythms in health and disease](https://pubmed.ncbi.nlm.nih.gov/28439010/). *Proc Natl Acad Sci U S A*. 2017.
+- Anafi RC, Wu G, et al. [CYCLOPS2: Navigating modern challenges in circadian data integration](https://journals.sagepub.com/doi/10.1177/07487304251359604). *J Biol Rhythms*. 2025.
 - Ruben MD, Wu G, Smith DF, Schmidt RE, Francey LJ, Lee YY, Anafi RC, Hogenesch JB. [A database of tissue-specific rhythmically expressed human genes has potential applications in circadian medicine](https://pubmed.ncbi.nlm.nih.gov/30209245/). *Sci Transl Med*. 2018.
 - Ruben MD, Smith DF, FitzGerald GA, Hogenesch JB. [Dosing time matters](https://pubmed.ncbi.nlm.nih.gov/31395773/). *Science*. 2019.
 

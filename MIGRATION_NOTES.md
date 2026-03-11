@@ -22,7 +22,7 @@ adding complexity.
 - Rewrote the homepage so the first screen clearly states who the lab is, what it studies,
   and why it matters.
 - Simplified the top navigation to durable pages only: `Home`, `Research`, `People`,
-  `Collaborations`, `Publications`, `Resources`, and `Join`.
+  `Collaborations`, `Publications`, `In the Press`, `Resources`, and `Join`.
 - Reorganized the homepage around landmark contributions, research themes, a CircaDB feature,
   a people preview, and a recruiting block.
 - Rewrote the research page into a clearer narrative organized by molecular clock biology,
@@ -40,6 +40,7 @@ adding complexity.
 - Added a dedicated collaborations page and promoted it into the primary navigation after
   `People`.
 - Added a dedicated `Scientific Lineage` page and linked it from the homepage and primary navigation.
+- Added a dedicated `In the Press` page for selected external coverage and linked it from the homepage, publications page, and primary navigation.
 - Added simple query-string cache busting for the shared stylesheet and core image assets to reduce stale browser renders after deploy.
 - Standardized CircaDB links to the canonical external URL `http://circadb.hogeneschlab.org/` and removed the redundant local CircaDB page.
 

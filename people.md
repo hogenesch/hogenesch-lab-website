@@ -12,6 +12,7 @@ permalink: /people.html
   <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
@@ -38,7 +39,7 @@ resources, and circadian medicine.
 
 <div class="callout">
 <h2>Scientific Lineage</h2>
-<p>The Hogenesch Lab builds on intellectual traditions in chemical biology, circadian biology, and functional genomics. The scientific direction of the lab was shaped by training with several exceptional mentors: <a href="https://mcardle.wisc.edu/faculty/christopher-bradfield/">Christopher A. Bradfield</a>, <a href="https://profiles.utsouthwestern.edu/profile/105885/joseph-takahashi.html">Joseph S. Takahashi</a>, <a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a>, and <a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a>.</p>
+<p>The Hogenesch Lab builds on intellectual traditions in core molecular clock work, genomics, systems biology, and circadian medicine. The scientific direction of the lab was shaped by training with several exceptional mentors: <a href="https://mcardle.wisc.edu/faculty/christopher-bradfield/">Christopher A. Bradfield</a>, <a href="https://profiles.utsouthwestern.edu/profile/105885/joseph-takahashi.html">Joseph S. Takahashi</a>, <a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a>, and <a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a>.</p>
 <p><a href="lineage.html">Read the Scientific Lineage page</a>.</p>
 </div>
 
@@ -65,7 +66,9 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
+<li><strong>Kevin Hayes</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
 <li><strong>Ines Hoffmann</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Director, Head of Clinical Operations, Verge Genomics</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
+<li><strong>Gang Wu</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
 <li><strong>Ron Anafi</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Associate Professor of Medicine, Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
 <li><strong>Jason DeBruyne</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Professor and Program Director, PhD in Biomedical Sciences, Morehouse School of Medicine</span><span class="alumni-entry-links"><a href="https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php">Website</a></span></li>
 <li><strong>Michael E. Hughes</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">In memoriam; formerly Assistant Professor of Medicine, Washington University in St. Louis School of Medicine</span><span class="alumni-entry-links"><a href="https://medicine.wustl.edu/news/remembering-michael-hughes-phd/">In Memoriam</a></span></li>
@@ -103,6 +106,7 @@ resources, and circadian medicine.
 <h3>Lab Managers and Technical Staff</h3>
 <ul class="alumni-list">
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
+<li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Brigham and Women's Hospital</span></li>
 <li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">GNF / Novartis</span></li>
 </ul>

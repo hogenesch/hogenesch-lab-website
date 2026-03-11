@@ -12,6 +12,7 @@ permalink: /index.html
   <a href="lineage.html">Scientific Lineage</a>
   <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
+  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
   <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
@@ -86,7 +87,7 @@ permalink: /index.html
 </div>
 <div class="theme-card">
 <h3>Computational Methods</h3>
-<p>Algorithms and analytical frameworks including JTK_CYCLE, PSEA, MetaCycle, and CYCLOPS, alongside public data infrastructure.</p>
+<p>Algorithms and analytical frameworks including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CYCLOPS2, alongside public data infrastructure.</p>
 </div>
 <div class="theme-card">
 <h3>Circadian Medicine</h3>
@@ -137,6 +138,15 @@ permalink: /index.html
 <h2>Students, postdoctoral fellows, and collaborators</h2>
 <p>The lab welcomes inquiries from people interested in circadian biology, systems genomics, computational methods, and translational timing questions in medicine.</p>
 <p><a class="button" href="join.html">Join the Lab</a></p>
+</section>
+
+<section class="section">
+<div class="section-head">
+<p class="eyebrow">Press</p>
+<h2>Selected coverage and image links</h2>
+</div>
+<p>Selected external coverage of the lab's published work, with links to stories and associated figure or image pages.</p>
+<p><a class="button button-secondary" href="press.html">View In the Press</a></p>
 </section>
 
 <footer class="page-footer">
