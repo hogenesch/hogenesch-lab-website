@@ -35,14 +35,23 @@ permalink: /press.html
 </div>
 
 <section class="theme-block">
-<p class="eyebrow">New York Times</p>
+<p class="eyebrow">2024</p>
+<h2>Books and long-form coverage</h2>
+<p>Long-form public writing on circadian medicine and biological timing has also included book-length treatment.</p>
+<div class="press-links">
+<a class="press-link" href="https://lynnepeeples.com/the-inner-clock/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/lynnepeeples.ico?v=20260310-1" alt="Lynne Peeples site icon" /></span><span><em>The Inner Clock: Living in Sync with Our Circadian Rhythms</em> by Lynne Peeples</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">2022 and 2001</p>
 <h2>New York Times coverage</h2>
 <p>The lab's work has been featured by <em>The New York Times</em> in both genome-era coverage and later reporting on circadian medicine.</p>
 <div class="press-links">
-<a class="press-link" href="https://www.nytimes.com/2001/08/24/us/human-genome-appears-more-complicated.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>Human Genome Appears More Complicated</span></a>
 <a class="press-link" href="https://www.nytimes.com/2022/07/06/magazine/circadian-medicine.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>The Quest by Circadian Medicine to Make the Most of Our Body Clocks</span></a>
 <a class="press-link" href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" /></span><span>Cincinnati Children's coverage noting the New York Times Magazine feature</span></a>
 <a class="press-link" href="https://www.ninds.nih.gov/news-events/news/news/quest-circadian-medicine-make-most-our-body-clocks" target="_blank" rel="noopener"><span class="press-source-fallback">NINDS</span><span>Accessible mirror of the magazine article</span></a>
+<a class="press-link" href="https://www.nytimes.com/2001/08/24/us/human-genome-appears-more-complicated.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>Human Genome Appears More Complicated</span></a>
 </div>
 </section>
 
@@ -56,22 +65,38 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">2024</p>
-<h2>Books and long-form coverage</h2>
-<p>Long-form public writing on circadian medicine and biological timing has also included book-length treatment.</p>
+<p class="eyebrow">2018-2019</p>
+<h2>CYCLOPS, human rhythms, and circadian medicine</h2>
+<p>Coverage of the human tissue resource built with CYCLOPS and the broader implications for chronotherapy and dosing time.</p>
 <div class="press-links">
-<a class="press-link" href="https://lynnepeeples.com/the-inner-clock/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/lynnepeeples.ico?v=20260310-1" alt="Lynne Peeples site icon" /></span><span><em>The Inner Clock: Living in Sync with Our Circadian Rhythms</em> by Lynne Peeples</span></a>
+<a class="press-link" href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" /></span><span>Cincinnati Children's</span></a>
+<a class="press-link" href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciam.ico?v=20260310-1" alt="Scientific American logo" /></span><span>Scientific American</span></a>
+<a class="press-link" href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener"><span class="press-source-fallback">EurekAlert!</span><span>EurekAlert!</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8961342/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
 </div>
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">2004</p>
-<h2>Rora and core clock mechanisms</h2>
-<p>Coverage following the <em>Neuron</em> paper identifying Rora as a component of the mammalian circadian clock.</p>
+<p class="eyebrow">2014</p>
+<h2>Circadian atlas across mouse organs</h2>
+<p>Coverage of the multi-organ atlas showing the breadth and tissue specificity of rhythmic transcription in mammals.</p>
 <div class="press-links">
-<a class="press-link" href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" /></span><span>Scripps Research News</span></a>
-<a class="press-link" href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
-<a class="press-link" href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pubmed.ico?v=20260310-1" alt="PubMed logo" /></span><span>Paper and figures</span></a>
+<a class="press-link" href="https://qazinform.com/news/body-clock-rush-hour-transformation-discovered_a2711200/" target="_blank" rel="noopener"><span class="press-source-fallback">Mirror</span><span>Syndicated mirror of the BBC News report</span></a>
+<a class="press-link" href="https://www.sciencedaily.com/releases/2014/10/141027181951.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
+<a class="press-link" href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener"><span class="press-source-fallback">Phys.org</span><span>Phys.org</span></a>
+<a class="press-link" href="https://www.the-scientist.com/circadian-atlas-chronicles-gene-expression-36537" target="_blank" rel="noopener"><span class="press-source-fallback">The Scientist</span><span>The Scientist</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4234565/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">2014</p>
+<h2>CHRONO and clock-gene discovery</h2>
+<p>Coverage of the machine-learning work that helped identify CHRONO as a circadian clock component.</p>
+<div class="press-links">
+<a class="press-link" href="https://penntoday.upenn.edu/news/penn-bioinformatics-profiling-identifies-new-mammalian-clock-gene" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/penntoday-shield.ico?v=20260310-1" alt="Penn Today logo" /></span><span>Penn Today</span></a>
+<a class="press-link" href="https://www.sciencedaily.com/releases/2014/04/140422142038.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3988006/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
 </div>
 </section>
 
@@ -96,38 +121,13 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">2014</p>
-<h2>CHRONO and clock-gene discovery</h2>
-<p>Coverage of the machine-learning work that helped identify CHRONO as a circadian clock component.</p>
+<p class="eyebrow">2004</p>
+<h2>Rora and core clock mechanisms</h2>
+<p>Coverage following the <em>Neuron</em> paper identifying Rora as a component of the mammalian circadian clock.</p>
 <div class="press-links">
-<a class="press-link" href="https://penntoday.upenn.edu/news/penn-bioinformatics-profiling-identifies-new-mammalian-clock-gene" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/penntoday-shield.ico?v=20260310-1" alt="Penn Today logo" /></span><span>Penn Today</span></a>
-<a class="press-link" href="https://www.sciencedaily.com/releases/2014/04/140422142038.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
-<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3988006/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
-</div>
-</section>
-
-<section class="theme-block">
-<p class="eyebrow">2014</p>
-<h2>Circadian atlas across mouse organs</h2>
-<p>Coverage of the multi-organ atlas showing the breadth and tissue specificity of rhythmic transcription in mammals.</p>
-<div class="press-links">
-<a class="press-link" href="https://qazinform.com/news/body-clock-rush-hour-transformation-discovered_a2711200/" target="_blank" rel="noopener"><span class="press-source-fallback">Mirror</span><span>Syndicated mirror of the BBC News report</span></a>
-<a class="press-link" href="https://www.sciencedaily.com/releases/2014/10/141027181951.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
-<a class="press-link" href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener"><span class="press-source-fallback">Phys.org</span><span>Phys.org</span></a>
-<a class="press-link" href="https://www.the-scientist.com/circadian-atlas-chronicles-gene-expression-36537" target="_blank" rel="noopener"><span class="press-source-fallback">The Scientist</span><span>The Scientist</span></a>
-<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4234565/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
-</div>
-</section>
-
-<section class="theme-block">
-<p class="eyebrow">2018-2019</p>
-<h2>CYCLOPS, human rhythms, and circadian medicine</h2>
-<p>Coverage of the human tissue resource built with CYCLOPS and the broader implications for chronotherapy and dosing time.</p>
-<div class="press-links">
-<a class="press-link" href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" /></span><span>Cincinnati Children's</span></a>
-<a class="press-link" href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciam.ico?v=20260310-1" alt="Scientific American logo" /></span><span>Scientific American</span></a>
-<a class="press-link" href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener"><span class="press-source-fallback">EurekAlert!</span><span>EurekAlert!</span></a>
-<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8961342/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
+<a class="press-link" href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" /></span><span>Scripps Research News</span></a>
+<a class="press-link" href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
+<a class="press-link" href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pubmed.ico?v=20260310-1" alt="PubMed logo" /></span><span>Paper and figures</span></a>
 </div>
 </section>
 
