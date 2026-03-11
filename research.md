@@ -78,17 +78,19 @@ permalink: /research.html
 <p class="eyebrow">Theme 5</p>
 <h2>Human Genetics and Rare Disease</h2>
 <p>Through Human Genetics at Cincinnati Children's, the lab also studies circadian and sleep phenotypes in rare genetic disease. Published work from this program includes Smith-Kingsmore syndrome, linking clinical phenotyping to molecular and cellular analysis in a translational genetics setting.</p>
+<p>Current work in this area is also supported by the DLG4 SHINE Foundation. Because SHINE-related studies are ongoing, the site links the foundation here as a current funding and community partner without describing unpublished results.</p>
 <div class="logo-strip research-logo-strip">
-<span class="logo-strip-label">Related Programs</span>
+<span class="logo-strip-label">Related Programs and Foundations</span>
 <img src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" />
 <img src="assets/images/sks-foundation-logo.png?v=20260310-1" alt="Smith-Kingsmore Syndrome Foundation logo" />
+<img src="assets/images/shine-foundation-logo.png?v=20260310-1" alt="DLG4 SHINE Foundation logo" />
 </div>
 <ul class="theme-list">
 <li>Rare-disease sleep and circadian phenotyping in Human Genetics.</li>
 <li>Published work on Smith-Kingsmore syndrome in collaboration with clinical and functional genomics investigators.</li>
 <li>Translational connections between genetic diagnosis, mechanism, and time-dependent physiology.</li>
 </ul>
-<p class="section-link"><a href="https://www.cincinnatichildrens.org/service/h/human-genetics" target="_blank" rel="noopener">Human Genetics at Cincinnati Children's</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39030910/" target="_blank" rel="noopener">Published Smith-Kingsmore syndrome study</a> · <a href="https://smithkingsmore.org/" target="_blank" rel="noopener">Smith-Kingsmore Syndrome Foundation</a></p>
+<p class="section-link"><a href="https://www.cincinnatichildrens.org/service/h/human-genetics" target="_blank" rel="noopener">Human Genetics at Cincinnati Children's</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39030910/" target="_blank" rel="noopener">Published Smith-Kingsmore syndrome study</a> · <a href="https://smithkingsmore.org/" target="_blank" rel="noopener">Smith-Kingsmore Syndrome Foundation</a> · <a href="https://www.dlg4shine.org/" target="_blank" rel="noopener">DLG4 SHINE Foundation</a></p>
 </section>
 
 <div class="callout">
