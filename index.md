@@ -67,9 +67,8 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </ul>
 </div>
 <figure class="feature-figure">
-<img src="assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260309-1" alt="Published heatmap showing harmonic structure in mammalian circadian transcription." />
-<figcaption>Genome-scale temporal structure in mammalian transcription from published lab work on circadian and sub-circadian rhythms.</figcaption>
-<p class="visual-source">Hughes et al., <em>PLoS Genetics</em> 2009. Open-access figure (CC BY).</p>
+<img src="assets/images/landmark-contributions-map.svg?v=20260311-1" alt="Conceptual map showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
+<figcaption>A neutral view of the lab's major contributions across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
 </div>
 </section>
