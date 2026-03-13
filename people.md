@@ -121,7 +121,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Lab Managers and Technical Staff</h3>
 <ul class="alumni-list">
-<li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
+<li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span><span class="alumni-current-line">New England Biolabs</span><span class="alumni-entry-links"><a href="https://theorg.com/org/new-england-biolabs/org-chart/jeanne-geskes">Website</a></span></li>
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
 <li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Infection Prevention Manager, Kaiser Permanente</span></li>
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Beth Israel Deaconess Medical Center</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
