@@ -123,6 +123,7 @@ resources, and circadian medicine.
 <ul class="alumni-list">
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span></li>
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
+<li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Infection Prevention Manager, Kaiser Permanente</span></li>
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Brigham and Women's Hospital</span></li>
 <li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">GNF / Novartis</span></li>
 </ul>
