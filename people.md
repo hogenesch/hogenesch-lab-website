@@ -82,7 +82,7 @@ resources, and circadian medicine.
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
 <li><strong>Anand Venkataram</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
-<li><strong>Kevin Hayes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
+<li><strong>Kevin Hayes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span><span class="alumni-current-line">Corteva</span></li>
 <li><strong>Ines Hoffmann</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Director, Head of Clinical Operations, Verge Genomics</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
 <li><strong>Gang Wu</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist, Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
 <li><strong>Ron Anafi</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Associate Professor of Medicine, Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
@@ -122,7 +122,7 @@ resources, and circadian medicine.
 <h3>Lab Managers and Technical Staff</h3>
 <ul class="alumni-list">
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">Scripps Research (Florida); Penn Medicine</span><span class="alumni-current-line">New England Biolabs</span><span class="alumni-entry-links"><a href="https://theorg.com/org/new-england-biolabs/org-chart/jeanne-geskes">Website</a></span></li>
-<li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Pioneer Hi-Bred / DuPont</span></li>
+<li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Corteva</span></li>
 <li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">GNF / Novartis</span><span class="alumni-current-line">Infection Prevention Manager, Kaiser Permanente</span></li>
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Beth Israel Deaconess Medical Center</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
 <li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">GNF / Novartis</span></li>
