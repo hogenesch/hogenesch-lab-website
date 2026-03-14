@@ -114,11 +114,11 @@
           "linkedin": ""
         },
         {
-          "name": "Tony Orth",
+          "name": "Anthony \"Tony\" Orth",
           "role": "Postdoctoral Fellow",
           "lab_locations": ["GNF / Novartis"],
           "current_position": "",
-          "current_institution": "",
+          "current_institution": "Novartis / GNF, La Jolla",
           "website": "",
           "scholar": "",
           "linkedin": ""
@@ -172,8 +172,8 @@
           "name": "Nick Lahens",
           "role": "Graduate Student",
           "lab_locations": ["Penn Medicine"],
-          "current_position": "",
-          "current_institution": "",
+          "current_position": "Staff Scientist",
+          "current_institution": "Penn Medicine",
           "website": "",
           "scholar": "",
           "linkedin": ""
@@ -283,7 +283,7 @@
           "role": "Lab Manager",
           "lab_locations": ["GNF / Novartis"],
           "current_position": "",
-          "current_institution": "",
+          "current_institution": "Novartis / GNF, La Jolla",
           "website": "",
           "scholar": "",
           "linkedin": ""

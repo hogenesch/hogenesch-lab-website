@@ -92,7 +92,7 @@ resources, and circadian medicine.
 <li><strong>Satchin Panda</strong><span class="alumni-meta">Salk Institute for Biological Studies</span><span class="alumni-current-line">Professor, Regulatory Biology Laboratory</span><span class="alumni-entry-links"><a href="https://panda.salk.edu/people/">Website</a></span></li>
 <li><strong>Sibel Cal Kayitmazbatir</strong><span class="alumni-meta">University of Liverpool</span><span class="alumni-current-line">PDRA, Musculoskeletal &amp; Ageing Science</span><span class="alumni-entry-links"><a href="https://www.liverpool.ac.uk/people/sibel-cal-kayitmazbatir">Website</a></span></li>
 <li><strong>Sumit Chanda</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
-<li><strong>Tony Orth</strong></li>
+<li><strong>Anthony "Tony" Orth</strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
 <li><strong>Trey Sato</strong><span class="alumni-meta">University of Wisconsin-Madison</span><span class="alumni-current-line">Senior Scientist, Wisconsin Energy Institute</span><span class="alumni-entry-links"><a href="https://energy.wisc.edu/index.php/about/energy-experts/trey-sato">Website</a></span></li>
 <li><strong>Yool Lee</strong><span class="alumni-meta">Washington State University Elson S. Floyd College of Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Translational Medicine and Physiology</span><span class="alumni-entry-links"><a href="https://lee-lab.org/">Website</a></span></li>
 </ul>
@@ -103,7 +103,7 @@ resources, and circadian medicine.
 <ul class="alumni-list">
 <li><strong>Andrew Su</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
 <li><strong>Anthony Olarerin-George</strong><span class="alumni-meta">Rutgers New Jersey Medical School</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></span></li>
-<li><strong>Nick Lahens</strong></li>
+<li><strong>Nick Lahens</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist</span></li>
 <li><strong>Ray Zhang</strong><span class="alumni-meta">UT Southwestern Medical Center</span><span class="alumni-current-line">Assistant Professor, Department of Pathology</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
 <li><strong>Heather Ballance</strong><span class="alumni-meta">Boston University School of Medicine</span><span class="alumni-current-line">Postdoctoral Researcher</span><span class="alumni-entry-links"><a href="https://www.bumc.bu.edu/ppb/education/pharmacology/training-program/laboratories/wolozinlab/people/">Website</a></span></li>
 </ul>
@@ -125,7 +125,7 @@ resources, and circadian medicine.
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">Corteva</span></li>
 <li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">Kaiser Permanente</span><span class="alumni-current-line">Infection Prevention Manager</span></li>
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
-<li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong></li>
+<li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
 </ul>
 </section>
 
