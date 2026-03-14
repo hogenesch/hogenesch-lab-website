@@ -37,7 +37,6 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/uw-madison-badge.svg?v=20260309-1" alt="University of Wisconsin-Madison icon" />
 <div>
-<p class="eyebrow">Mentor 1</p>
 <h2><a href="https://mcardle.wisc.edu/faculty/christopher-bradfield/">Christopher A. Bradfield</a></h2>
 </div>
 </div>
@@ -48,7 +47,6 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/utsw-badge.svg?v=20260309-1" alt="UT Southwestern icon" />
 <div>
-<p class="eyebrow">Mentor 2</p>
 <h2><a href="https://profiles.utsouthwestern.edu/profile/105885/joseph-takahashi.html">Joseph S. Takahashi</a></h2>
 </div>
 </div>
@@ -59,7 +57,6 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/usc-badge.svg?v=20260309-1" alt="University of Southern California icon" />
 <div>
-<p class="eyebrow">Mentor 3</p>
 <h2><a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a></h2>
 </div>
 </div>
@@ -70,7 +67,6 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
 <div>
-<p class="eyebrow">Mentor 4</p>
 <h2><a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a></h2>
 </div>
 </div>
