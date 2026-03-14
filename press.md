@@ -74,8 +74,17 @@ permalink: /press.html
 <div class="press-links">
 <a class="press-link" href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" /></span><span>Cincinnati Children's</span></a>
 <a class="press-link" href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciam.ico?v=20260310-1" alt="Scientific American logo" /></span><span>Scientific American</span></a>
-<a class="press-link" href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener"><span class="press-source-fallback">EurekAlert!</span><span>EurekAlert!</span></a>
+<a class="press-link" href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/press/eurekalert-logo.png?v=20260314-1" alt="EurekAlert! logo" /></span><span>EurekAlert!</span></a>
 <a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8961342/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">2014</p>
+<h2>Chronotherapy and drug timing</h2>
+<p>Coverage translating circadian pharmacology and the importance of treatment timing for a broader public audience.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.independent.co.uk/life-style/health-and-families/health-news/take-your-medication-at-the-right-time-of-day-to-boost-its-effectiveness-without-taking-more-9821328.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/independent.ico?v=20260314-1" alt="The Independent logo" /></span><span>The Independent</span></a>
 </div>
 </section>
 
@@ -83,10 +92,14 @@ permalink: /press.html
 <p class="eyebrow">2014</p>
 <h2>Circadian atlas across mouse organs</h2>
 <p>Coverage of the multi-organ atlas showing the breadth and tissue specificity of rhythmic transcription in mammals.</p>
+<figure class="press-figure">
+<img src="assets/images/press/atlas-2014-figure1.jpg?v=20260314-1" alt="Open-access figure from the 2014 mouse circadian atlas paper showing circadian genes across multiple organs." />
+<figcaption>Open-access figure from the PNAS mouse circadian atlas paper.</figcaption>
+</figure>
 <div class="press-links">
 <a class="press-link" href="https://qazinform.com/news/body-clock-rush-hour-transformation-discovered_a2711200/" target="_blank" rel="noopener"><span class="press-source-fallback">Mirror</span><span>Syndicated mirror of the BBC News report</span></a>
 <a class="press-link" href="https://www.sciencedaily.com/releases/2014/10/141027181951.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
-<a class="press-link" href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener"><span class="press-source-fallback">Phys.org</span><span>Phys.org</span></a>
+<a class="press-link" href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/physorg.ico?v=20260314-2" alt="Phys.org logo" /></span><span>Phys.org</span></a>
 <a class="press-link" href="https://www.the-scientist.com/circadian-atlas-chronicles-gene-expression-36537" target="_blank" rel="noopener"><span class="press-source-fallback">The Scientist</span><span>The Scientist</span></a>
 <a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4234565/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
 </div>
@@ -96,8 +109,13 @@ permalink: /press.html
 <p class="eyebrow">2014</p>
 <h2>CHRONO and clock-gene discovery</h2>
 <p>Coverage of the machine-learning work that helped identify CHRONO as a circadian clock component.</p>
+<figure class="press-figure">
+<img src="assets/images/press/chrono-2014-figure1.jpg?v=20260314-1" alt="Open-access figure from the 2014 CHRONO paper showing machine-learning evidence across clock and non-clock genes." />
+<figcaption>Open-access figure from the PLOS Biology paper identifying CHRONO.</figcaption>
+</figure>
 <div class="press-links">
 <a class="press-link" href="https://penntoday.upenn.edu/news/penn-bioinformatics-profiling-identifies-new-mammalian-clock-gene" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/penntoday-shield.ico?v=20260310-1" alt="Penn Today logo" /></span><span>Penn Today</span></a>
+<a class="press-link" href="https://medicalxpress.com/news/2014-04-bioinformatics-profiling-mammalian-clock-gene.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/medicalxpress.ico?v=20260314-1" alt="Medical Xpress logo" /></span><span>Medical Xpress</span></a>
 <a class="press-link" href="https://www.sciencedaily.com/releases/2014/04/140422142038.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
 <a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3988006/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access paper figures</span></a>
 </div>

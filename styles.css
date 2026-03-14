@@ -419,6 +419,28 @@ img {
   max-width: 48rem;
 }
 
+.press-figure,
+.section-figure {
+  margin: 1rem 0 1.15rem;
+  max-width: 34rem;
+}
+
+.press-figure img,
+.section-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  background: #ffffff;
+}
+
+.press-figure figcaption,
+.section-figure figcaption {
+  margin-top: 0.45rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
 .press-link {
   display: inline-flex;
   align-items: center;
@@ -467,6 +489,19 @@ img {
   letter-spacing: 0.04em;
   text-align: center;
   white-space: nowrap;
+}
+
+.publication-icon-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1rem 0 1.15rem;
+}
+
+.publication-icon-row .resource-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: 0;
 }
 
 .alumni-grid {

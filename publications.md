@@ -41,35 +41,54 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 <p><a href="press.html">See the full In the Press page</a> for additional story links and figure or image sources.</p>
 <ul class="theme-list">
 <li><strong>Sato et al.</strong>, <em>Neuron</em> (2004): <a href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener">ScienceDaily</a> &#8226; <a href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener">Scripps Research News</a></li>
+<li><strong>Anafi et al.</strong>, <em>PLoS Biology</em> (2014): <a href="https://penntoday.upenn.edu/news/penn-bioinformatics-profiling-identifies-new-mammalian-clock-gene" target="_blank" rel="noopener">Penn Today</a> &#8226; <a href="https://medicalxpress.com/news/2014-04-bioinformatics-profiling-mammalian-clock-gene.html" target="_blank" rel="noopener">Medical Xpress</a> &#8226; <a href="https://www.sciencedaily.com/releases/2014/04/140422142038.htm" target="_blank" rel="noopener">ScienceDaily</a></li>
 <li><strong>Zhang et al.</strong>, <em>PNAS</em> (2014): <a href="https://www.sciencedaily.com/releases/2014/10/141027181951.htm" target="_blank" rel="noopener">ScienceDaily</a> &#8226; <a href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener">Phys.org</a> &#8226; <a href="https://www.the-scientist.com/circadian-atlas-chronicles-gene-expression-36537" target="_blank" rel="noopener">The Scientist</a></li>
-<li><strong>Ruben et al.</strong>, <em>Science Translational Medicine</em> (2018): <a href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener">Scientific American</a> &#8226; <a href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener">EurekAlert!</a> &#8226; <a href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener">Cincinnati Children's</a></li>
+<li><strong>Ruben et al.</strong>, <em>Science Translational Medicine</em> (2018): <a href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener">Scientific American</a> &#8226; <a href="https://www.independent.co.uk/life-style/health-and-families/health-news/take-your-medication-at-the-right-time-of-day-to-boost-its-effectiveness-without-taking-more-9821328.html" target="_blank" rel="noopener">The Independent</a> &#8226; <a href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener">EurekAlert!</a> &#8226; <a href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener">Cincinnati Children's</a></li>
 </ul>
 </div>
 
 ## Molecular Clock Mechanisms
 
-- Hogenesch JB, Gu YZ, Jain S, Bradfield CA. [The basic-helix-loop-helix-PAS orphan MOP3 forms transcriptionally active complexes with circadian and hypoxia factors](https://pubmed.ncbi.nlm.nih.gov/9576906/). *Proc Natl Acad Sci U S A*. 1998.
-- Sato TK, Panda S, Miraglia LJ, Reyes TM, Rudic RD, McNamara P, Naik KA, FitzGerald GA, Kay SA, Hogenesch JB. [A functional genomics strategy reveals Rora as a component of the mammalian circadian clock](https://pubmed.ncbi.nlm.nih.gov/15312651/). *Neuron*. 2004.
+- **BMAL1 / MOP3.** Hogenesch JB, Gu YZ, Jain S, Bradfield CA. [The basic-helix-loop-helix-PAS orphan MOP3 forms transcriptionally active complexes with circadian and hypoxia factors](https://pubmed.ncbi.nlm.nih.gov/9576906/). *Proc Natl Acad Sci U S A*. 1998.
+- **BMAL2 / MOP9.** Hogenesch JB, Gu YZ, Moran SM, Shimomura K, Radcliffe LA, Takahashi JS, Bradfield CA. [The basic helix-loop-helix-PAS protein MOP9 is a brain-specific heterodimeric partner of circadian and hypoxia factors](https://pubmed.ncbi.nlm.nih.gov/10864977/). *J Neurosci*. 2000.
+- **RORA / RORE loop.** Sato TK, Panda S, Miraglia LJ, Reyes TM, Rudic RD, McNamara P, Naik KA, FitzGerald GA, Kay SA, Hogenesch JB. [A functional genomics strategy reveals Rora as a component of the mammalian circadian clock](https://pubmed.ncbi.nlm.nih.gov/15312651/). *Neuron*. 2004.
+- **CHRONO.** Anafi RC, Lee Y, Sato TK, Venkataraman A, Ramanathan C, Kavakli IH, Hughes ME, Baggs JE, Growe J, Liu AC, Kim J, Hogenesch JB. [Machine learning helps identify CHRONO as a circadian clock component](https://pubmed.ncbi.nlm.nih.gov/24737000/). *PLoS Biol*. 2014.
 
 ## Genome-scale Circadian Transcription
 
-- Hughes ME, DiTacchio L, Hayes KR, Vollmers C, Pulivarthy S, Baggs JE, Panda S, Hogenesch JB. [Harmonics of circadian gene transcription in mammals](https://pubmed.ncbi.nlm.nih.gov/19343201/). *PLoS Genet*. 2009.
-- Zhang EE, Liu AC, Hirota T, Miraglia LJ, Welch G, Pongsawakul PY, Liu X, Atwood A, Huss JW 3rd, Janes J, Su AI, Hogenesch JB, Kay SA. [A genome-wide RNAi screen for modifiers of the circadian clock in human cells](https://pubmed.ncbi.nlm.nih.gov/19765810/). *Cell*. 2009.
-- Zhang R, Lahens NF, Ballance HI, Hughes ME, Hogenesch JB. [A circadian gene expression atlas in mammals: implications for biology and medicine](https://pubmed.ncbi.nlm.nih.gov/25349387/). *Proc Natl Acad Sci U S A*. 2014.
+<figure class="section-figure">
+<img src="assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260314-1" alt="Heatmap from the 2009 harmonics paper showing genome-scale circadian transcriptional structure in mammals." />
+<figcaption>Open-access figure from <em>Harmonics of circadian gene transcription in mammals</em> highlighting structured rhythmic transcription at genome scale.</figcaption>
+</figure>
+
+- **Genome-scale mouse transcription.** Panda S, Antoch MP, Miller BH, Su AI, Schook AB, Straume M, Schultz PG, Kay SA, Takahashi JS, Hogenesch JB. [Coordinated transcription of key pathways in the mouse by the circadian clock](https://pubmed.ncbi.nlm.nih.gov/12015981/). *Cell*. 2002.
+- **Mammalian circadian transcriptome.** Hughes ME, DiTacchio L, Hayes KR, Vollmers C, Pulivarthy S, Baggs JE, Panda S, Hogenesch JB. [Harmonics of circadian gene transcription in mammals](https://pubmed.ncbi.nlm.nih.gov/19343201/). *PLoS Genet*. 2009.
+- **Functional genomics clock modulators.** Zhang EE, Liu AC, Hirota T, Miraglia LJ, Welch G, Pongsawakul PY, Liu X, Atwood A, Huss JW 3rd, Janes J, Su AI, Hogenesch JB, Kay SA. [A genome-wide RNAi screen for modifiers of the circadian clock in human cells](https://pubmed.ncbi.nlm.nih.gov/19765810/). *Cell*. 2009.
+- **Mouse organ atlas.** Zhang R, Lahens NF, Ballance HI, Hughes ME, Hogenesch JB. [A circadian gene expression atlas in mammals: implications for biology and medicine](https://pubmed.ncbi.nlm.nih.gov/25349387/). *Proc Natl Acad Sci U S A*. 2014.
+- **Human circadian atlas.** Ruben MD, Wu G, Smith DF, Schmidt RE, Francey LJ, Lee YY, Anafi RC, Hogenesch JB. [A database of tissue-specific rhythmically expressed human genes has potential applications in circadian medicine](https://pubmed.ncbi.nlm.nih.gov/30209245/). *Sci Transl Med*. 2018.
 
 ## Algorithms and Public Resources
 
-- Hughes ME, Hogenesch JB, Kornacker K. [JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets](https://pubmed.ncbi.nlm.nih.gov/20876817/). *J Biol Rhythms*. 2010.
-- Pizarro A, Hayer K, Lahens NF, Hogenesch JB. [CircaDB: a database of mammalian circadian gene expression profiles](https://pubmed.ncbi.nlm.nih.gov/23180795/). *Nucleic Acids Res*. 2013.
-- Zhang R, Podtelezhnikov AA, Hogenesch JB, Anafi RC. [Discovering biology in periodic data through phase set enrichment analysis (PSEA)](https://pubmed.ncbi.nlm.nih.gov/26955841/). *J Biol Rhythms*. 2016.
-- Wu G, Anafi RC, Hughes ME, Kornacker K, Hogenesch JB. [MetaCycle: an integrated R package to evaluate periodicity in large scale data](https://pubmed.ncbi.nlm.nih.gov/27378304/). *Bioinformatics*. 2016.
+<div class="publication-icon-row" aria-hidden="true">
+<img class="resource-icon" src="assets/images/jtk-cycle-icon.svg?v=20260314-1" alt="" />
+<img class="resource-icon" src="assets/images/psea-icon.svg?v=20260314-1" alt="" />
+<img class="resource-icon" src="assets/images/metacycle-icon.svg?v=20260314-1" alt="" />
+<img class="resource-icon" src="assets/images/cyclops-icon.svg?v=20260314-1" alt="" />
+<img class="resource-icon" src="assets/images/gene-atlas-icon.svg?v=20260314-1" alt="" />
+</div>
+
+- **Clock Gene Wiki.** Huss JW 3rd, Orozco C, Goodale J, Wu C, Batalov S, Vickers TJ, Valafar F, Su AI, Hogenesch JB. [Clock Gene Wikis available](https://pubmed.ncbi.nlm.nih.gov/18838611/). *PLoS Comput Biol*. 2008.
+- **JTK_CYCLE.** Hughes ME, Hogenesch JB, Kornacker K. [JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets](https://pubmed.ncbi.nlm.nih.gov/20876817/). *J Biol Rhythms*. 2010.
+- **Gene Wiki.** Huss JW 3rd, Lindenbaum P, Martone M, Roberts D, Pizarro A, Valafar F, Hogenesch JB, Su AI. [The Gene Wiki: community intelligence applied to human gene annotation](https://pubmed.ncbi.nlm.nih.gov/19755503/). *Nucleic Acids Res*. 2010.
+- **CircaDB.** Pizarro A, Hayer K, Lahens NF, Hogenesch JB. [CircaDB: a database of mammalian circadian gene expression profiles](https://pubmed.ncbi.nlm.nih.gov/23180795/). *Nucleic Acids Res*. 2013.
+- **PSEA.** Zhang R, Podtelezhnikov AA, Hogenesch JB, Anafi RC. [Discovering biology in periodic data through phase set enrichment analysis (PSEA)](https://pubmed.ncbi.nlm.nih.gov/26955841/). *J Biol Rhythms*. 2016.
+- **MetaCycle.** Wu G, Anafi RC, Hughes ME, Kornacker K, Hogenesch JB. [MetaCycle: an integrated R package to evaluate periodicity in large scale data](https://pubmed.ncbi.nlm.nih.gov/27378304/). *Bioinformatics*. 2016.
+- **CYCLOPS.** Anafi RC, Francey LJ, Hogenesch JB, Kim J. [CYCLOPS reveals human transcriptional rhythms in health and disease](https://pubmed.ncbi.nlm.nih.gov/28439010/). *Proc Natl Acad Sci U S A*. 2017.
+- **CYCLOPS2.** Anafi RC, Wu G, et al. [CYCLOPS2: Navigating modern challenges in circadian data integration](https://journals.sagepub.com/doi/10.1177/07487304251359604). *J Biol Rhythms*. 2025.
 
 ## Human Circadian Biology and Circadian Medicine
 
-- Anafi RC, Francey LJ, Hogenesch JB, Kim J. [CYCLOPS reveals human transcriptional rhythms in health and disease](https://pubmed.ncbi.nlm.nih.gov/28439010/). *Proc Natl Acad Sci U S A*. 2017.
-- Anafi RC, Wu G, et al. [CYCLOPS2: Navigating modern challenges in circadian data integration](https://journals.sagepub.com/doi/10.1177/07487304251359604). *J Biol Rhythms*. 2025.
-- Ruben MD, Wu G, Smith DF, Schmidt RE, Francey LJ, Lee YY, Anafi RC, Hogenesch JB. [A database of tissue-specific rhythmically expressed human genes has potential applications in circadian medicine](https://pubmed.ncbi.nlm.nih.gov/30209245/). *Sci Transl Med*. 2018.
-- Ruben MD, Smith DF, FitzGerald GA, Hogenesch JB. [Dosing time matters](https://pubmed.ncbi.nlm.nih.gov/31395773/). *Science*. 2019.
+- **Dosing time matters.** Ruben MD, Smith DF, FitzGerald GA, Hogenesch JB. [Dosing time matters](https://pubmed.ncbi.nlm.nih.gov/31395773/). *Science*. 2019.
 
 <footer class="page-footer">
 <p>For software, datasets, and public resources highlighted by these papers, visit <a href="resources.html">Resources</a>.</p>
