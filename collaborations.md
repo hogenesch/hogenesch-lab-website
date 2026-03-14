@@ -35,7 +35,6 @@ description: Long-term collaborations of the Hogenesch Lab with Andrew Su, Andre
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
 <div>
-<p class="eyebrow">Collaboration 1</p>
 <h2>Andrew Su - Scripps Research</h2>
 </div>
 </div>
@@ -53,7 +52,6 @@ description: Long-term collaborations of the Hogenesch Lab with Andrew Su, Andre
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/uf-logo-horizontal.png?v=20260309-1" alt="University of Florida logo" />
 <div>
-<p class="eyebrow">Collaboration 2</p>
 <h2>Andrew Liu - University of Florida</h2>
 </div>
 </div>
@@ -66,7 +64,6 @@ description: Long-term collaborations of the Hogenesch Lab with Andrew Su, Andre
 <div class="collab-heading">
 <img class="institution-logo" src="assets/images/upenn-logo.svg?v=20260309-1" alt="University of Pennsylvania logo" />
 <div>
-<p class="eyebrow">Collaboration 3</p>
 <h2>Ron Anafi - University of Pennsylvania</h2>
 </div>
 </div>
