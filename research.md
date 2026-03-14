@@ -31,7 +31,6 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 </header>
 
 <section class="theme-block">
-<p class="eyebrow">Theme 1</p>
 <h2>Molecular Circadian Clock</h2>
 <p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
 <ul class="theme-list">
@@ -42,7 +41,6 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">Theme 2</p>
 <h2>Circadian Biology of Clocks</h2>
 <p>The lab has used genome-scale experimental designs to define the breadth of rhythmic transcription across tissues and organs. This work established the mammalian circadian transcriptome as a large, tissue-specific regulatory system rather than a narrow set of canonical clock genes.</p>
 <ul class="theme-list">
@@ -53,7 +51,6 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">Theme 3</p>
 <h2>Computational Methods and Public Resources</h2>
 <p>A major part of the lab's scientific footprint is methodological. JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CYCLOPS2, and CircaDB were all built to make rhythmic data more interpretable, more reproducible, and more broadly usable by the field.</p>
 <ul class="theme-list">
@@ -66,7 +63,6 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">Theme 4</p>
 <h2>Circadian Medicine</h2>
 <p>Published human transcriptomics from the lab extended circadian biology into translational settings. This work showed that you can recover time of day from human data, inform physiology and pharmacology, and point the way to better treatments.</p>
 <ul class="theme-list">
@@ -78,7 +74,6 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">Theme 5</p>
 <h2>Human Genetics and Rare Disease</h2>
 <p>Through the Human Genetics Division at Cincinnati Children's, the lab also studies circadian and sleep phenotypes in rare genetic disease. Published work from this program includes Smith-Kingsmore syndrome, linking clinical phenotyping to molecular and cellular analysis in a translational genetics setting.</p>
 <p>Current work in this area is also supported by the DLG4 SHINE Foundation. Because SHINE-related studies are ongoing, the site links the foundation here as a current funding and community partner without describing unpublished results.</p>
