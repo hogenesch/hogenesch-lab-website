@@ -95,6 +95,7 @@ resources, and circadian medicine.
 <li><strong>Anthony "Tony" Orth</strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
 <li><strong>Trey Sato</strong><span class="alumni-meta">University of Wisconsin-Madison</span><span class="alumni-current-line">Senior Scientist, Wisconsin Energy Institute</span><span class="alumni-entry-links"><a href="https://energy.wisc.edu/index.php/about/energy-experts/trey-sato">Website</a></span></li>
 <li><strong>Yool Lee</strong><span class="alumni-meta">Washington State University Elson S. Floyd College of Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Translational Medicine and Physiology</span><span class="alumni-entry-links"><a href="https://lee-lab.org/">Website</a></span></li>
+<li><strong>Julie Baggs</strong><span class="alumni-meta">Omega Bio-tek</span><span class="alumni-current-line">Scientific Director</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
 </ul>
 </section>
 
@@ -112,9 +113,9 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Research Scientists</h3>
 <ul class="alumni-list">
-<li><strong>Julie Baggs</strong><span class="alumni-meta">Omega Bio-tek</span><span class="alumni-current-line">Scientific Director</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
 <li><strong>Josephine Harada, PhD, MBA</strong><span class="alumni-meta">Precede Biosciences</span><span class="alumni-current-line">Vice President, Corporate and Business Development</span><span class="alumni-entry-links"><a href="https://www.precede.bio/">Website</a></span></li>
 <li><strong>Pedro Aza-Blanc</strong><span class="alumni-meta">Thermo Fisher</span><span class="alumni-current-line">Science leader, cell-based genomics / target discovery</span></li>
+<li><strong>John Walker</strong><span class="alumni-meta">GNF / Novartis</span></li>
 </ul>
 </section>
 

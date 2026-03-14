@@ -142,6 +142,16 @@
           "website": "https://lee-lab.org/",
           "scholar": "",
           "linkedin": ""
+        },
+        {
+          "name": "Julie Baggs",
+          "role": "Postdoctoral Fellow",
+          "lab_locations": ["GNF / Novartis", "Penn Medicine"],
+          "current_position": "Scientific Director",
+          "current_institution": "Omega Bio-tek",
+          "website": "https://omegabiotek.com/about-us/our-team/",
+          "scholar": "",
+          "linkedin": ""
         }
       ]
     },
@@ -204,16 +214,6 @@
       "title": "Research Scientists",
       "entries": [
         {
-          "name": "Julie Baggs",
-          "role": "Research Associate",
-          "lab_locations": ["GNF / Novartis", "Penn Medicine"],
-          "current_position": "Scientific Director",
-          "current_institution": "Omega Bio-tek",
-          "website": "https://omegabiotek.com/about-us/our-team/",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
           "name": "Pedro Aza-Blanc",
           "role": "Research Scientist",
           "lab_locations": ["GNF / Novartis"],
@@ -230,6 +230,16 @@
           "current_position": "Vice President, Corporate and Business Development",
           "current_institution": "Precede Biosciences",
           "website": "https://www.precede.bio/",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "John Walker",
+          "role": "Research Scientist",
+          "lab_locations": ["GNF / Novartis"],
+          "current_position": "",
+          "current_institution": "",
+          "website": "",
           "scholar": "",
           "linkedin": ""
         }
