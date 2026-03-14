@@ -507,14 +507,17 @@ img {
 .pub-title-with-icon {
   display: inline-flex;
   align-items: center;
-  gap: 0.32rem;
+  gap: 0.22rem;
 }
 
 .pub-inline-icon {
-  width: 0.9rem;
-  height: 0.9rem;
+  display: inline-block;
+  width: 0.62rem;
+  height: 0.62rem;
+  min-width: 0.62rem;
+  min-height: 0.62rem;
   flex: 0 0 auto;
-  vertical-align: -0.08em;
+  vertical-align: -0.02em;
 }
 
 .alumni-grid {
