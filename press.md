@@ -68,6 +68,16 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
+<p class="eyebrow">2017</p>
+<h2>Nobel recognition and historical framing of the clock field</h2>
+<p>The Nobel materials on circadian rhythm and later historical essays place the core clock-loop work into the canonical narrative of the field.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.nobelprize.org/prizes/medicine/2017/advanced-information/1000/" target="_blank" rel="noopener"><span class="press-source-fallback">NOBEL</span><span>Nobel Prize 2017 advanced information on the molecular mechanisms controlling circadian rhythm</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6584674/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Historical essay naming Hogenesch et al., 1998 in the clock-loop narrative</span></a>
+</div>
+</section>
+
+<section class="theme-block">
 <p class="eyebrow">2014</p>
 <h2>Chronotherapy and drug timing</h2>
 <p>Coverage translating circadian pharmacology and the importance of treatment timing for a broader public audience.</p>
@@ -133,11 +143,44 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
+<p class="eyebrow">2004</p>
+<h2>Rora and core clock mechanisms</h2>
+<p>Coverage following the <em>Neuron</em> paper identifying Rora as a component of the mammalian circadian clock.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" /></span><span>Scripps Research News</span></a>
+<a class="press-link" href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
+<a class="press-link" href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pubmed.ico?v=20260310-1" alt="PubMed logo" /></span><span>Paper and figures</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">2002</p>
+<h2>Science Top 10 and melanopsin</h2>
+<p>Recognition of the melanopsin work as a year-end breakthrough helped establish the broader impact of non-image-forming photoreception research.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.science.org/content/article/breakthroughs-2002-retina-receptors" target="_blank" rel="noopener"><span class="press-source-fallback">SCIENCE</span><span>Breakthroughs 2002: Retina Receptors</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2775350/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Historical profile noting Science's Top 10 recognition for melanopsin in 2002</span></a>
+<a class="press-link" href="https://pubmed.ncbi.nlm.nih.gov/12481140/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pubmed.ico?v=20260310-1" alt="PubMed logo" /></span><span>Role of melanopsin in circadian responses to light</span></a>
+</div>
+</section>
+
+<section class="theme-block">
 <p class="eyebrow">2001</p>
 <h2>New York Times and the human genome</h2>
 <p>Genome-era coverage in <em>The New York Times</em> highlighted the broader implications of the lab's early genomics work.</p>
 <div class="press-links">
 <a class="press-link" href="https://www.nytimes.com/2001/08/24/us/human-genome-appears-more-complicated.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>Human Genome Appears More Complicated</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">1998</p>
+<h2>Science year-end recognition of the core clock loop</h2>
+<p>The early BMAL1/CLOCK loop work was also singled out in year-end Science coverage of research advances in 1998.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.laboratorynetwork.com/doc/science-announces-top-10-research-advances-of-0001" target="_blank" rel="noopener"><span class="press-source-fallback">SCIENCE</span><span>Science Announces Top 10 Research Advances Of 1998</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2775350/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Historical profile noting Science's 1998 year-end recognition</span></a>
+<a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6584674/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Historical essay naming Hogenesch et al., 1998 in the field narrative</span></a>
 </div>
 </section>
 
@@ -150,17 +193,6 @@ permalink: /press.html
 <a class="press-link" href="https://pure.johnshopkins.edu/en/publications/the-role-of-the-circadian-system-in-homeostasis" target="_blank" rel="noopener"><span class="press-source-fallback">JHU</span><span><em>The Role of the Circadian System in Homeostasis</em> in <em>Handbook of Systems Biology</em> (2013)</span></a>
 <a class="press-link" href="https://link.springer.com/book/10.1007/978-1-4615-0515-0" target="_blank" rel="noopener"><span class="press-source-fallback">BOOK</span><span><em>PAS Proteins in the Mammalian Circadian Clock</em> in <em>PAS Proteins: Regulators and Sensors of Development and Physiology</em> (2003)</span></a>
 <a class="press-link" href="https://utsouthwestern.elsevierpure.com/en/publications/circadian-transcriptional-output-in-the-scn-and-liver-of-the-mous" target="_blank" rel="noopener"><span class="press-source-fallback">UTSW</span><span><em>Circadian transcriptional output in the SCN and liver of the mouse</em> in <em>Novartis Foundation Symposium</em> 253 (2003)</span></a>
-</div>
-</section>
-
-<section class="theme-block">
-<p class="eyebrow">2004</p>
-<h2>Rora and core clock mechanisms</h2>
-<p>Coverage following the <em>Neuron</em> paper identifying Rora as a component of the mammalian circadian clock.</p>
-<div class="press-links">
-<a class="press-link" href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" /></span><span>Scripps Research News</span></a>
-<a class="press-link" href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/sciencedaily.ico?v=20260310-1" alt="ScienceDaily logo" /></span><span>ScienceDaily</span></a>
-<a class="press-link" href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pubmed.ico?v=20260310-1" alt="PubMed logo" /></span><span>Paper and figures</span></a>
 </div>
 </section>
 
