@@ -37,7 +37,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <ul class="theme-list">
 <li>Core clock transcription factors in mammalian systems.</li>
 <li>Feedback regulation and clock-controlled gene expression.</li>
-<li>Molecular links between oscillator structure and physiological output.</li>
+<li>Links between molecular output and physiology.</li>
 </ul>
 </section>
 
@@ -48,7 +48,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <ul class="theme-list">
 <li>High-resolution temporal profiling of circadian transcription.</li>
 <li>Multi-organ analysis of rhythmic gene expression across the mouse body.</li>
-<li>Functional genomics approaches to identify regulators and outputs of the clock.</li>
+<li>Functional genomics approaches to identify clock modulators and mechanisms.</li>
 </ul>
 </section>
 
@@ -61,24 +61,26 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>PSEA for phase-structured pathway interpretation.</li>
 <li>CYCLOPS and CYCLOPS2 for recovering temporal order and addressing newer integration problems in unordered human datasets.</li>
 <li>CircaDB as a public gene-expression database for rhythmic biology.</li>
+<li><em>You're welcome.</em></li>
 </ul>
 </section>
 
 <section class="theme-block">
 <p class="eyebrow">Theme 4</p>
 <h2>Circadian Medicine</h2>
-<p>Published human transcriptomics from the lab extended circadian biology into translational settings. This work showed that time-of-day structure can be recovered from human tissues at scale and can inform how physiology, pharmacology, and clinical practice are interpreted.</p>
+<p>Published human transcriptomics from the lab extended circadian biology into translational settings. This work showed that you can recover time of day from human data, inform physiology and pharmacology, and point the way to better treatments.</p>
 <ul class="theme-list">
 <li>Human circadian transcriptomics using CYCLOPS.</li>
 <li>Published resources connecting rhythmic gene expression to medicine.</li>
 <li>Conceptual and empirical work on chronotherapy and timed treatment.</li>
+<li>Time restricted feeding in bone marrow transplant.</li>
 </ul>
 </section>
 
 <section class="theme-block">
 <p class="eyebrow">Theme 5</p>
 <h2>Human Genetics and Rare Disease</h2>
-<p>Through Human Genetics at Cincinnati Children's, the lab also studies circadian and sleep phenotypes in rare genetic disease. Published work from this program includes Smith-Kingsmore syndrome, linking clinical phenotyping to molecular and cellular analysis in a translational genetics setting.</p>
+<p>Through the Human Genetics Division at Cincinnati Children's, the lab also studies circadian and sleep phenotypes in rare genetic disease. Published work from this program includes Smith-Kingsmore syndrome, linking clinical phenotyping to molecular and cellular analysis in a translational genetics setting.</p>
 <p>Current work in this area is also supported by the DLG4 SHINE Foundation. Because SHINE-related studies are ongoing, the site links the foundation here as a current funding and community partner without describing unpublished results.</p>
 <div class="logo-strip research-logo-strip">
 <span class="logo-strip-label">Related Programs and Foundations</span>
