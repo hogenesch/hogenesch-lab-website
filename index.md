@@ -52,7 +52,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 <section class="section">
 <div class="section-head">
 <p class="eyebrow">Landmark Contributions</p>
-<h2>Major published contributions</h2>
+<h2>Major contributions</h2>
 </div>
 <div class="landmark-shell">
 <div>
