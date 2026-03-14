@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 620" role="img" aria-labelledby="title desc">
   <title id="title">Linear timeline of landmark Hogenesch Lab contributions</title>
-  <desc id="desc">A chronological timeline showing major published contributions from 1998 through 2018: RORE loop, Gene Atlas, RORE loop, algorithms, mouse organ atlas, CYCLOPS, and human circadian atlas.</desc>
+  <desc id="desc">A chronological timeline showing major published contributions from 1998 through 2018: core clock loop, Gene Atlas, RORE loop, algorithms, mouse organ atlas, CYCLOPS, and human circadian atlas.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
       <stop offset="0" stop-color="#f8fbff"/>
@@ -27,7 +27,7 @@
     <line class="leader" x1="170" y1="320" x2="170" y2="184"/>
     <circle class="point" cx="170" cy="320" r="11"/>
     <rect class="card" x="28" y="72" width="284" height="112" rx="24"/>
-    <text class="title" x="56" y="118">RORE loop</text>
+    <text class="title" x="56" y="118">Core loop</text>
     <text class="copy" x="56" y="152">BMAL1, CLOCK, NPAS2, BMAL2</text>
     <text class="year" x="170" y="362" text-anchor="middle">1998</text>
   </g>
@@ -37,8 +37,8 @@
     <circle class="point" cx="355" cy="320" r="11"/>
     <rect class="card" x="218" y="430" width="274" height="108" rx="24"/>
     <text class="title" x="246" y="475">Gene Atlas</text>
-    <text class="copy" x="246" y="509">Mammalian tissue expression map</text>
-    <text class="year" x="355" y="362" text-anchor="middle">2004</text>
+    <text class="copy" x="246" y="509">Initial atlas 2002; expanded 2004</text>
+    <text class="year" x="355" y="362" text-anchor="middle">2002</text>
   </g>
 
   <g>
