@@ -76,7 +76,7 @@ resources, and circadian medicine.
 
 ## Alumni
 
-<p class="alumni-intro">The lab's alumni span GNF / Novartis, Scripps Research, Penn Medicine, and Cincinnati Children's Hospital. This section is intentionally inclusive and aims to recognize people who helped build the lab across its different institutional phases, including postdocs, graduate students, research scientists, lab managers, technicians, and closely associated alumni.</p>
+<p class="alumni-intro">The lab's alumni now span academia, medicine, biotechnology, and scientific leadership far beyond any single institutional phase of the lab. This section aims to recognize the people who helped build the Hogenesch Lab across GNF / Novartis, Scripps Research, Penn Medicine, and Cincinnati Children's, including postdocs, graduate students, research scientists, lab managers, technicians, and closely associated alumni.</p>
 
 <section class="alumni-group">
 <h3>Postdoctoral Fellows</h3>
