@@ -35,26 +35,13 @@ permalink: /press.html
 </div>
 
 <section class="theme-block">
-<p class="eyebrow">Books</p>
-<h2>Books and book chapters</h2>
-<p>Book-length treatment and invited book chapters have also helped frame the lab's work for broader scientific and public audiences. This list is limited to direct, verifiable book references rather than generic search-result mentions.</p>
-<div class="press-links">
-<a class="press-link" href="https://lynnepeeples.com/the-inner-clock/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/lynnepeeples.ico?v=20260310-1" alt="Lynne Peeples site icon" /></span><span><em>The Inner Clock: Living in Sync with Our Circadian Rhythms</em> by Lynne Peeples</span></a>
-<a class="press-link" href="https://pure.johnshopkins.edu/en/publications/the-role-of-the-circadian-system-in-homeostasis" target="_blank" rel="noopener"><span class="press-source-fallback">JHU</span><span><em>The Role of the Circadian System in Homeostasis</em> in <em>Handbook of Systems Biology</em> (2013)</span></a>
-<a class="press-link" href="https://link.springer.com/book/10.1007/978-1-4615-0515-0" target="_blank" rel="noopener"><span class="press-source-fallback">BOOK</span><span><em>PAS Proteins in the Mammalian Circadian Clock</em> in <em>PAS Proteins: Regulators and Sensors of Development and Physiology</em> (2003)</span></a>
-<a class="press-link" href="https://utsouthwestern.elsevierpure.com/en/publications/circadian-transcriptional-output-in-the-scn-and-liver-of-the-mous" target="_blank" rel="noopener"><span class="press-source-fallback">UTSW</span><span><em>Circadian transcriptional output in the SCN and liver of the mouse</em> in <em>Novartis Foundation Symposium</em> 253 (2003)</span></a>
-</div>
-</section>
-
-<section class="theme-block">
-<p class="eyebrow">2022 and 2001</p>
-<h2>New York Times coverage</h2>
-<p>The lab's work has been featured by <em>The New York Times</em> in both genome-era coverage and later reporting on circadian medicine.</p>
+<p class="eyebrow">2022</p>
+<h2>New York Times Magazine and circadian medicine</h2>
+<p>The lab's work on circadian medicine reached a broad public audience through long-form reporting in <em>The New York Times Magazine</em>.</p>
 <div class="press-links">
 <a class="press-link" href="https://www.nytimes.com/2022/07/06/magazine/circadian-medicine.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>The Quest by Circadian Medicine to Make the Most of Our Body Clocks</span></a>
 <a class="press-link" href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo press-source-logo-wide" src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" /></span><span>Cincinnati Children's coverage noting the New York Times Magazine feature</span></a>
 <a class="press-link" href="https://www.ninds.nih.gov/news-events/news/news/quest-circadian-medicine-make-most-our-body-clocks" target="_blank" rel="noopener"><span class="press-source-fallback">NINDS</span><span>Accessible mirror of the magazine article</span></a>
-<a class="press-link" href="https://www.nytimes.com/2001/08/24/us/human-genome-appears-more-complicated.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>Human Genome Appears More Complicated</span></a>
 </div>
 </section>
 
@@ -122,7 +109,7 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">2008-2011</p>
+<p class="eyebrow">2013</p>
 <h2>Gene Atlas and open functional genomics resources</h2>
 <p>Retrospective feature coverage of the Gene Atlas work and its role in shaping open genomic resource building.</p>
 <div class="press-links">
@@ -132,12 +119,33 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
-<p class="eyebrow">2008-2011</p>
+<p class="eyebrow">2008</p>
 <h2>Gene Wiki and open community annotation</h2>
 <p>Coverage of the Gene Wiki effort and its role in building open, community-edited genomic knowledge resources.</p>
 <div class="press-links">
 <a class="press-link" href="https://www.abc.net.au/news/2008-07-08/wikipedia-opens-online-library-on-human-genes/2497510" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/abc.ico?v=20260310-1" alt="ABC News logo" /></span><span>ABC News</span></a>
 <a class="press-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2808918/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/pmc.ico?v=20260310-1" alt="PubMed Central logo" /></span><span>Open-access Gene Wiki paper figures</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">2001</p>
+<h2>New York Times and the human genome</h2>
+<p>Genome-era coverage in <em>The New York Times</em> highlighted the broader implications of the lab's early genomics work.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.nytimes.com/2001/08/24/us/human-genome-appears-more-complicated.html" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/nyt.ico?v=20260310-1" alt="The New York Times logo" /></span><span>Human Genome Appears More Complicated</span></a>
+</div>
+</section>
+
+<section class="theme-block">
+<p class="eyebrow">Books</p>
+<h2>Books and book chapters</h2>
+<p>Book-length treatment and invited book chapters have also helped frame the lab's work for broader scientific and public audiences. This list is limited to direct, verifiable book references rather than generic search-result mentions.</p>
+<div class="press-links">
+<a class="press-link" href="https://lynnepeeples.com/the-inner-clock/" target="_blank" rel="noopener"><span class="press-mark"><img class="press-source-logo" src="assets/images/press/lynnepeeples.ico?v=20260310-1" alt="Lynne Peeples site icon" /></span><span><em>The Inner Clock: Living in Sync with Our Circadian Rhythms</em> by Lynne Peeples</span></a>
+<a class="press-link" href="https://pure.johnshopkins.edu/en/publications/the-role-of-the-circadian-system-in-homeostasis" target="_blank" rel="noopener"><span class="press-source-fallback">JHU</span><span><em>The Role of the Circadian System in Homeostasis</em> in <em>Handbook of Systems Biology</em> (2013)</span></a>
+<a class="press-link" href="https://link.springer.com/book/10.1007/978-1-4615-0515-0" target="_blank" rel="noopener"><span class="press-source-fallback">BOOK</span><span><em>PAS Proteins in the Mammalian Circadian Clock</em> in <em>PAS Proteins: Regulators and Sensors of Development and Physiology</em> (2003)</span></a>
+<a class="press-link" href="https://utsouthwestern.elsevierpure.com/en/publications/circadian-transcriptional-output-in-the-scn-and-liver-of-the-mous" target="_blank" rel="noopener"><span class="press-source-fallback">UTSW</span><span><em>Circadian transcriptional output in the SCN and liver of the mouse</em> in <em>Novartis Foundation Symposium</em> 253 (2003)</span></a>
 </div>
 </section>
 
