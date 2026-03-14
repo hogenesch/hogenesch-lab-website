@@ -33,7 +33,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <section class="theme-block">
 <p class="eyebrow">Theme 1</p>
 <h2>Molecular Circadian Clock</h2>
-<p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, work on NPAS2 and related PAS-domain clock components, and mechanistic studies of how core clock factors regulate downstream transcription.</p>
+<p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
 <ul class="theme-list">
 <li>Core clock transcription factors in mammalian systems.</li>
 <li>Feedback regulation and clock-controlled gene expression.</li>
