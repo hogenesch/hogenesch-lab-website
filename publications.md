@@ -35,18 +35,6 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">Browse Hogenesch publications on PubMed</a>.</p>
 </div>
 
-<div class="callout">
-<h2>Selected Press and News Coverage</h2>
-<p>Several of the papers below were covered by science and general-interest media. Selected examples:</p>
-<p><a href="press.html">See the full In the Press page</a> for additional story links and figure or image sources.</p>
-<ul class="theme-list">
-<li><strong>Sato et al.</strong>, <em>Neuron</em> (2004): <a href="https://www.sciencedaily.com/releases/2004/08/040819084416.htm" target="_blank" rel="noopener">ScienceDaily</a> &#8226; <a href="https://www.scripps.edu/newsandviews/e_20040830/clock.html" target="_blank" rel="noopener">Scripps Research News</a></li>
-<li><strong>Anafi et al.</strong>, <em>PLoS Biology</em> (2014): <a href="https://penntoday.upenn.edu/news/penn-bioinformatics-profiling-identifies-new-mammalian-clock-gene" target="_blank" rel="noopener">Penn Today</a> &#8226; <a href="https://medicalxpress.com/news/2014-04-bioinformatics-profiling-mammalian-clock-gene.html" target="_blank" rel="noopener">Medical Xpress</a> &#8226; <a href="https://www.sciencedaily.com/releases/2014/04/140422142038.htm" target="_blank" rel="noopener">ScienceDaily</a></li>
-<li><strong>Zhang et al.</strong>, <em>PNAS</em> (2014): <a href="https://www.sciencedaily.com/releases/2014/10/141027181951.htm" target="_blank" rel="noopener">ScienceDaily</a> &#8226; <a href="https://phys.org/news/2014-10-atlas-body-clock-gene-drug.html" target="_blank" rel="noopener">Phys.org</a> &#8226; <a href="https://www.the-scientist.com/circadian-atlas-chronicles-gene-expression-36537" target="_blank" rel="noopener">The Scientist</a></li>
-<li><strong>Ruben et al.</strong>, <em>Science Translational Medicine</em> (2018): <a href="https://www.scientificamerican.com/article/take-your-pills-when-your-genes-are-most-active/" target="_blank" rel="noopener">Scientific American</a> &#8226; <a href="https://www.independent.co.uk/life-style/health-and-families/health-news/take-your-medication-at-the-right-time-of-day-to-boost-its-effectiveness-without-taking-more-9821328.html" target="_blank" rel="noopener">The Independent</a> &#8226; <a href="https://www.eurekalert.org/news-releases/890782" target="_blank" rel="noopener">EurekAlert!</a> &#8226; <a href="https://www.cincinnatichildrens.org/research/about/breakthrough-discoveries/2019/cyclops-algorithm" target="_blank" rel="noopener">Cincinnati Children's</a></li>
-</ul>
-</div>
-
 ## Molecular Clock Mechanisms
 
 - **BMAL1 / MOP3.** Hogenesch JB, Gu YZ, Jain S, Bradfield CA. [The basic-helix-loop-helix-PAS orphan MOP3 forms transcriptionally active complexes with circadian and hypoxia factors](https://pubmed.ncbi.nlm.nih.gov/9576906/). *Proc Natl Acad Sci U S A*. 1998.
