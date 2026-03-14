@@ -504,6 +504,19 @@ img {
   margin-bottom: 0;
 }
 
+.pub-title-with-icon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.pub-inline-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+  flex: 0 0 auto;
+  vertical-align: -0.15em;
+}
+
 .alumni-grid {
   margin-top: 1.2rem;
 }

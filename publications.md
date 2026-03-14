@@ -49,7 +49,7 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 <figcaption>Open-access figure from <em>Harmonics of circadian gene transcription in mammals</em> highlighting structured rhythmic transcription at genome scale.</figcaption>
 </figure>
 
-- **Genome-scale mouse transcription.** Panda S, Antoch MP, Miller BH, Su AI, Schook AB, Straume M, Schultz PG, Kay SA, Takahashi JS, Hogenesch JB. [Coordinated transcription of key pathways in the mouse by the circadian clock](https://pubmed.ncbi.nlm.nih.gov/12015981/). *Cell*. 2002.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/gene-atlas-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>Gene Atlas.</strong></span> Panda S, Antoch MP, Miller BH, Su AI, Schook AB, Straume M, Schultz PG, Kay SA, Takahashi JS, Hogenesch JB. [Coordinated transcription of key pathways in the mouse by the circadian clock](https://pubmed.ncbi.nlm.nih.gov/12015981/). *Cell*. 2002.
 - **Mammalian circadian transcriptome.** Hughes ME, DiTacchio L, Hayes KR, Vollmers C, Pulivarthy S, Baggs JE, Panda S, Hogenesch JB. [Harmonics of circadian gene transcription in mammals](https://pubmed.ncbi.nlm.nih.gov/19343201/). *PLoS Genet*. 2009.
 - **Functional genomics clock modulators.** Zhang EE, Liu AC, Hirota T, Miraglia LJ, Welch G, Pongsawakul PY, Liu X, Atwood A, Huss JW 3rd, Janes J, Su AI, Hogenesch JB, Kay SA. [A genome-wide RNAi screen for modifiers of the circadian clock in human cells](https://pubmed.ncbi.nlm.nih.gov/19765810/). *Cell*. 2009.
 - **Mouse organ atlas.** Zhang R, Lahens NF, Ballance HI, Hughes ME, Hogenesch JB. [A circadian gene expression atlas in mammals: implications for biology and medicine](https://pubmed.ncbi.nlm.nih.gov/25349387/). *Proc Natl Acad Sci U S A*. 2014.
@@ -57,22 +57,14 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 
 ## Algorithms and Public Resources
 
-<div class="publication-icon-row" aria-hidden="true">
-<img class="resource-icon" src="assets/images/jtk-cycle-icon.svg?v=20260314-1" alt="" />
-<img class="resource-icon" src="assets/images/psea-icon.svg?v=20260314-1" alt="" />
-<img class="resource-icon" src="assets/images/metacycle-icon.svg?v=20260314-1" alt="" />
-<img class="resource-icon" src="assets/images/cyclops-icon.svg?v=20260314-1" alt="" />
-<img class="resource-icon" src="assets/images/gene-atlas-icon.svg?v=20260314-1" alt="" />
-</div>
-
 - **Clock Gene Wiki.** Huss JW 3rd, Orozco C, Goodale J, Wu C, Batalov S, Vickers TJ, Valafar F, Su AI, Hogenesch JB. [Clock Gene Wikis available](https://pubmed.ncbi.nlm.nih.gov/18838611/). *PLoS Comput Biol*. 2008.
-- **JTK_CYCLE.** Hughes ME, Hogenesch JB, Kornacker K. [JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets](https://pubmed.ncbi.nlm.nih.gov/20876817/). *J Biol Rhythms*. 2010.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/jtk-cycle-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>JTK_CYCLE.</strong></span> Hughes ME, Hogenesch JB, Kornacker K. [JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets](https://pubmed.ncbi.nlm.nih.gov/20876817/). *J Biol Rhythms*. 2010.
 - **Gene Wiki.** Huss JW 3rd, Lindenbaum P, Martone M, Roberts D, Pizarro A, Valafar F, Hogenesch JB, Su AI. [The Gene Wiki: community intelligence applied to human gene annotation](https://pubmed.ncbi.nlm.nih.gov/19755503/). *Nucleic Acids Res*. 2010.
 - **CircaDB.** Pizarro A, Hayer K, Lahens NF, Hogenesch JB. [CircaDB: a database of mammalian circadian gene expression profiles](https://pubmed.ncbi.nlm.nih.gov/23180795/). *Nucleic Acids Res*. 2013.
-- **PSEA.** Zhang R, Podtelezhnikov AA, Hogenesch JB, Anafi RC. [Discovering biology in periodic data through phase set enrichment analysis (PSEA)](https://pubmed.ncbi.nlm.nih.gov/26955841/). *J Biol Rhythms*. 2016.
-- **MetaCycle.** Wu G, Anafi RC, Hughes ME, Kornacker K, Hogenesch JB. [MetaCycle: an integrated R package to evaluate periodicity in large scale data](https://pubmed.ncbi.nlm.nih.gov/27378304/). *Bioinformatics*. 2016.
-- **CYCLOPS.** Anafi RC, Francey LJ, Hogenesch JB, Kim J. [CYCLOPS reveals human transcriptional rhythms in health and disease](https://pubmed.ncbi.nlm.nih.gov/28439010/). *Proc Natl Acad Sci U S A*. 2017.
-- **CYCLOPS2.** Anafi RC, Wu G, et al. [CYCLOPS2: Navigating modern challenges in circadian data integration](https://journals.sagepub.com/doi/10.1177/07487304251359604). *J Biol Rhythms*. 2025.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/psea-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>PSEA.</strong></span> Zhang R, Podtelezhnikov AA, Hogenesch JB, Anafi RC. [Discovering biology in periodic data through phase set enrichment analysis (PSEA)](https://pubmed.ncbi.nlm.nih.gov/26955841/). *J Biol Rhythms*. 2016.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/metacycle-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>MetaCycle.</strong></span> Wu G, Anafi RC, Hughes ME, Kornacker K, Hogenesch JB. [MetaCycle: an integrated R package to evaluate periodicity in large scale data](https://pubmed.ncbi.nlm.nih.gov/27378304/). *Bioinformatics*. 2016.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/cyclops-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>CYCLOPS.</strong></span> Anafi RC, Francey LJ, Hogenesch JB, Kim J. [CYCLOPS reveals human transcriptional rhythms in health and disease](https://pubmed.ncbi.nlm.nih.gov/28439010/). *Proc Natl Acad Sci U S A*. 2017.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/cyclops-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>CYCLOPS2.</strong></span> Anafi RC, Wu G, et al. [CYCLOPS2: Navigating modern challenges in circadian data integration](https://journals.sagepub.com/doi/10.1177/07487304251359604). *J Biol Rhythms*. 2025.
 
 ## Human Circadian Biology and Circadian Medicine
 
