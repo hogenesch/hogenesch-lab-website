@@ -57,7 +57,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 <div class="landmark-shell">
 <div>
 <ul class="landmark-list">
-<li>Defining the positive loop of the mammalian circadian clock through BMAL1, CLOCK, NPAS2, and BMAL2.</li>
+<li>Defining the core loop of the mammalian circadian clock through BMAL1, CLOCK, NPAS2, and BMAL2.</li>
 <li>Creation of Gene Atlas, one of the first comprehensive maps of gene expression across mammalian tissues.</li>
 <li>Defining the mammalian circadian transcriptome with genome-scale temporal profiling.</li>
 <li>Creation of the circadian gene expression atlas across mouse organs.</li>
@@ -67,7 +67,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </ul>
 </div>
 <figure class="feature-figure">
-<img src="assets/images/landmark-contributions-map.svg?v=20260313-1" alt="Chronological timeline showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
+<img src="assets/images/landmark-contributions-map.svg?v=20260314-1" alt="Chronological timeline showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
 <figcaption>A chronological view of the lab's major contributions, with time as the organizing variable across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
 </div>
