@@ -76,7 +76,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 <section class="section">
 <div class="section-head">
 <p class="eyebrow">Research Themes</p>
-<h2>Five directions of research</h2>
+<h2>Directions of research</h2>
 </div>
 <div class="theme-grid">
 <div class="theme-card">
