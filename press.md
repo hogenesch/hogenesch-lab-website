@@ -55,6 +55,15 @@ permalink: /press.html
 </section>
 
 <section class="theme-block">
+<p class="eyebrow">2019</p>
+<h2>Nobel materials and the HIF/EPAS1 story</h2>
+<p>The 2019 Nobel Prize materials on oxygen sensing also name Hogenesch et al., 1997 in the historical account of the HIF/EPAS1 field.</p>
+<div class="press-links">
+<a class="press-link" href="https://www.nobelprize.org/prizes/medicine/2019/advanced-information/" target="_blank" rel="noopener"><span class="press-source-fallback">NOBEL</span><span>Nobel Prize 2019 advanced information naming Hogenesch et al., 1997 in the HIF family history</span></a>
+</div>
+</section>
+
+<section class="theme-block">
 <p class="eyebrow">2018-2019</p>
 <h2>CYCLOPS, human rhythms, and circadian medicine</h2>
 <p>Coverage of the human tissue resource built with CYCLOPS and the broader implications for chronotherapy and dosing time.</p>
