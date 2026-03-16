@@ -256,6 +256,31 @@
       ]
     },
     {
+      "title": "Visiting Scientists",
+      "entries": [
+        {
+          "name": "Ibrahim Halil Kavakli",
+          "role": "Visiting Scientist",
+          "lab_locations": [],
+          "current_position": "Professor, Departments of Chemical and Biological Engineering and Molecular Biology and Genetics",
+          "current_institution": "Koc University",
+          "website": "https://www.unige.ch/medecine/gcir/events/past-events/gcir-seminar-11-oct-24-circadian-medicine",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Tiago Gomes de Andrade",
+          "role": "Visiting Scientist",
+          "lab_locations": [],
+          "current_position": "Full Professor, Faculty of Medicine",
+          "current_institution": "Federal University of Alagoas",
+          "website": "https://famed.ufal.br/grupo/cmc/en/members.php",
+          "scholar": "",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
       "title": "Lab Managers",
       "entries": [
         {
@@ -330,11 +355,21 @@
         },
         {
           "name": "Rob Schmidt",
-          "role": "Technician",
+          "role": "Lab Manager",
           "lab_locations": ["Cincinnati Children's Hospital Medical Center"],
           "current_position": "Graduate Student",
           "current_institution": "Iowa State University",
           "website": "",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Samantha Whitacre",
+          "role": "Lab Manager",
+          "lab_locations": ["Cincinnati Children's Hospital Medical Center"],
+          "current_position": "Laboratory Manager (Research Assistant III), Nakamura Lab",
+          "current_institution": "Cincinnati Children's Hospital Medical Center",
+          "website": "https://www.cincinnatichildrens.org/research/divisions/e/endocrinology/labs/nakamura/team",
           "scholar": "",
           "linkedin": ""
         }

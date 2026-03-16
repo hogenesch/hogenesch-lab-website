@@ -123,6 +123,14 @@ resources, and circadian medicine.
 </section>
 
 <section class="alumni-group">
+<h3>Visiting Scientists</h3>
+<ul class="alumni-list">
+<li><strong>Ibrahim Halil Kavakli</strong><span class="alumni-meta">Koc University</span><span class="alumni-current-line">Professor, Departments of Chemical and Biological Engineering and Molecular Biology and Genetics</span><span class="alumni-entry-links"><a href="https://www.unige.ch/medecine/gcir/events/past-events/gcir-seminar-11-oct-24-circadian-medicine">Profile</a></span></li>
+<li><strong>Tiago Gomes de Andrade</strong><span class="alumni-meta">Federal University of Alagoas</span><span class="alumni-current-line">Full Professor, Faculty of Medicine</span><span class="alumni-entry-links"><a href="https://famed.ufal.br/grupo/cmc/en/members.php">Profile</a></span></li>
+</ul>
+</section>
+
+<section class="alumni-group">
 <h3>Lab Managers</h3>
 <ul class="alumni-list">
 <li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
@@ -133,6 +141,7 @@ resources, and circadian medicine.
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-current-line">Research Project Manager</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
 <li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">Novartis / GNF, La Jolla</span><span class="alumni-current-line">Award-winning homebrewer; 2007 National Homebrew Competition silver medalist</span><span class="alumni-entry-links"><a href="https://www.homebrewersassociation.org/attachments/0000/2533/2007_Winners_List.pdf">National Homebrew Competition</a></span></li>
 <li><strong>Rob Schmidt</strong><span class="alumni-meta">Iowa State University</span><span class="alumni-current-line">Graduate Student</span></li>
+<li><strong>Samantha Whitacre</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Laboratory Manager (Research Assistant III), Nakamura Lab</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/e/endocrinology/labs/nakamura/team">Website</a></span></li>
 </ul>
 </section>
 
