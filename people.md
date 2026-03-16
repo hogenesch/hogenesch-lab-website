@@ -83,41 +83,41 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
-<li><strong>Anand Venkataraman</strong><span class="alumni-meta">ZS</span><span class="alumni-current-line">Associate Consultant</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
+<li><strong>Ron Anafi</strong><span class="alumni-meta">Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-current-line">Associate Professor of Medicine</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
+<li><strong>Julie Baggs</strong><span class="alumni-meta">Omega Bio-tek</span><span class="alumni-current-line">Scientific Director</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
+<li><strong>Jason DeBruyne</strong><span class="alumni-meta">Morehouse School of Medicine</span><span class="alumni-current-line">Professor and Program Director, PhD in Biomedical Sciences</span><span class="alumni-entry-links"><a href="https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php">Website</a></span></li>
 <li><strong>Kevin Hayes</strong><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Global Lead, Data Science Strategy and Communications</span><span class="alumni-entry-links"><a href="https://molpharm.wisc.edu/staff/hayes-phd-kevin/">Profile</a></span></li>
 <li><strong>Ines Hoffmann</strong><span class="alumni-meta">Verge Genomics</span><span class="alumni-current-line">Director, Head of Clinical Operations</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
-<li><strong>Gang Wu</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Staff Scientist</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
-<li><strong>Ron Anafi</strong><span class="alumni-meta">Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-current-line">Associate Professor of Medicine</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
-<li><strong>Jason DeBruyne</strong><span class="alumni-meta">Morehouse School of Medicine</span><span class="alumni-current-line">Professor and Program Director, PhD in Biomedical Sciences</span><span class="alumni-entry-links"><a href="https://www.msm.edu/Education/PhDPrograminBiomedicalSciences/faculty/physiology/jason-debruyne.php">Website</a></span></li>
 <li><strong>Michael E. Hughes</strong><span class="alumni-meta">Washington University in St. Louis School of Medicine</span><span class="alumni-current-line">In memoriam; formerly Assistant Professor of Medicine</span><span class="alumni-entry-links"><a href="https://medicine.washu.edu/news/obituary-michael-e-hughes-assistant-professor-of-pulmonary-medicine-41/">In Memoriam</a></span></li>
-<li><strong>Marc D. Ruben</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://www.marcruben.net/">Website</a></span></li>
-<li><strong>Satchin Panda</strong><span class="alumni-meta">Salk Institute for Biological Studies</span><span class="alumni-current-line">Professor, Regulatory Biology Laboratory</span><span class="alumni-entry-links"><a href="https://panda.salk.edu/people/">Website</a> <a href="https://www.salk.edu/scientist/satchidananda-panda/">Awards</a></span></li>
 <li><strong>Sibel Cal Kayitmazbatir</strong><span class="alumni-meta">University of Liverpool</span><span class="alumni-current-line">PDRA, Musculoskeletal &amp; Ageing Science</span><span class="alumni-entry-links"><a href="https://www.liverpool.ac.uk/people/sibel-cal-kayitmazbatir">Website</a></span></li>
-<li><strong>Tony Orth</strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
-<li><strong>Trey Sato</strong><span class="alumni-meta">University of Wisconsin-Madison</span><span class="alumni-current-line">Senior Scientist, Wisconsin Energy Institute</span><span class="alumni-entry-links"><a href="https://energy.wisc.edu/index.php/about/energy-experts/trey-sato">Website</a></span></li>
 <li><strong>Yool Lee</strong><span class="alumni-meta">Washington State University Elson S. Floyd College of Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Translational Medicine and Physiology</span><span class="alumni-entry-links"><a href="https://lee-lab.org/">Website</a></span></li>
-<li><strong>Julie Baggs</strong><span class="alumni-meta">Omega Bio-tek</span><span class="alumni-current-line">Scientific Director</span><span class="alumni-entry-links"><a href="https://omegabiotek.com/about-us/our-team/">Website</a></span></li>
+<li><strong>Tony Orth</strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
+<li><strong>Satchin Panda</strong><span class="alumni-meta">Salk Institute for Biological Studies</span><span class="alumni-current-line">Professor, Regulatory Biology Laboratory</span><span class="alumni-entry-links"><a href="https://panda.salk.edu/people/">Website</a> <a href="https://www.salk.edu/scientist/satchidananda-panda/">Awards</a></span></li>
+<li><strong>Marc D. Ruben</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://www.marcruben.net/">Website</a></span></li>
+<li><strong>Trey Sato</strong><span class="alumni-meta">University of Wisconsin-Madison</span><span class="alumni-current-line">Senior Scientist, Wisconsin Energy Institute</span><span class="alumni-entry-links"><a href="https://energy.wisc.edu/index.php/about/energy-experts/trey-sato">Website</a></span></li>
+<li><strong>Anand Venkataraman</strong><span class="alumni-meta">ZS</span><span class="alumni-current-line">Associate Consultant</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
+<li><strong>Gang Wu</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Staff Scientist</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
 </ul>
 </section>
 
 <section class="alumni-group">
 <h3>Graduate Students</h3>
 <ul class="alumni-list">
-<li><strong>Andrew Su</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor; Elden and Verna Strahm Chair for Medical Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
-<li><strong>Anthony Olarerin-George</strong><span class="alumni-meta">Rutgers New Jersey Medical School</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></span></li>
-<li><strong>Nick Lahens</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist</span></li>
-<li><strong>Ray Zhang</strong><span class="alumni-meta">UT Southwestern Medical Center</span><span class="alumni-current-line">Assistant Professor, Department of Pathology</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
 <li><strong>Heather Ballance</strong><span class="alumni-meta">Boston University School of Medicine</span><span class="alumni-current-line">Postdoctoral Researcher</span><span class="alumni-entry-links"><a href="https://www.bumc.bu.edu/ppb/education/pharmacology/training-program/laboratories/wolozinlab/people/">Website</a></span></li>
+<li><strong>Nick Lahens</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist</span></li>
 <li><strong>Yin Yeng Lee</strong><span class="alumni-meta">Merck</span><span class="alumni-current-line">Postdoctoral Fellow</span><span class="alumni-entry-links"><a href="https://academic.oup.com/bioinformatics/article/38/24/5375/6793848">Paper</a></span></li>
+<li><strong>Anthony Olarerin-George</strong><span class="alumni-meta">Rutgers New Jersey Medical School</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></span></li>
+<li><strong>Andrew Su</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor; Elden and Verna Strahm Chair for Medical Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
+<li><strong>Ray Zhang</strong><span class="alumni-meta">UT Southwestern Medical Center</span><span class="alumni-current-line">Assistant Professor, Department of Pathology</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
 </ul>
 </section>
 
 <section class="alumni-group">
 <h3>Research Scientists</h3>
 <ul class="alumni-list">
-<li><strong>Angel Pizarro</strong><span class="alumni-meta">Amazon Web Services (AWS)</span><span class="alumni-current-line">Principal Developer Advocate</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/angelpizarro/">LinkedIn</a></span></li>
-<li><strong>Josephine Harada, PhD, MBA</strong><span class="alumni-meta">Precede Biosciences</span><span class="alumni-current-line">Vice President, Corporate and Business Development</span><span class="alumni-entry-links"><a href="https://www.precede.bio/">Website</a></span></li>
 <li><strong>Pedro Aza-Blanc</strong><span class="alumni-meta">Thermo Fisher</span><span class="alumni-current-line">Science leader, cell-based genomics / target discovery</span></li>
+<li><strong>Josephine Harada, PhD, MBA</strong><span class="alumni-meta">Precede Biosciences</span><span class="alumni-current-line">Vice President, Corporate and Business Development</span><span class="alumni-entry-links"><a href="https://www.precede.bio/">Website</a></span></li>
+<li><strong>Angel Pizarro</strong><span class="alumni-meta">Amazon Web Services (AWS)</span><span class="alumni-current-line">Principal Developer Advocate</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/angelpizarro/">LinkedIn</a></span></li>
 <li><strong>John Walker</strong><span class="alumni-meta">GNF / Novartis</span></li>
 </ul>
 </section>
@@ -125,22 +125,22 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Visiting Scientists</h3>
 <ul class="alumni-list">
-<li><strong>Ibrahim Halil Kavakli</strong><span class="alumni-meta">Koc University</span><span class="alumni-current-line">Professor, Departments of Chemical and Biological Engineering and Molecular Biology and Genetics</span><span class="alumni-entry-links"><a href="https://www.unige.ch/medecine/gcir/events/past-events/gcir-seminar-11-oct-24-circadian-medicine">Profile</a></span></li>
 <li><strong>Tiago Gomes de Andrade</strong><span class="alumni-meta">Federal University of Alagoas</span><span class="alumni-current-line">Full Professor, Faculty of Medicine</span><span class="alumni-entry-links"><a href="https://famed.ufal.br/grupo/cmc/en/members.php">Profile</a></span></li>
+<li><strong>Ibrahim Halil Kavakli</strong><span class="alumni-meta">Koc University</span><span class="alumni-current-line">Professor, Departments of Chemical and Biological Engineering and Molecular Biology and Genetics</span><span class="alumni-entry-links"><a href="https://www.unige.ch/medecine/gcir/events/past-events/gcir-seminar-11-oct-24-circadian-medicine">Profile</a></span></li>
 </ul>
 </section>
 
 <section class="alumni-group">
 <h3>Lab Managers</h3>
 <ul class="alumni-list">
-<li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
-<li><strong>Eun Ji Kim</strong><span class="alumni-meta">Thermo Fisher Scientific</span><span class="alumni-current-line">Bioinformatics Scientist</span></li>
+<li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-current-line">Research Project Manager</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">New England Biolabs</span><span class="alumni-entry-links"><a href="https://theorg.com/org/new-england-biolabs/org-chart/jeanne-geskes">Website</a></span></li>
 <li><strong>Jacki Growe, MS</strong><span class="alumni-meta">Ensoma</span><span class="alumni-current-line">Genomics Scientist</span></li>
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Director, Biotechnology Genome Center of Excellence; USA Today 2022 Iowa Woman of the Year</span><span class="alumni-entry-links"><a href="https://www.viewsonagriculture.com/contributors/gina-zastrow-hayes/">Profile</a></span></li>
-<li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">Kaiser Permanente</span><span class="alumni-current-line">Infection Prevention Manager</span></li>
-<li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-current-line">Research Project Manager</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
+<li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
+<li><strong>Eun Ji Kim</strong><span class="alumni-meta">Thermo Fisher Scientific</span><span class="alumni-current-line">Bioinformatics Scientist</span></li>
 <li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">Novartis / GNF, La Jolla</span><span class="alumni-current-line">Award-winning homebrewer; 2007 National Homebrew Competition silver medalist</span><span class="alumni-entry-links"><a href="https://www.homebrewersassociation.org/attachments/0000/2533/2007_Winners_List.pdf">National Homebrew Competition</a></span></li>
+<li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">Kaiser Permanente</span><span class="alumni-current-line">Infection Prevention Manager</span></li>
 <li><strong>Rob Schmidt</strong><span class="alumni-meta">Iowa State University</span><span class="alumni-current-line">Graduate Student</span></li>
 <li><strong>Samantha Whitacre</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/e/endocrinology/labs/nakamura/team">Website</a></span></li>
 </ul>
@@ -149,11 +149,11 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Other Alumni</h3>
 <ul class="alumni-list">
-<li><strong>Aaron Willingham</strong><span class="alumni-meta">Merck</span><span class="alumni-current-line">Distinguished Scientist and Group Leader</span></li>
 <li><strong>Sumit Chanda</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
-<li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
-<li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
 <li><strong>Michael Conkright</strong><span class="alumni-meta">The Scripps Research Institute</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/conkright/members.html">Website</a></span></li>
+<li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
+<li><strong>Aaron Willingham</strong><span class="alumni-meta">Merck</span><span class="alumni-current-line">Distinguished Scientist and Group Leader</span></li>
+<li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
 </ul>
 </section>
 
