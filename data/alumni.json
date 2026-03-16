@@ -314,6 +314,16 @@
           "linkedin": ""
         },
         {
+          "name": "Jacki Growe",
+          "role": "Technician",
+          "lab_locations": ["Penn Medicine"],
+          "current_position": "Genomics Scientist",
+          "current_institution": "Ensoma",
+          "website": "",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
           "name": "Gina Zastrow Hayes",
           "role": "Technical Staff",
           "lab_locations": ["GNF / Novartis"],
