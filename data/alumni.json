@@ -124,22 +124,22 @@
           "linkedin": ""
         },
         {
-          "name": "Yool Lee",
-          "role": "Postdoctoral Fellow",
-          "lab_locations": ["Penn Medicine"],
-          "current_position": "Assistant Professor, Department of Translational Medicine and Physiology",
-          "current_institution": "Washington State University Elson S. Floyd College of Medicine",
-          "website": "https://lee-lab.org/",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
           "name": "Julie Baggs",
           "role": "Postdoctoral Fellow",
           "lab_locations": ["GNF / Novartis", "Penn Medicine"],
           "current_position": "Scientific Director",
           "current_institution": "Omega Bio-tek",
           "website": "https://omegabiotek.com/about-us/our-team/",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Yool Lee",
+          "role": "Postdoctoral Fellow",
+          "lab_locations": ["Penn Medicine"],
+          "current_position": "Assistant Professor, Department of Translational Medicine and Physiology",
+          "current_institution": "Washington State University Elson S. Floyd College of Medicine",
+          "website": "https://lee-lab.org/",
           "scholar": "",
           "linkedin": ""
         }
