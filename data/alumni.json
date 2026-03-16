@@ -317,6 +317,16 @@
           "website": "https://www.homebrewersassociation.org/attachments/0000/2533/2007_Winners_List.pdf",
           "scholar": "",
           "linkedin": ""
+        },
+        {
+          "name": "Rob Schmidt",
+          "role": "Technician",
+          "lab_locations": ["Cincinnati Children's Hospital Medical Center"],
+          "current_position": "Graduate Student",
+          "current_institution": "Iowa State University",
+          "website": "",
+          "scholar": "",
+          "linkedin": ""
         }
       ]
     },
