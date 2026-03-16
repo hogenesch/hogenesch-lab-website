@@ -108,6 +108,7 @@ resources, and circadian medicine.
 <li><strong>Nick Lahens</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist</span></li>
 <li><strong>Ray Zhang</strong><span class="alumni-meta">UT Southwestern Medical Center</span><span class="alumni-current-line">Assistant Professor, Department of Pathology</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
 <li><strong>Heather Ballance</strong><span class="alumni-meta">Boston University School of Medicine</span><span class="alumni-current-line">Postdoctoral Researcher</span><span class="alumni-entry-links"><a href="https://www.bumc.bu.edu/ppb/education/pharmacology/training-program/laboratories/wolozinlab/people/">Website</a></span></li>
+<li><strong>Yin Yeng Lee</strong><span class="alumni-meta">Merck</span><span class="alumni-current-line">Postdoctoral Fellow</span><span class="alumni-entry-links"><a href="https://academic.oup.com/bioinformatics/article/38/24/5375/6793848">Paper</a></span></li>
 </ul>
 </section>
 
