@@ -104,16 +104,6 @@
           "linkedin": ""
         },
         {
-          "name": "Sumit Chanda",
-          "role": "Postdoctoral Fellow",
-          "lab_locations": ["GNF / Novartis", "Scripps Research (Florida)"],
-          "current_position": "Professor, Department of Immunology and Microbiology",
-          "current_institution": "Scripps Research",
-          "website": "https://www.scripps.edu/faculty/chanda/",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
           "name": "Tony Orth",
           "role": "Postdoctoral Fellow",
           "lab_locations": ["GNF / Novartis"],
@@ -333,6 +323,16 @@
     {
       "title": "Other Alumni",
       "entries": [
+        {
+          "name": "Sumit Chanda",
+          "role": "Other Alumni",
+          "lab_locations": ["GNF / Novartis", "Scripps Research (Florida)"],
+          "current_position": "Professor, Department of Immunology and Microbiology",
+          "current_institution": "Scripps Research",
+          "website": "https://www.scripps.edu/faculty/chanda/",
+          "scholar": "",
+          "linkedin": ""
+        },
         {
           "name": "Rochelle M. Witt",
           "role": "Mentored Scientist",

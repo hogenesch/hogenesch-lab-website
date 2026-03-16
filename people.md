@@ -93,7 +93,6 @@ resources, and circadian medicine.
 <li><strong>Marc D. Ruben</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://www.marcruben.net/">Website</a></span></li>
 <li><strong>Satchin Panda</strong><span class="alumni-meta">Salk Institute for Biological Studies</span><span class="alumni-current-line">Professor, Regulatory Biology Laboratory</span><span class="alumni-entry-links"><a href="https://panda.salk.edu/people/">Website</a> <a href="https://www.salk.edu/scientist/satchidananda-panda/">Awards</a></span></li>
 <li><strong>Sibel Cal Kayitmazbatir</strong><span class="alumni-meta">University of Liverpool</span><span class="alumni-current-line">PDRA, Musculoskeletal &amp; Ageing Science</span><span class="alumni-entry-links"><a href="https://www.liverpool.ac.uk/people/sibel-cal-kayitmazbatir">Website</a></span></li>
-<li><strong>Sumit Chanda</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
 <li><strong>Tony Orth</strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
 <li><strong>Trey Sato</strong><span class="alumni-meta">University of Wisconsin-Madison</span><span class="alumni-current-line">Senior Scientist, Wisconsin Energy Institute</span><span class="alumni-entry-links"><a href="https://energy.wisc.edu/index.php/about/energy-experts/trey-sato">Website</a></span></li>
 <li><strong>Yool Lee</strong><span class="alumni-meta">Washington State University Elson S. Floyd College of Medicine</span><span class="alumni-current-line">Assistant Professor, Department of Translational Medicine and Physiology</span><span class="alumni-entry-links"><a href="https://lee-lab.org/">Website</a></span></li>
@@ -138,6 +137,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Other Alumni</h3>
 <ul class="alumni-list">
+<li><strong>Sumit Chanda</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
 <li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
 <li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
 </ul>
