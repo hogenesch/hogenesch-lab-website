@@ -135,6 +135,9 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Other Alumni</h3>
 <ul class="alumni-list">
+<li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
+<li><strong>Eun Ji Kim</strong><span class="alumni-meta">Thermo Fisher Scientific</span><span class="alumni-current-line">Bioinformatics Scientist</span></li>
+<li><strong>Angel Pizarro</strong><span class="alumni-meta">Amazon Web Services (AWS)</span><span class="alumni-current-line">Principal Developer Advocate; previously at Google</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/angelpizarro/">LinkedIn</a></span></li>
 <li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
 <li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
 </ul>
