@@ -131,7 +131,7 @@ resources, and circadian medicine.
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">Corteva</span></li>
 <li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">Kaiser Permanente</span><span class="alumni-current-line">Infection Prevention Manager</span></li>
 <li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
-<li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">Novartis / GNF, La Jolla</span></li>
+<li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">Novartis / GNF, La Jolla</span><span class="alumni-current-line">Award-winning homebrewer; 2007 National Homebrew Competition silver medalist</span><span class="alumni-entry-links"><a href="https://www.homebrewersassociation.org/attachments/0000/2533/2007_Winners_List.pdf">NHC</a></span></li>
 </ul>
 </section>
 
