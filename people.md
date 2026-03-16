@@ -115,6 +115,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Research Scientists</h3>
 <ul class="alumni-list">
+<li><strong>Angel Pizarro</strong><span class="alumni-meta">Amazon Web Services (AWS)</span><span class="alumni-current-line">Principal Developer Advocate</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/angelpizarro/">LinkedIn</a></span></li>
 <li><strong>Josephine Harada, PhD, MBA</strong><span class="alumni-meta">Precede Biosciences</span><span class="alumni-current-line">Vice President, Corporate and Business Development</span><span class="alumni-entry-links"><a href="https://www.precede.bio/">Website</a></span></li>
 <li><strong>Pedro Aza-Blanc</strong><span class="alumni-meta">Thermo Fisher</span><span class="alumni-current-line">Science leader, cell-based genomics / target discovery</span></li>
 <li><strong>John Walker</strong><span class="alumni-meta">GNF / Novartis</span></li>
@@ -124,6 +125,8 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Lab Managers and Technical Staff</h3>
 <ul class="alumni-list">
+<li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
+<li><strong>Eun Ji Kim</strong><span class="alumni-meta">Thermo Fisher Scientific</span><span class="alumni-current-line">Bioinformatics Scientist</span></li>
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">New England Biolabs</span><span class="alumni-entry-links"><a href="https://theorg.com/org/new-england-biolabs/org-chart/jeanne-geskes">Website</a></span></li>
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">Corteva</span></li>
 <li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">Kaiser Permanente</span><span class="alumni-current-line">Infection Prevention Manager</span></li>
@@ -135,9 +138,6 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Other Alumni</h3>
 <ul class="alumni-list">
-<li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
-<li><strong>Eun Ji Kim</strong><span class="alumni-meta">Thermo Fisher Scientific</span><span class="alumni-current-line">Bioinformatics Scientist</span></li>
-<li><strong>Angel Pizarro</strong><span class="alumni-meta">Amazon Web Services (AWS)</span><span class="alumni-current-line">Principal Developer Advocate; previously at Google</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/angelpizarro/">LinkedIn</a></span></li>
 <li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
 <li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
 </ul>

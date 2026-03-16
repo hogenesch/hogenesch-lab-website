@@ -214,6 +214,16 @@
       "title": "Research Scientists",
       "entries": [
         {
+          "name": "Angel Pizarro",
+          "role": "Research Scientist",
+          "lab_locations": ["Penn Medicine"],
+          "current_position": "Principal Developer Advocate",
+          "current_institution": "Amazon Web Services (AWS)",
+          "website": "",
+          "scholar": "",
+          "linkedin": "https://www.linkedin.com/in/angelpizarro/"
+        },
+        {
           "name": "Pedro Aza-Blanc",
           "role": "Research Scientist",
           "lab_locations": ["GNF / Novartis"],
@@ -248,6 +258,26 @@
     {
       "title": "Lab Managers and Technical Staff",
       "entries": [
+        {
+          "name": "Amber Kiliti",
+          "role": "Technical Staff",
+          "lab_locations": ["Penn Medicine"],
+          "current_position": "Postdoctoral Fellow in Tumor Biology",
+          "current_institution": "Georgetown University",
+          "website": "",
+          "scholar": "",
+          "linkedin": "https://www.linkedin.com/in/amber-kiliti-7753312a/"
+        },
+        {
+          "name": "Eun Ji Kim",
+          "role": "Technical Staff",
+          "lab_locations": ["Penn Medicine"],
+          "current_position": "Bioinformatics Scientist",
+          "current_institution": "Thermo Fisher Scientific",
+          "website": "",
+          "scholar": "",
+          "linkedin": ""
+        },
         {
           "name": "Jeanne Geskes",
           "role": "Lab Manager",
@@ -303,36 +333,6 @@
     {
       "title": "Other Alumni",
       "entries": [
-        {
-          "name": "Amber Kiliti",
-          "role": "Former lab member",
-          "lab_locations": ["Penn Medicine"],
-          "current_position": "Postdoctoral Fellow in Tumor Biology",
-          "current_institution": "Georgetown University",
-          "website": "",
-          "scholar": "",
-          "linkedin": "https://www.linkedin.com/in/amber-kiliti-7753312a/"
-        },
-        {
-          "name": "Eun Ji Kim",
-          "role": "Former lab member",
-          "lab_locations": ["Penn Medicine"],
-          "current_position": "Bioinformatics Scientist",
-          "current_institution": "Thermo Fisher Scientific",
-          "website": "",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
-          "name": "Angel Pizarro",
-          "role": "Former lab member",
-          "lab_locations": ["Penn Medicine"],
-          "current_position": "Principal Developer Advocate; previously at Google",
-          "current_institution": "Amazon Web Services (AWS)",
-          "website": "",
-          "scholar": "",
-          "linkedin": "https://www.linkedin.com/in/angelpizarro/"
-        },
         {
           "name": "Rochelle M. Witt",
           "role": "Mentored Scientist",
