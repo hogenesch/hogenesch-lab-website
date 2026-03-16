@@ -84,7 +84,7 @@ resources, and circadian medicine.
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
 <li><strong>Anand Venkataram</strong><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
-<li><strong>Kevin Hayes</strong><span class="alumni-meta">Corteva</span></li>
+<li><strong>Kevin Hayes</strong><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Global Lead, Data Science Strategy and Communications</span><span class="alumni-entry-links"><a href="https://molpharm.wisc.edu/staff/hayes-phd-kevin/">Profile</a></span></li>
 <li><strong>Ines Hoffmann</strong><span class="alumni-meta">Verge Genomics</span><span class="alumni-current-line">Director, Head of Clinical Operations</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
 <li><strong>Gang Wu</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Staff Scientist</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
 <li><strong>Ron Anafi</strong><span class="alumni-meta">Perelman School of Medicine, University of Pennsylvania</span><span class="alumni-current-line">Associate Professor of Medicine</span><span class="alumni-entry-links"><a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8198976">Website</a></span></li>
@@ -103,7 +103,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Graduate Students</h3>
 <ul class="alumni-list">
-<li><strong>Andrew Su</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
+<li><strong>Andrew Su</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor; Elden and Verna Strahm Chair for Medical Research</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/su/">Website</a></span></li>
 <li><strong>Anthony Olarerin-George</strong><span class="alumni-meta">Rutgers New Jersey Medical School</span><span class="alumni-current-line">Assistant Professor</span><span class="alumni-entry-links"><a href="https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php">Website</a></span></li>
 <li><strong>Nick Lahens</strong><span class="alumni-meta">Penn Medicine</span><span class="alumni-current-line">Staff Scientist</span></li>
 <li><strong>Ray Zhang</strong><span class="alumni-meta">UT Southwestern Medical Center</span><span class="alumni-current-line">Assistant Professor, Department of Pathology</span><span class="alumni-entry-links"><a href="https://profiles.utsouthwestern.edu/profile/208386/ray-zhang.html">Website</a></span></li>
@@ -129,7 +129,7 @@ resources, and circadian medicine.
 <li><strong>Jeanne Geskes</strong><span class="alumni-meta">New England Biolabs</span><span class="alumni-entry-links"><a href="https://theorg.com/org/new-england-biolabs/org-chart/jeanne-geskes">Website</a></span></li>
 <li><strong>Gina Zastrow Hayes</strong><span class="alumni-meta">Corteva</span></li>
 <li><strong>Kinnery Naik Patel, MPH</strong><span class="alumni-meta">Kaiser Permanente</span><span class="alumni-current-line">Infection Prevention Manager</span></li>
-<li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
+<li><strong>Lauren Francey</strong><span class="alumni-meta">Beth Israel Deaconess Medical Center</span><span class="alumni-current-line">Research Project Manager</span><span class="alumni-entry-links"><a href="https://research.bidmc.org/david-friedman/people/lauren-francey">Website</a></span></li>
 <li><strong>Loren Miraglia <img class="inline-icon" src="assets/images/hops-icon.svg" alt="Hops icon" /></strong><span class="alumni-meta">Novartis / GNF, La Jolla</span><span class="alumni-current-line">Award-winning homebrewer; 2007 National Homebrew Competition silver medalist</span><span class="alumni-entry-links"><a href="https://www.homebrewersassociation.org/attachments/0000/2533/2007_Winners_List.pdf">National Homebrew Competition</a></span></li>
 </ul>
 </section>
