@@ -83,7 +83,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Postdoctoral Fellows</h3>
 <ul class="alumni-list">
-<li><strong>Anand Venkataram</strong><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
+<li><strong>Anand Venkataraman</strong><span class="alumni-meta">ZS</span><span class="alumni-current-line">Associate Consultant</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/venkatan22/">LinkedIn</a></span></li>
 <li><strong>Kevin Hayes</strong><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Global Lead, Data Science Strategy and Communications</span><span class="alumni-entry-links"><a href="https://molpharm.wisc.edu/staff/hayes-phd-kevin/">Profile</a></span></li>
 <li><strong>Ines Hoffmann</strong><span class="alumni-meta">Verge Genomics</span><span class="alumni-current-line">Director, Head of Clinical Operations</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
 <li><strong>Gang Wu</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Staff Scientist</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people">Website</a></span></li>
