@@ -74,16 +74,6 @@
           "linkedin": ""
         },
         {
-          "name": "Michael Conkright",
-          "role": "Postdoctoral Fellow",
-          "lab_locations": ["Scripps Research (Florida)"],
-          "current_position": "Assistant Professor",
-          "current_institution": "The Scripps Research Institute",
-          "website": "https://www.scripps.edu/conkright/members.html",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
           "name": "Marc D. Ruben",
           "role": "Postdoctoral Researcher",
           "lab_locations": ["Cincinnati Children's Hospital"],
@@ -435,6 +425,16 @@
           "current_position": "Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery",
           "current_institution": "Cincinnati Children's Hospital Medical Center",
           "website": "https://www.cincinnatichildrens.org/bio/s/david-smith",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Michael Conkright",
+          "role": "Other Alumni",
+          "lab_locations": ["Scripps Research (Florida)"],
+          "current_position": "Assistant Professor",
+          "current_institution": "The Scripps Research Institute",
+          "website": "https://www.scripps.edu/conkright/members.html",
           "scholar": "",
           "linkedin": ""
         }
