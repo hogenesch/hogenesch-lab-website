@@ -324,6 +324,16 @@
       "title": "Other Alumni",
       "entries": [
         {
+          "name": "Aaron Willingham",
+          "role": "Other Alumni",
+          "lab_locations": [],
+          "current_position": "Distinguished Scientist and Group Leader",
+          "current_institution": "Merck",
+          "website": "",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
           "name": "Sumit Chanda",
           "role": "Other Alumni",
           "lab_locations": ["GNF / Novartis", "Scripps Research (Florida)"],

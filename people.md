@@ -137,6 +137,7 @@ resources, and circadian medicine.
 <section class="alumni-group">
 <h3>Other Alumni</h3>
 <ul class="alumni-list">
+<li><strong>Aaron Willingham</strong><span class="alumni-meta">Merck</span><span class="alumni-current-line">Distinguished Scientist and Group Leader</span></li>
 <li><strong>Sumit Chanda</strong><span class="alumni-meta">Scripps Research</span><span class="alumni-current-line">Professor, Department of Immunology and Microbiology</span><span class="alumni-entry-links"><a href="https://www.scripps.edu/faculty/chanda/">Website</a></span></li>
 <li><strong>Rochelle M. Witt</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Assistant Professor, UC Department of Pediatrics; member, Division of Neurology</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/w/rochelle-witt">Website</a></span></li>
 <li><strong>David F. Smith</strong><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-current-line">Associate Professor, UC Department of Otolaryngology, Head and Neck Surgery</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/bio/s/david-smith">Website</a></span></li>
