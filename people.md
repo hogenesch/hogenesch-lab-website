@@ -122,7 +122,7 @@ resources, and circadian medicine.
 </section>
 
 <section class="alumni-group">
-<h3>Lab Managers and Technical Staff</h3>
+<h3>Lab Managers</h3>
 <ul class="alumni-list">
 <li><strong>Amber Kiliti</strong><span class="alumni-meta">Georgetown University</span><span class="alumni-current-line">Postdoctoral Fellow in Tumor Biology</span><span class="alumni-entry-links"><a href="https://www.linkedin.com/in/amber-kiliti-7753312a/">LinkedIn</a></span></li>
 <li><strong>Eun Ji Kim</strong><span class="alumni-meta">Thermo Fisher Scientific</span><span class="alumni-current-line">Bioinformatics Scientist</span></li>
