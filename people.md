@@ -35,8 +35,6 @@ description: Meet the Hogenesch Lab, including John B. Hogenesch, current team m
 
 Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.
 
-Appointments in Human Genetics, Pulmonary Medicine, and Immunobiology at Cincinnati Children's Hospital Medical Center.
-
 Research in the Hogenesch Lab spans circadian biology, systems genomics, public data
 resources, and circadian medicine.
 
