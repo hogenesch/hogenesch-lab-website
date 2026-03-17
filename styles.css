@@ -537,6 +537,7 @@ img {
 
 .alumni-role {
   margin: 0;
+  white-space: nowrap;
   color: var(--accent);
   font: 600 0.92rem/1.5 var(--sans);
 }
@@ -581,6 +582,18 @@ img {
 
 .alumni-group h3 {
   margin-top: 0;
+}
+
+.alumni-headline {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.35rem 1rem;
+}
+
+.alumni-headline strong {
+  flex: 1 1 auto;
 }
 
 .alumni-list {
