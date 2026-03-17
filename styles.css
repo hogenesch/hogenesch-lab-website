@@ -585,15 +585,30 @@ img {
 }
 
 .alumni-headline {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: baseline;
-  gap: 0.35rem 1rem;
+  column-gap: 1.4rem;
+  row-gap: 0.2rem;
 }
 
 .alumni-headline strong {
-  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.alumni-role {
+  justify-self: end;
+}
+
+@media (max-width: 720px) {
+  .alumni-headline {
+    grid-template-columns: 1fr;
+    row-gap: 0.1rem;
+  }
+
+  .alumni-role {
+    justify-self: start;
+  }
 }
 
 .alumni-list {
