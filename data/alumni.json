@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "title": "Postdoctoral Fellows",
+      "title": "Trainees",
       "entries": [
         {
           "name": "Ron Anafi",
@@ -25,6 +25,18 @@
           "current_position": "Scientific Director",
           "current_institution": "Omega Bio-tek",
           "website": "https://omegabiotek.com/about-us/our-team/",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Heather Ballance",
+          "role": "Graduate Student",
+          "lab_locations": [
+            "Penn Medicine"
+          ],
+          "current_position": "Postdoctoral Researcher",
+          "current_institution": "Boston University School of Medicine",
+          "website": "https://www.bumc.bu.edu/ppb/education/pharmacology/training-program/laboratories/wolozinlab/people/",
           "scholar": "",
           "linkedin": ""
         },
@@ -90,6 +102,30 @@
           "linkedin": ""
         },
         {
+          "name": "Nick Lahens",
+          "role": "Graduate Student",
+          "lab_locations": [
+            "Penn Medicine"
+          ],
+          "current_position": "Staff Scientist",
+          "current_institution": "Penn Medicine",
+          "website": "",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Yin Yeng Lee",
+          "role": "Graduate Student",
+          "lab_locations": [
+            "Cincinnati Children's Hospital Medical Center"
+          ],
+          "current_position": "Postdoctoral Fellow",
+          "current_institution": "Merck",
+          "website": "https://academic.oup.com/bioinformatics/article/38/24/5375/6793848",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
           "name": "Yool Lee",
           "role": "Postdoctoral Fellow",
           "lab_locations": [
@@ -98,6 +134,18 @@
           "current_position": "Assistant Professor, Department of Translational Medicine and Physiology",
           "current_institution": "Washington State University Elson S. Floyd College of Medicine",
           "website": "https://lee-lab.org/",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
+          "name": "Anthony Olarerin-George",
+          "role": "PhD Student",
+          "lab_locations": [
+            "Penn Medicine"
+          ],
+          "current_position": "Assistant Professor",
+          "current_institution": "Rutgers New Jersey Medical School",
+          "website": "https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php",
           "scholar": "",
           "linkedin": ""
         },
@@ -150,6 +198,19 @@
           "linkedin": ""
         },
         {
+          "name": "Andrew Su",
+          "role": "Graduate Student",
+          "lab_locations": [
+            "GNF / Novartis",
+            "Scripps Research (Florida)"
+          ],
+          "current_position": "Professor; Elden and Verna Strahm Chair for Medical Research",
+          "current_institution": "Scripps Research",
+          "website": "https://www.scripps.edu/faculty/su/",
+          "scholar": "",
+          "linkedin": ""
+        },
+        {
           "name": "Anand Venkataraman",
           "role": "Postdoctoral Fellow",
           "lab_locations": [
@@ -170,72 +231,6 @@
           "current_position": "Staff Scientist",
           "current_institution": "Cincinnati Children's Hospital Medical Center",
           "website": "https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/people",
-          "scholar": "",
-          "linkedin": ""
-        }
-      ]
-    },
-    {
-      "title": "Graduate Students",
-      "entries": [
-        {
-          "name": "Heather Ballance",
-          "role": "Graduate Student",
-          "lab_locations": [
-            "Penn Medicine"
-          ],
-          "current_position": "Postdoctoral Researcher",
-          "current_institution": "Boston University School of Medicine",
-          "website": "https://www.bumc.bu.edu/ppb/education/pharmacology/training-program/laboratories/wolozinlab/people/",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
-          "name": "Nick Lahens",
-          "role": "Graduate Student",
-          "lab_locations": [
-            "Penn Medicine"
-          ],
-          "current_position": "Staff Scientist",
-          "current_institution": "Penn Medicine",
-          "website": "",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
-          "name": "Yin Yeng Lee",
-          "role": "Graduate Student",
-          "lab_locations": [
-            "Cincinnati Children's Hospital Medical Center"
-          ],
-          "current_position": "Postdoctoral Fellow",
-          "current_institution": "Merck",
-          "website": "https://academic.oup.com/bioinformatics/article/38/24/5375/6793848",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
-          "name": "Anthony Olarerin-George",
-          "role": "PhD Student",
-          "lab_locations": [
-            "Penn Medicine"
-          ],
-          "current_position": "Assistant Professor",
-          "current_institution": "Rutgers New Jersey Medical School",
-          "website": "https://njms.rutgers.edu/sgs/prospective_students/info/faculty_research.php",
-          "scholar": "",
-          "linkedin": ""
-        },
-        {
-          "name": "Andrew Su",
-          "role": "Graduate Student",
-          "lab_locations": [
-            "GNF / Novartis",
-            "Scripps Research (Florida)"
-          ],
-          "current_position": "Professor; Elden and Verna Strahm Chair for Medical Research",
-          "current_institution": "Scripps Research",
-          "website": "https://www.scripps.edu/faculty/su/",
           "scholar": "",
           "linkedin": ""
         },
