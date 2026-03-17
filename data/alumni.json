@@ -328,11 +328,11 @@
       ]
     },
     {
-      "title": "Lab Managers",
+      "title": "Staff",
       "entries": [
         {
           "name": "Lauren Francey",
-          "role": "Lab Manager",
+          "role": "Staff",
           "lab_locations": [
             "Penn Medicine"
           ],
@@ -344,7 +344,7 @@
         },
         {
           "name": "Jeanne Geskes",
-          "role": "Lab Manager",
+          "role": "Staff",
           "lab_locations": [
             "Scripps Research (Florida)",
             "Penn Medicine"
@@ -357,7 +357,7 @@
         },
         {
           "name": "Jacki Growe",
-          "role": "Technician",
+          "role": "Staff",
           "lab_locations": [
             "Penn Medicine"
           ],
@@ -369,7 +369,7 @@
         },
         {
           "name": "Gina Zastrow Hayes",
-          "role": "Technical Staff",
+          "role": "Staff",
           "lab_locations": [
             "GNF / Novartis"
           ],
@@ -381,7 +381,7 @@
         },
         {
           "name": "Amber Kiliti",
-          "role": "Technical Staff",
+          "role": "Staff",
           "lab_locations": [
             "Penn Medicine"
           ],
@@ -393,7 +393,7 @@
         },
         {
           "name": "Eun Ji Kim",
-          "role": "Technical Staff",
+          "role": "Staff",
           "lab_locations": [
             "Penn Medicine"
           ],
@@ -405,7 +405,7 @@
         },
         {
           "name": "Loren Miraglia",
-          "role": "Lab Manager",
+          "role": "Staff",
           "lab_locations": [
             "GNF / Novartis"
           ],
@@ -417,7 +417,7 @@
         },
         {
           "name": "Kinnery Naik Patel",
-          "role": "Technician",
+          "role": "Staff",
           "lab_locations": [
             "GNF / Novartis"
           ],
@@ -429,7 +429,7 @@
         },
         {
           "name": "Rob Schmidt",
-          "role": "Lab Manager",
+          "role": "Staff",
           "lab_locations": [
             "Cincinnati Children's Hospital Medical Center"
           ],
@@ -441,7 +441,7 @@
         },
         {
           "name": "Samantha Whitacre",
-          "role": "Lab Manager",
+          "role": "Staff",
           "lab_locations": [
             "Cincinnati Children's Hospital Medical Center"
           ],
