@@ -3,7 +3,7 @@ title: Hogenesch Lab
 permalink: /index.html
 seo_title: Hogenesch Lab
 canonical: https://hogeneschlab.org/
-description: Hogenesch Lab studies circadian biology, systems biology, and circadian medicine, with landmark contributions in molecular clocks, functional genomics, algorithms, and public resources.
+description: Hogenesch Lab studies circadian biology, systems biology, and circadian medicine, with contributions in molecular clocks, functional genomics, algorithms, and public resources.
 ---
 
 <div class="masthead">
@@ -52,8 +52,8 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 
 <section class="section">
 <div class="section-head">
-<p class="eyebrow">Landmark Contributions</p>
-<h2>Major contributions</h2>
+<p class="eyebrow">Contributions</p>
+<h2>Contributions</h2>
 </div>
 <div class="landmark-shell">
 <div>
@@ -68,7 +68,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </ul>
 </div>
 <figure class="feature-figure">
-<img src="assets/images/landmark-contributions-map.svg?v=20260318-1" alt="Chronological timeline showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
+<img src="assets/images/landmark-contributions-map.svg?v=20260318-1" alt="Chronological timeline showing the lab's contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
 <figcaption>A chronological view of the lab's major contributions, with time as the organizing variable across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
 </div>
