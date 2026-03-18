@@ -33,48 +33,48 @@
   </g>
 
   <g>
-    <line class="leader" x1="355" y1="320" x2="355" y2="430"/>
-    <circle class="point" cx="355" cy="320" r="11"/>
-    <rect class="card" x="218" y="430" width="274" height="108" rx="24"/>
-    <text class="title" x="246" y="475">Gene Atlas</text>
-    <text class="copy" x="246" y="509">Initial atlas 2002; expanded 2004</text>
-    <text class="year" x="355" y="362" text-anchor="middle">2002</text>
+    <line class="leader" x1="398" y1="320" x2="398" y2="430"/>
+    <circle class="point" cx="398" cy="320" r="11"/>
+    <rect class="card" x="261" y="430" width="274" height="108" rx="24"/>
+    <text class="title" x="289" y="475">Gene Atlas</text>
+    <text class="copy" x="289" y="509">Initial atlas 2002; expanded 2004</text>
+    <text class="year" x="398" y="362" text-anchor="middle">2002</text>
   </g>
 
   <g>
-    <line class="leader" x1="540" y1="320" x2="540" y2="184"/>
-    <circle class="point" cx="540" cy="320" r="11"/>
-    <rect class="card" x="400" y="72" width="280" height="112" rx="24"/>
-    <text class="title" x="428" y="118">RORE loop</text>
-    <text class="copy" x="428" y="152">RORA, Sato et al., 2004</text>
-    <text class="year" x="540" y="362" text-anchor="middle">2004</text>
+    <line class="leader" x1="512" y1="320" x2="512" y2="184"/>
+    <circle class="point" cx="512" cy="320" r="11"/>
+    <rect class="card" x="372" y="72" width="280" height="112" rx="24"/>
+    <text class="title" x="400" y="118">RORE loop</text>
+    <text class="copy" x="400" y="152">RORA, Sato et al., 2004</text>
+    <text class="year" x="512" y="362" text-anchor="middle">2004</text>
   </g>
 
   <g>
-    <line class="leader" x1="730" y1="320" x2="730" y2="430"/>
-    <circle class="point" cx="730" cy="320" r="11"/>
-    <rect class="card" x="586" y="430" width="288" height="108" rx="24"/>
-    <text class="title" x="614" y="475">Algorithms</text>
-    <text class="copy" x="614" y="509">JTK_CYCLE, PSEA, MetaCycle</text>
-    <text class="year" x="730" y="362" text-anchor="middle">2010</text>
+    <line class="leader" x1="854" y1="320" x2="854" y2="430"/>
+    <circle class="point" cx="854" cy="320" r="11"/>
+    <rect class="card" x="710" y="430" width="288" height="108" rx="24"/>
+    <text class="title" x="738" y="475">Algorithms</text>
+    <text class="copy" x="738" y="509">JTK_CYCLE, PSEA, MetaCycle</text>
+    <text class="year" x="854" y="362" text-anchor="middle">2010</text>
   </g>
 
   <g>
-    <line class="leader" x1="920" y1="320" x2="920" y2="184"/>
-    <circle class="point" cx="920" cy="320" r="11"/>
-    <rect class="card" x="752" y="72" width="336" height="112" rx="24"/>
-    <text class="title" x="780" y="118">Mouse organ atlas</text>
-    <text class="copy" x="780" y="152">Circadian gene expression across organs</text>
-    <text class="year" x="920" y="362" text-anchor="middle">2014</text>
+    <line class="leader" x1="1082" y1="320" x2="1082" y2="184"/>
+    <circle class="point" cx="1082" cy="320" r="11"/>
+    <rect class="card" x="914" y="72" width="336" height="112" rx="24"/>
+    <text class="title" x="942" y="118">Mouse organ atlas</text>
+    <text class="copy" x="942" y="152">Circadian gene expression across organs</text>
+    <text class="year" x="1082" y="362" text-anchor="middle">2014</text>
   </g>
 
   <g>
-    <line class="leader" x1="1110" y1="320" x2="1110" y2="430"/>
-    <circle class="point" cx="1110" cy="320" r="11"/>
-    <rect class="card" x="1000" y="430" width="220" height="108" rx="24"/>
-    <text class="title" x="1028" y="475">CYCLOPS</text>
-    <text class="copy" x="1028" y="509">Ordered human transcriptomes</text>
-    <text class="year" x="1110" y="362" text-anchor="middle">2017</text>
+    <line class="leader" x1="1253" y1="320" x2="1253" y2="430"/>
+    <circle class="point" cx="1253" cy="320" r="11"/>
+    <rect class="card" x="1143" y="430" width="220" height="108" rx="24"/>
+    <text class="title" x="1171" y="475">CYCLOPS</text>
+    <text class="copy" x="1171" y="509">Ordered human transcriptomes</text>
+    <text class="year" x="1253" y="362" text-anchor="middle">2017</text>
   </g>
 
   <g>

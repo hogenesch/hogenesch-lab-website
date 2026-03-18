@@ -24,8 +24,8 @@ description: Meet the Hogenesch Lab, including John B. Hogenesch, current team m
   <p class="eyebrow">People</p>
   <h1>People</h1>
   <p class="lede">
-    The lab combines molecular biology, systems genomics, computational method development,
-    and translational circadian science.
+    Research in the group brings together experimental biologists, computational scientists,
+    clinician-scientists, trainees, and collaborators around shared questions of biological timing.
   </p>
 </header>
 
@@ -38,18 +38,20 @@ Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.
 Research in the Hogenesch Lab spans circadian biology, systems genomics, public data
 resources, and circadian medicine.
 
-<p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&hl=en&oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
+<p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
 
 <div class="callout">
-<div class="collab-heading">
-<img class="institution-logo" src="assets/images/srbr-logo.png?v=20260310-1" alt="Society for Research on Biological Rhythms logo" />
-<div>
+<div class="callout-header">
 <p class="eyebrow">Professional Service</p>
 <h2>Society for Research on Biological Rhythms</h2>
 </div>
-</div>
+<div class="callout-body-split">
+<img class="institution-logo" src="assets/images/srbr-logo.png?v=20260310-1" alt="Society for Research on Biological Rhythms logo" />
+<div>
 <p>John Hogenesch has devoted decades of service to <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">SRBR</a>, including roles as President, President-Elect, Treasurer, Comptroller, and Ad Hoc Member.</p>
 <p>The <a href="https://srbr.org/2026-biennial-meeting/" target="_blank" rel="noopener">2026 Biennial Meeting</a> will be held May 9-13, 2026, in Amelia Island, Florida.</p>
+</div>
+</div>
 </div>
 
 <div class="callout">
@@ -60,10 +62,17 @@ resources, and circadian medicine.
 
 ## Current Members
 
-<ul class="alumni-list">
+<ul class="alumni-list alumni-list-current">
 <li><div class="alumni-headline"><strong>Jiffin Paulose, PhD</strong><span class="alumni-role">Staff</span></div><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/contact">Website</a></span></li>
 <li><div class="alumni-headline"><strong>Sharon Tamir</strong><span class="alumni-role">Trainee</span></div><span class="alumni-meta">Current</span></li>
 </ul>
+
+<div class="callout people-join-callout">
+<p class="eyebrow">Join the Lab</p>
+<h2>See the current team. Join the team.</h2>
+<p>The lab welcomes inquiries from people interested in circadian biology, systems biology, computational methods, and translational timing questions in medicine.</p>
+<p><a class="button" href="join.html">Join the Lab</a></p>
+</div>
 
 ## Alumni
 
@@ -82,7 +91,7 @@ resources, and circadian medicine.
 <li><div class="alumni-headline"><strong>Jacki Growe, MS</strong><span class="alumni-role">Staff</span></div><span class="alumni-meta">Ensoma</span><span class="alumni-current-line">Genomics Scientist</span></li>
 <li><div class="alumni-headline"><strong>Josephine Harada, PhD, MBA</strong><span class="alumni-role">Research Scientist</span></div><span class="alumni-meta">Precede Biosciences</span><span class="alumni-current-line">Vice President, Corporate and Business Development</span><span class="alumni-entry-links"><a href="https://www.precede.bio/">Website</a></span></li>
 <li><div class="alumni-headline"><strong>Kevin Hayes</strong><span class="alumni-role">Postdoctoral Fellow</span></div><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Global Lead, Data Science Strategy and Communications</span><span class="alumni-entry-links"><a href="https://molpharm.wisc.edu/staff/hayes-phd-kevin/">Profile</a></span></li>
-<li><div class="alumni-headline"><strong>Gina Zastrow Hayes</strong><span class="alumni-role">Staff</span></div><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Director, Biotechnology Genome Center of Excellence; USA Today 2022 Iowa Woman of the Year</span><span class="alumni-entry-links"><a href="https://www.viewsonagriculture.com/contributors/gina-zastrow-hayes/">Profile</a></span></li>
+<li><div class="alumni-headline"><strong>Gina Zastrow Hayes</strong><span class="alumni-role">Staff</span></div><span class="alumni-meta">Corteva</span><span class="alumni-current-line">Director, Biotechnology Genome Center of Excellence</span><span class="alumni-honor">USA Today 2022 Iowa Woman of the Year</span><span class="alumni-entry-links"><a href="https://www.viewsonagriculture.com/contributors/gina-zastrow-hayes/">Profile</a></span></li>
 <li><div class="alumni-headline"><strong>Ines Hoffmann</strong><span class="alumni-role">Postdoctoral Fellow</span></div><span class="alumni-meta">Verge Genomics</span><span class="alumni-current-line">Director, Head of Clinical Operations</span><span class="alumni-entry-links"><a href="https://www.vergegenomics.com/people-pop">Website</a></span></li>
 <li><div class="alumni-headline"><strong>Michael E. Hughes</strong><span class="alumni-role">Postdoctoral Fellow</span></div><span class="alumni-meta">Washington University in St. Louis School of Medicine</span><span class="alumni-current-line">In memoriam; formerly Assistant Professor of Medicine</span><span class="alumni-entry-links"><a href="https://medicine.washu.edu/news/obituary-michael-e-hughes-assistant-professor-of-pulmonary-medicine-41/">In Memoriam</a></span></li>
 <li><div class="alumni-headline"><strong>Ibrahim Halil Kavakli</strong><span class="alumni-role">Visiting Scientist</span></div><span class="alumni-meta">Koc University</span><span class="alumni-current-line">Professor, Departments of Chemical and Biological Engineering and Molecular Biology and Genetics</span><span class="alumni-entry-links"><a href="https://www.unige.ch/medecine/gcir/events/past-events/gcir-seminar-11-oct-24-circadian-medicine">Profile</a></span></li>

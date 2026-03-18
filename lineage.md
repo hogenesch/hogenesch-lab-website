@@ -24,13 +24,13 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
   <p class="eyebrow">Scientific Lineage</p>
   <h1>Scientific Lineage</h1>
   <p class="lede">
-    The Hogenesch Lab builds on intellectual traditions in core molecular
-    clock work, genomics, systems biology, and circadian medicine.
+    The lab's scientific style was assembled across molecular clock biology,
+    circadian genetics, functional genomics, and chemical biology at scale.
   </p>
 </header>
 
 <section class="theme-block">
-<p>The scientific direction of the lab was shaped by training with Christopher A. Bradfield, Joseph S. Takahashi, Steve A. Kay, and Peter G. Schultz. Their work helped define the experimental rigor, conceptual range, and interdisciplinary style that continue to inform the lab's approach to biological timing and genome-scale biology.</p>
+<p>The scientific direction of the lab was shaped by training with Christopher A. Bradfield, Joseph S. Takahashi, Steve A. Kay, and Peter G. Schultz. This is less a list of famous names than a story about how the lab's approach was built: transcription-factor biology and mechanistic rigor, circadian genetics, systems-level clock science, and then large-scale chemical and genomic tool building.</p>
 </section>
 
 <section class="theme-block">
@@ -38,9 +38,10 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <img class="institution-logo" src="assets/images/uw-madison-badge.svg?v=20260309-1" alt="University of Wisconsin-Madison icon" />
 <div>
 <h2><a href="https://mcardle.wisc.edu/faculty/christopher-bradfield/">Christopher A. Bradfield</a></h2>
+<p class="lineage-meta">Doctoral mentor | transcription-factor biology, mechanistic rigor, and mammalian signaling</p>
 </div>
 </div>
-<p>Training with Bradfield contributed a durable orientation toward chemical biology, transcriptional regulation, and mechanistic rigor in mammalian systems.</p>
+<p>Training with Bradfield contributed a durable orientation toward transcriptional regulation, mammalian signaling, and mechanistic rigor. That phase established the habit of starting with molecular detail and insisting that the mechanism be real.</p>
 </section>
 
 <section class="theme-block">
@@ -48,9 +49,10 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <img class="institution-logo" src="assets/images/utsw-badge.svg?v=20260309-1" alt="UT Southwestern icon" />
 <div>
 <h2><a href="https://profiles.utsouthwestern.edu/profile/105885/joseph-takahashi.html">Joseph S. Takahashi</a></h2>
+<p class="lineage-meta">Circadian genetics influence and collaborator | the pivot toward clock biology</p>
 </div>
 </div>
-<p>Training with Takahashi helped shape the lab's grounding in circadian genetics, molecular clock mechanisms, and quantitative chronobiology.</p>
+<p>Takahashi's work helped redirect that molecular training toward circadian genetics. The result was a grounding in clock mechanisms, phenotype, and the idea that biological time can be dissected with the same rigor as any other genetic system.</p>
 </section>
 
 <section class="theme-block">
@@ -58,9 +60,10 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <img class="institution-logo" src="assets/images/usc-badge.svg?v=20260309-1" alt="University of Southern California icon" />
 <div>
 <h2><a href="https://keck.usc.edu/faculty-search/steve-kay/">Steve A. Kay</a></h2>
+<p class="lineage-meta">Postdoctoral mentor and close collaborator | circadian biology at systems scale</p>
 </div>
 </div>
-<p>Training with Kay helped define the lab's interest in circadian biology, systems-level questions, and functional genomics at scale.</p>
+<p>Work with Kay helped define the lab's interest in circadian biology at systems scale. This was the phase where clock biology expanded from a set of components into genome-scale transcriptional programs, atlases, and functional genomics screens.</p>
 </section>
 
 <section class="theme-block">
@@ -68,9 +71,10 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
 <img class="institution-logo" src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
 <div>
 <h2><a href="https://www.schultz.scripps.edu/peter-g-schultz">Peter G. Schultz</a></h2>
+<p class="lineage-meta">Interdisciplinary scientific influence | chemical biology, tool building, and scale</p>
 </div>
 </div>
-<p>Training with Schultz reinforced a style of science that values chemical biology, inventive experimental tools, and broad interdisciplinary thinking.</p>
+<p>Schultz reinforced a style of science that values chemical biology, ambitious tool building, and broad interdisciplinary thinking. That influence helped turn the lab toward public resources, scalable experimental systems, and work meant to be useful beyond a single paper.</p>
 </section>
 
 <div class="callout">

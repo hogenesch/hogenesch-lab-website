@@ -146,6 +146,7 @@ img {
 .hero-actions,
 .logo-strip,
 .feature-links,
+.preview-actions,
 .preview-grid,
 .resource-grid {
   display: flex;
@@ -357,6 +358,29 @@ img {
   margin-top: 0.6rem;
 }
 
+.callout-header {
+  margin-bottom: 0.9rem;
+}
+
+.callout-header h2 {
+  margin-bottom: 0;
+}
+
+.callout-body-split {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
+
+.callout-body-split .institution-logo {
+  margin-top: 0.1rem;
+}
+
+.preview-actions {
+  margin-top: 1.2rem;
+}
+
 .theme-block {
   padding: 2rem 0;
   border-top: 1px solid var(--line);
@@ -380,6 +404,12 @@ img {
 
 .collab-heading .eyebrow {
   margin-bottom: 0.45rem;
+}
+
+.lineage-meta {
+  margin: 0.28rem 0 0;
+  color: var(--accent);
+  font: 600 0.9rem/1.5 var(--sans);
 }
 
 .institution-logo {
@@ -618,6 +648,8 @@ img {
 }
 
 .alumni-list li {
+  display: flex;
+  flex-direction: column;
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--line);
 }
@@ -628,20 +660,29 @@ img {
 
 .alumni-meta,
 .alumni-current-line,
+.alumni-honor,
 .alumni-entry-links {
   display: block;
   max-width: none;
 }
 
 .alumni-meta {
-  margin-top: 0.2rem;
+  order: 3;
+  margin-top: 0.12rem;
+  color: var(--muted);
+  font: 500 0.9rem/1.5 var(--sans);
+}
+
+.alumni-list-current .alumni-meta {
   color: var(--accent);
-  font: 600 0.9rem/1.5 var(--sans);
+  font-weight: 600;
 }
 
 .alumni-current-line {
+  order: 2;
   margin-top: 0.3rem;
-  color: var(--muted);
+  color: var(--ink);
+  font: 600 0.95rem/1.55 var(--sans);
   position: relative;
   padding-left: 1.35rem;
 }
@@ -657,7 +698,15 @@ img {
   opacity: 0.82;
 }
 
+.alumni-honor {
+  order: 4;
+  margin-top: 0.22rem;
+  color: var(--accent);
+  font: 600 0.88rem/1.5 var(--sans);
+}
+
 .alumni-entry-links {
+  order: 5;
   margin-top: 0.4rem;
   font: 600 0.88rem/1.5 var(--sans);
 }
@@ -718,6 +767,10 @@ img {
   .collab-heading {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .callout-body-split {
+    grid-template-columns: 1fr;
   }
 
   .name-grid {

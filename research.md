@@ -30,6 +30,11 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
   </p>
 </header>
 
+<div class="callout">
+<h2>Looking for papers?</h2>
+<p>Each theme below links to representative publications. You can also jump straight to <a href="publications.html">Selected Publications</a> or <a href="resources.html">Resources</a>.</p>
+</div>
+
 <section class="theme-block">
 <h2>Molecular Circadian Clock</h2>
 <p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
@@ -38,6 +43,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>Feedback regulation and clock-controlled gene expression.</li>
 <li>Links between molecular output and physiology.</li>
 </ul>
+<p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/9576906/" target="_blank" rel="noopener">BMAL1 / MOP3</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener">RORA / RORE loop</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/24737000/" target="_blank" rel="noopener">CHRONO</a></p>
 </section>
 
 <section class="theme-block">
@@ -48,6 +54,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>Multi-organ analysis of rhythmic gene expression across the mouse body.</li>
 <li>Functional genomics approaches to identify clock modulators and mechanisms.</li>
 </ul>
+<p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/12015981/" target="_blank" rel="noopener">Gene Atlas</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/19343201/" target="_blank" rel="noopener">Harmonics of circadian gene transcription</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/25349387/" target="_blank" rel="noopener">Mouse organ atlas</a></p>
 </section>
 
 <section class="theme-block">
@@ -60,6 +67,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>CircaDB as a public gene-expression database for rhythmic biology.</li>
 <li><em>You're welcome.</em></li>
 </ul>
+<p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/20876817/" target="_blank" rel="noopener">JTK_CYCLE</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/" target="_blank" rel="noopener">CircaDB</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/28439010/" target="_blank" rel="noopener">CYCLOPS</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/27378304/" target="_blank" rel="noopener">MetaCycle</a></p>
 </section>
 
 <section class="theme-block">
@@ -71,6 +79,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>Conceptual and empirical work on chronotherapy and timed treatment.</li>
 <li>Time restricted feeding in bone marrow transplant.</li>
 </ul>
+<p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/31395773/" target="_blank" rel="noopener">Dosing time matters</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/30209245/" target="_blank" rel="noopener">Human circadian atlas</a></p>
 </section>
 
 <section class="theme-block">
@@ -88,7 +97,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>Published work on Smith-Kingsmore syndrome in collaboration with clinical and functional genomics investigators.</li>
 <li>Translational connections between genetic diagnosis, mechanism, and time-dependent physiology.</li>
 </ul>
-<p class="section-link"><a href="https://www.cincinnatichildrens.org/service/h/human-genetics" target="_blank" rel="noopener">Human Genetics at Cincinnati Children's</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39030910/" target="_blank" rel="noopener">Published Smith-Kingsmore syndrome study</a> · <a href="https://smithkingsmore.org/" target="_blank" rel="noopener">Smith-Kingsmore Syndrome Foundation</a> · <a href="https://www.dlg4shine.org/" target="_blank" rel="noopener">DLG4 SHINE Foundation</a></p>
+<p class="section-link"><strong>Selected links:</strong> <a href="https://www.cincinnatichildrens.org/service/h/human-genetics" target="_blank" rel="noopener">Human Genetics at Cincinnati Children's</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39030910/" target="_blank" rel="noopener">Published Smith-Kingsmore syndrome study</a> · <a href="https://smithkingsmore.org/" target="_blank" rel="noopener">Smith-Kingsmore Syndrome Foundation</a> · <a href="https://www.dlg4shine.org/" target="_blank" rel="noopener">DLG4 SHINE Foundation</a></p>
 </section>
 
 <div class="callout">

@@ -43,8 +43,9 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </div>
 <div class="hero-media">
 <figure class="feature-figure">
-<img src="assets/images/hero-circadian-network.svg?v=20260311-1" alt="Abstract clock and network graphic representing connected areas of circadian biology, systems biology, and medicine." />
-<figcaption>An abstract view of biological timing across molecular mechanisms, tissues, methods, and medicine.</figcaption>
+<img src="assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260318-1" alt="Heatmap from the lab's 2009 harmonics paper showing 24-hour, 12-hour, and 8-hour transcriptional structure across mammalian genes." />
+<figcaption>A concrete view of genome-scale rhythmic transcription from the lab's harmonics work, showing how circadian structure appears across thousands of genes.</figcaption>
+<p class="visual-source">Hughes et al., <em>PLoS Genetics</em> 2009. Open-access figure.</p>
 </figure>
 </div>
 </header>
@@ -67,7 +68,7 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </ul>
 </div>
 <figure class="feature-figure">
-<img src="assets/images/landmark-contributions-map.svg?v=20260314-4" alt="Chronological timeline showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
+<img src="assets/images/landmark-contributions-map.svg?v=20260318-1" alt="Chronological timeline showing the lab's landmark contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
 <figcaption>A chronological view of the lab's major contributions, with time as the organizing variable across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
 </div>
@@ -130,7 +131,6 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 <h3>Principal Investigator</h3>
 <p><strong>John B. Hogenesch, PhD</strong></p>
 <p>Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.</p>
-<p>Appointments in Human Genetics, Pulmonary Medicine, and Immunobiology.</p>
 <p>The lab's work spans molecular circadian biology, systems biology, public resources, and translational questions in circadian medicine.</p>
 </div>
 <div class="preview-card">
@@ -138,14 +138,11 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 <p>Research in the group brings together experimental biologists, computational scientists, clinician-scientists, trainees, and collaborators around shared questions of biological timing.</p>
 </div>
 </div>
-<p class="section-link"><a href="people.html">View the full People page</a> or <a href="lineage.html">Scientific Lineage</a>.</p>
-</section>
-
-<section class="section recruit-block">
-<p class="eyebrow">Join the Lab</p>
-<h2>Students, postdoctoral fellows, and collaborators</h2>
-<p>The lab welcomes inquiries from people interested in circadian biology, systems biology, computational methods, and translational timing questions in medicine.</p>
-<p><a class="button" href="join.html">Join the Lab</a></p>
+<div class="preview-actions">
+<a class="button button-secondary" href="people.html">View the People page</a>
+<a class="button" href="join.html">Join the Lab</a>
+<a class="button button-secondary" href="lineage.html">Scientific Lineage</a>
+</div>
 </section>
 
 <section class="section">
