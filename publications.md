@@ -35,8 +35,14 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">Browse Hogenesch publications on PubMed</a>.</p>
 </div>
 
-## Molecular Clock Mechanisms
+<div class="callout">
+<h2>Nobel context</h2>
+<p>The official historical materials for the 2019 Nobel Prize in Physiology or Medicine on oxygen sensing name Hogenesch et al., 1997 in the HIF-2alpha branch of the field. The clock papers below also sit in the scientific arc recognized by the 2017 Nobel Prize in Physiology or Medicine.</p>
+</div>
 
+## HIF-2alpha, Hypoxia, and Molecular Clock Mechanisms
+
+- **1997 bHLH-PAS family paper.** Hogenesch JB, Chan WK, Jackiw VH, Brown RC, Gu YZ, Pray-Grant M, Perdew GH, Bradfield CA. [Characterization of a subset of the basic-helix-loop-helix-PAS superfamily that interacts with components of the dioxin signaling pathway](https://pubmed.ncbi.nlm.nih.gov/9079689/). *J Biol Chem*. 1997.
 - **BMAL1 / MOP3.** Hogenesch JB, Gu YZ, Jain S, Bradfield CA. [The basic-helix-loop-helix-PAS orphan MOP3 forms transcriptionally active complexes with circadian and hypoxia factors](https://pubmed.ncbi.nlm.nih.gov/9576906/). *Proc Natl Acad Sci U S A*. 1998.
 - **BMAL2 / MOP9.** Hogenesch JB, Gu YZ, Moran SM, Shimomura K, Radcliffe LA, Takahashi JS, Bradfield CA. [The basic helix-loop-helix-PAS protein MOP9 is a brain-specific heterodimeric partner of circadian and hypoxia factors](https://pubmed.ncbi.nlm.nih.gov/10864977/). *J Neurosci*. 2000.
 - **RORA / RORE loop.** Sato TK, Panda S, Miraglia LJ, Reyes TM, Rudic RD, McNamara P, Naik KA, FitzGerald GA, Kay SA, Hogenesch JB. [A functional genomics strategy reveals Rora as a component of the mammalian circadian clock](https://pubmed.ncbi.nlm.nih.gov/15312651/). *Neuron*. 2004.

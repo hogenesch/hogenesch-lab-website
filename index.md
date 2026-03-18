@@ -52,6 +52,27 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 
 <section class="section">
 <div class="section-head">
+<p class="eyebrow">Nobel Context</p>
+<h2>Nobel touchpoints</h2>
+</div>
+<div class="preview-grid">
+<div class="preview-card">
+<h3><a href="https://www.nobelprize.org/prizes/medicine/2017/summary/" target="_blank" rel="noopener">2017 Nobel Prize in Physiology or Medicine</a></h3>
+<p>Awarded for discoveries of molecular mechanisms controlling the circadian rhythm. The lab's clock work lives in that scientific arc.</p>
+</div>
+<div class="preview-card">
+<h3><a href="https://www.nobelprize.org/prizes/medicine/2019/summary/" target="_blank" rel="noopener">2019 Nobel Prize in Physiology or Medicine</a></h3>
+<p>Awarded for discoveries of how cells sense and adapt to oxygen availability. The official Nobel historical account also names Hogenesch et al., 1997 in the HIF-2alpha story.</p>
+</div>
+<div class="preview-card">
+<h3><a href="https://www.nobelprize.org/prizes/chemistry/2015/summary/" target="_blank" rel="noopener">2015 Nobel Prize in Chemistry</a></h3>
+<p>Aziz Sancar shared the prize for mechanistic studies of DNA repair. Aziz is a friend and colleague, and part of the lab's broader scientific orbit.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="section-head">
 <p class="eyebrow">Contributions</p>
 <h2>Contributions</h2>
 </div>

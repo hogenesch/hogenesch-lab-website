@@ -56,10 +56,10 @@ permalink: /press.html
 
 <section class="theme-block">
 <p class="eyebrow">2019</p>
-<h2>Nobel materials and the HIF/EPAS1 story</h2>
-<p>The 2019 Nobel Prize materials on oxygen sensing also name Hogenesch et al., 1997 in the historical account of the HIF/EPAS1 field.</p>
+<h2>Nobel materials and the HIF-2alpha story</h2>
+<p>The 2019 Nobel Prize materials on oxygen sensing also name Hogenesch et al., 1997 in the historical account of the HIF-2alpha branch of the field.</p>
 <div class="press-links">
-<a class="press-link" href="https://www.nobelprize.org/prizes/medicine/2019/advanced-information/" target="_blank" rel="noopener"><span class="press-source-fallback">NOBEL</span><span>Nobel Prize 2019 advanced information naming Hogenesch et al., 1997 in the HIF family history</span></a>
+<a class="press-link" href="https://www.nobelprize.org/prizes/medicine/2019/advanced-information/" target="_blank" rel="noopener"><span class="press-source-fallback">NOBEL</span><span>Nobel Prize 2019 advanced information naming Hogenesch et al., 1997 in the HIF-2alpha history</span></a>
 </div>
 </section>
 

@@ -35,15 +35,20 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <p>Each theme below links to representative publications. You can also jump straight to <a href="publications.html">Selected Publications</a> or <a href="resources.html">Resources</a>.</p>
 </div>
 
+<div class="callout">
+<h2>Clock biology and oxygen sensing</h2>
+<p>The lab's early bHLH-PAS work intersects two Nobel-recognized stories. The 2017 Nobel Prize in Physiology or Medicine honored discoveries of molecular mechanisms controlling the circadian rhythm, and the 2019 prize honored discoveries of how cells sense and adapt to oxygen availability. In the official 2019 historical account, NobelPrize.org names Hogenesch et al., 1997 in the HIF-2alpha branch of that oxygen-sensing story.</p>
+</div>
+
 <section class="theme-block">
 <h2>Molecular Circadian Clock</h2>
-<p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
+<p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. That early bHLH-PAS work also intersects the HIF-2alpha oxygen-sensing story, not just the clock story. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
 <ul class="theme-list">
 <li>Core clock transcription factors in mammalian systems.</li>
 <li>Feedback regulation and clock-controlled gene expression.</li>
 <li>Links between molecular output and physiology.</li>
 </ul>
-<p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/9576906/" target="_blank" rel="noopener">BMAL1 / MOP3</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener">RORA / RORE loop</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/24737000/" target="_blank" rel="noopener">CHRONO</a></p>
+<p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/9079689/" target="_blank" rel="noopener">1997 bHLH-PAS family paper</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/9576906/" target="_blank" rel="noopener">BMAL1 / MOP3</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/15312651/" target="_blank" rel="noopener">RORA / RORE loop</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/24737000/" target="_blank" rel="noopener">CHRONO</a></p>
 </section>
 
 <section class="theme-block">
