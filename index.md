@@ -3,7 +3,7 @@ title: Hogenesch Lab
 permalink: /index.html
 seo_title: Hogenesch Lab
 canonical: https://hogeneschlab.org/
-description: Hogenesch Lab studies circadian biology, systems biology, and circadian medicine, with contributions in molecular clocks, functional genomics, algorithms, and public resources.
+description: Hogenesch Lab studies biological time from molecular clock genes to human circadian medicine, with contributions in clock architecture, temporal genomics, methods, and public resources.
 ---
 
 <div class="masthead">
@@ -24,16 +24,16 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 
 <header class="hero home-hero">
 <div class="hero-copy">
-<p class="eyebrow">Research program</p>
-<h1>Hogenesch Lab</h1>
-<p class="hero-subtitle">Circadian Biology &#8226; Systems Biology &#8226; Circadian Medicine</p>
-<p class="lede">The Hogenesch Lab studies biological timing across molecular mechanisms, genome-scale transcription, and medicine. The work links core clock architecture to tissue-scale rhythmic programs and to translational questions about when physiology, disease processes, and therapies are most sensitive to time of day.</p>
+<p class="eyebrow">Hogenesch Lab</p>
+<h1>Biological time from clock genes to human circadian medicine</h1>
+<p class="hero-subtitle">Circadian biology across molecular clocks, genome-scale transcription, and human physiology.</p>
+<p class="lede">The Hogenesch Lab studies how time is encoded in molecular circuits, distributed across tissues and transcriptomes, and expressed in physiology and disease. Our work has contributed to defining core mammalian clock architecture, genome-scale circadian transcription, statistical methods for rhythmic data, and public resources used across the field. Current efforts focus on human timing, circadian medicine, transplantation, genetics, and rare disease.</p>
 <div class="hero-actions">
-<a class="button" href="research.html">Research</a>
+<a class="button" href="#contributions">Major Contributions</a>
+<a class="button button-secondary" href="#current-research">Current Research</a>
 <a class="button button-secondary" href="publications.html">Selected Publications</a>
 <a class="button button-secondary" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
-<a class="button button-secondary" href="people.html">People</a>
-<a class="button button-secondary" href="join.html">Join the Lab</a>
+<a class="button button-secondary" href="people.html">People and Training</a>
 </div>
 <div class="logo-strip">
 <span class="logo-strip-label">Affiliations</span>
@@ -41,52 +41,70 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 <img src="assets/images/scripps-logo.png?v=20260309-1" alt="Scripps Research logo" />
 </div>
 </div>
-<div class="hero-media">
-<figure class="feature-figure">
-<img src="assets/images/hughes-2009-harmonics-heatmap.jpg?v=20260318-1" alt="Heatmap from the lab's 2009 harmonics paper showing 24-hour, 12-hour, and 8-hour transcriptional structure across mammalian genes." />
-<figcaption>A concrete view of genome-scale rhythmic transcription from the lab's harmonics work, showing how circadian structure appears across thousands of genes.</figcaption>
-<p class="visual-source">Hughes et al., <em>PLoS Genetics</em> 2009. Open-access figure.</p>
-</figure>
+<div class="hero-panel">
+<p class="eyebrow">At a glance</p>
+<div class="signal-list">
+<div class="signal-item">
+<p class="signal-label">Clock architecture</p>
+<p>BMAL1/MOP3, CLOCK, NPAS2, BMAL2, and the RORE loop.</p>
+</div>
+<div class="signal-item">
+<p class="signal-label">Temporal genomics</p>
+<p>Gene Atlas, circadian transcriptomes, and organ-scale atlases.</p>
+</div>
+<div class="signal-item">
+<p class="signal-label">Methods</p>
+<p>JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CYCLOPS2.</p>
+</div>
+<div class="signal-item">
+<p class="signal-label">Resources and medicine</p>
+<p>Clock Gene Wiki, CircaDB, human timing, pharmacology, and translation.</p>
+</div>
+</div>
 </div>
 </header>
 
-<section class="section">
+<section class="section" id="contributions">
 <div class="section-head">
-<p class="eyebrow">Nobel Context</p>
-<h2>Nobel touchpoints</h2>
+<p class="eyebrow">Major Contributions</p>
+<h2>Major contributions</h2>
 </div>
-<div class="preview-grid">
-<div class="preview-card">
-<h3><a href="https://www.nobelprize.org/prizes/medicine/2017/summary/" target="_blank" rel="noopener">2017 Nobel Prize in Physiology or Medicine</a></h3>
-<p>Awarded for discoveries of molecular mechanisms controlling the circadian rhythm. The lab's clock work lives in that scientific arc.</p>
-</div>
-<div class="preview-card">
-<h3><a href="https://www.nobelprize.org/prizes/medicine/2019/summary/" target="_blank" rel="noopener">2019 Nobel Prize in Physiology or Medicine</a></h3>
-<p>Awarded for discoveries of how cells sense and adapt to oxygen availability. The official Nobel historical account also names Hogenesch et al., 1997 in the HIF-2alpha story.</p>
-</div>
-<div class="preview-card">
-<h3><a href="https://www.nobelprize.org/prizes/chemistry/2015/summary/" target="_blank" rel="noopener">2015 Nobel Prize in Chemistry</a></h3>
-<p>Aziz Sancar shared the prize for mechanistic studies of DNA repair. Aziz is a friend and colleague, and part of the lab's broader scientific orbit.</p>
-</div>
+<p class="section-intro">The lab's research program has developed along a coherent path: from molecular clock components and transcriptional feedback architecture, to genome-scale temporal biology, to methods and public resources, and into human circadian reconstruction and medicine.</p>
+<div class="contribution-grid">
+<article class="contribution-card">
+<h3>Core mammalian clock architecture</h3>
+<p>Our work contributed to defining mammalian clock architecture through BMAL1/MOP3, CLOCK, NPAS2, BMAL2, and later the RORE loop and downstream transcriptional regulation.</p>
+</article>
+<article class="contribution-card">
+<h3>Genome-scale circadian transcription</h3>
+<p>This work helped establish that rhythmic transcription in mammals extends far beyond a small canonical clock set and is organized at genome scale.</p>
+</article>
+<article class="contribution-card">
+<h3>Tissue and time atlases</h3>
+<p>The lab developed atlas-scale views of temporal gene expression across tissues, including Gene Atlas and later circadian atlases across mouse organs and human datasets.</p>
+</article>
+<article class="contribution-card">
+<h3>Methods for rhythmic biology</h3>
+<p>The group developed or co-developed JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, and CYCLOPS2 to make rhythmic data easier to analyze, compare, and interpret.</p>
+</article>
+<article class="contribution-card">
+<h3>Public scientific resources</h3>
+<p>The lab has contributed reusable infrastructure for the field, including Gene Atlas, Clock Gene Wiki, and CircaDB.</p>
+</article>
+<article class="contribution-card">
+<h3>Human circadian biology and medicine</h3>
+<p>This work showed that time-of-day structure can be recovered from human data at scale, linking circadian biology to physiology, pharmacology, and clinical interpretation.</p>
+</article>
 </div>
 </section>
 
 <section class="section">
-<div class="section-head">
-<p class="eyebrow">Contributions</p>
-<h2>Contributions</h2>
-</div>
-<div class="landmark-shell">
+<div class="arc-shell">
 <div>
-<ul class="landmark-list">
-<li>Defining the core loop of the mammalian circadian clock through BMAL1, CLOCK, NPAS2, and BMAL2.</li>
-<li>Creation of Gene Atlas, one of the first comprehensive maps of gene expression across mammalian tissues.</li>
-<li>Defining the mammalian circadian transcriptome with genome-scale temporal profiling.</li>
-<li>Creation of the circadian gene expression atlas across mouse organs.</li>
-<li>Development of widely used algorithms including JTK_CYCLE, PSEA, and MetaCycle.</li>
-<li>Extraction of human circadian structure from unordered transcriptomic data using CYCLOPS.</li>
-<li>Creation of CircaDB as a public circadian gene-expression resource.</li>
-</ul>
+<p class="eyebrow">Scientific Arc</p>
+<h2>From molecular clocks to human timing</h2>
+<p class="section-intro">Early work focused on molecular clock components and transcriptional feedback structure. That foundation expanded into genome-scale studies of rhythmic transcription across tissues and organs, followed by methods for extracting temporal structure from large datasets. More recent work extends these ideas into human transcriptomics, physiology, pharmacology, transplantation, and circadian medicine.</p>
+<p class="section-link"><a href="publications.html">See selected publications</a></p>
 </div>
 <figure class="feature-figure">
 <img src="assets/images/landmark-contributions-map.svg?v=20260318-1" alt="Chronological timeline showing the lab's contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
@@ -95,42 +113,44 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 </div>
 </section>
 
-<section class="section">
+<section class="section" id="current-research">
 <div class="section-head">
-<p class="eyebrow">Research Themes</p>
-<h2>Directions of research</h2>
+<p class="eyebrow">Current Research</p>
+<h2>Where the program is moving now</h2>
 </div>
 <div class="theme-grid">
 <div class="theme-card">
-<h3>Molecular Circadian Clock</h3>
-<p>Mechanistic work on BMAL1, NPAS2, transcriptional feedback architecture, and clock-controlled gene regulation in mammalian systems.</p>
+<h3>Molecular clock biology</h3>
+<p>Current efforts examine transcriptional control by clock factors, feedback architecture, and the links between molecular output and physiology in mammalian systems.</p>
 </div>
 <div class="theme-card">
-<h3>Circadian Biology</h3>
-<p>Rhythmic physiology across organs, tissues, and cell systems, including the architecture and outputs of biological clocks.</p>
+<h3>Systems chronobiology</h3>
+<p>The lab studies how rhythmic programs are distributed across tissues, cell states, and physiological systems, with emphasis on temporal organization at scale.</p>
 </div>
 <div class="theme-card">
-<h3>Systems Biology</h3>
-<p>Genome-scale transcriptional programs, the mammalian circadian transcriptome, and atlas-level studies of time across tissues.</p>
+<h3>Computational methods and public resources</h3>
+<p>The group continues to build methods, reusable datasets, and community resources that make rhythmic biology easier to analyze, compare, and reuse.</p>
 </div>
 <div class="theme-card">
-<h3>Computational Methods and Resources</h3>
-<p>Algorithms and public tools including JTK_CYCLE, PSEA, MetaCycle, CYCLOPS, CYCLOPS2, CircaDB, and Gene Atlas.</p>
-</div>
-<div class="theme-card">
-<h3>Circadian Medicine and Rare Disease</h3>
-<p>Human transcriptomics, chronotherapy, and published work linking circadian phenotypes to Human Genetics and rare disease, including Smith-Kingsmore syndrome.</p>
+<h3>Human timing, circadian medicine, and rare disease</h3>
+<p>Current efforts focus on recovering time-of-day structure from human data and applying it to physiology, pharmacology, transplantation, human genetics, and rare disease.</p>
 </div>
 </div>
 </section>
 
 <section class="section feature-section">
 <div class="feature-copy">
-<p class="eyebrow">Featured Resource</p>
-<h2>CircaDB</h2>
-<p>CircaDB is a public database of mammalian circadian gene expression profiles developed by the Hogenesch Lab in collaboration with Andrew Su. The resource allows researchers to explore rhythmic gene expression across tissues and datasets and has become a widely used tool in the circadian biology community.</p>
+<p class="eyebrow">Resources for the Field</p>
+<h2>Data, methods, and reusable infrastructure</h2>
+<p>Resource building has been a recurring part of the lab's work. Gene Atlas, Clock Gene Wiki, and CircaDB were all developed to make genomic and circadian data easier to use across the field.</p>
+<ul class="text-list">
+<li><strong>Gene Atlas</strong> helped establish tissue-scale expression mapping across mammalian organs.</li>
+<li><strong>Clock Gene Wiki</strong> organized clock components and annotations in a reusable public framework.</li>
+<li><strong>CircaDB</strong> provides direct access to circadian expression data across tissues and datasets.</li>
+</ul>
 <div class="feature-links">
 <a class="button" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a>
+<a class="button button-secondary" href="resources.html">View resources</a>
 </div>
 </div>
 <div class="feature-media">
@@ -144,37 +164,38 @@ description: Hogenesch Lab studies circadian biology, systems biology, and circa
 
 <section class="section">
 <div class="section-head">
-<p class="eyebrow">People</p>
-<h2>Experimental, computational, and translational chronobiology</h2>
+<p class="eyebrow">People and Training</p>
+<h2>John B. Hogenesch and the lab</h2>
 </div>
 <div class="preview-grid">
 <div class="preview-card">
-<h3>Principal Investigator</h3>
-<p><strong>John B. Hogenesch, PhD</strong></p>
-<p>Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.</p>
-<p>The lab's work spans molecular circadian biology, systems biology, public resources, and translational questions in circadian medicine.</p>
+<h3>John B. Hogenesch, PhD</h3>
+<p>John B. Hogenesch is a chronobiologist and genomicist whose work has contributed to molecular clock biology, temporal genomics, public resources, and circadian medicine.</p>
+<p>He is Thomas F. Boat Chair at Cincinnati Children's Hospital Medical Center, with appointments in Human Genetics, Pulmonary Medicine, and Immunobiology.</p>
 </div>
 <div class="preview-card">
-<h3>Lab Community</h3>
-<p>Research in the group brings together experimental biologists, computational scientists, clinician-scientists, trainees, and collaborators around shared questions of biological timing.</p>
+<h3>What kind of lab this is</h3>
+<p>The lab brings together experimental biology, computational analysis, clinician-scientists, and trainees working across molecular mechanisms, temporal datasets, public resources, and human translation.</p>
+<p>Current work grows directly out of earlier contributions to clock genes, genome-scale temporal transcription, methods development, and reusable scientific infrastructure.</p>
 </div>
 </div>
 <div class="preview-actions">
 <a class="button button-secondary" href="people.html">View the People page</a>
-<a class="button" href="join.html">Join the Lab</a>
 <a class="button button-secondary" href="lineage.html">Scientific Lineage</a>
+<a class="button button-secondary" href="collaborations.html">Collaborations</a>
+<a class="button" href="join.html">Join the Lab</a>
 </div>
 </section>
 
 <section class="section">
 <div class="section-head">
 <p class="eyebrow">Press</p>
-<h2>Selected coverage and image links</h2>
+<h2>Selected coverage</h2>
 </div>
-<p>Selected external coverage of the lab's published work, with links to stories and associated figure or image pages.</p>
+<p>Selected coverage of published work in the lab, including long-form reporting, science journalism, and historical context around key papers and datasets.</p>
 <p><a class="button button-secondary" href="press.html">View In the Press</a></p>
 </section>
 
 <footer class="page-footer">
-<p>Published contributions, public resources, and collaborative training in circadian biology.</p>
+<p>Clock genes, temporal genomics, public resources, and human circadian medicine.</p>
 </footer>

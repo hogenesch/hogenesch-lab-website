@@ -76,6 +76,11 @@ body {
   border-bottom: 1px solid var(--line);
 }
 
+.home-hero h1 {
+  max-width: 13ch;
+  font-size: clamp(2.95rem, 5.8vw, 4.85rem);
+}
+
 .eyebrow {
   margin: 0 0 0.85rem;
   color: var(--accent);
@@ -217,6 +222,7 @@ img {
 }
 
 .hero-media,
+.hero-panel,
 .feature-figure,
 .preview-card,
 .resource-card,
@@ -227,6 +233,15 @@ img {
 
 .hero-media {
   padding: 1rem;
+}
+
+.hero-panel {
+  padding: 1.3rem 1.35rem;
+  background: linear-gradient(180deg, #ffffff 0%, var(--surface) 100%);
+}
+
+.hero-panel .eyebrow {
+  margin-bottom: 0.9rem;
 }
 
 .feature-figure {
@@ -266,6 +281,69 @@ img {
   margin-bottom: 1.5rem;
 }
 
+.section-intro {
+  max-width: 49rem;
+  margin-bottom: 1.4rem;
+  color: var(--muted);
+}
+
+.signal-list {
+  display: grid;
+  gap: 0;
+}
+
+.signal-item {
+  padding: 0.95rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.signal-item:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.signal-item p {
+  max-width: none;
+}
+
+.signal-item p:last-child {
+  margin-bottom: 0;
+  color: var(--ink);
+  font: 500 0.98rem/1.65 var(--sans);
+}
+
+.signal-label {
+  margin: 0 0 0.35rem;
+  color: var(--accent);
+  font: 700 0.79rem/1.2 var(--sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.contribution-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+}
+
+.contribution-card {
+  padding: 1.25rem 1.15rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+
+.contribution-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+  font-size: 1.08rem;
+}
+
+.contribution-card p {
+  max-width: none;
+  margin-bottom: 0;
+}
+
+.arc-shell,
 .landmark-shell,
 .feature-section {
   display: grid;
@@ -333,6 +411,16 @@ img {
 .preview-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.text-list {
+  max-width: 44rem;
+  padding-left: 1.2rem;
+  margin-bottom: 0;
+}
+
+.text-list li {
+  margin-bottom: 0.5rem;
 }
 
 .section-link {
@@ -733,6 +821,7 @@ img {
 
 @media (max-width: 60rem) {
   .home-hero,
+  .arc-shell,
   .landmark-shell,
   .feature-section,
   .resource-grid,
