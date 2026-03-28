@@ -69,11 +69,15 @@ body {
 
 .home-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(18rem, 0.85fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: 2.5rem;
   align-items: center;
   padding-bottom: 4rem;
   border-bottom: 1px solid var(--line);
+}
+
+.home-hero .hero-copy {
+  max-width: 58rem;
 }
 
 .home-hero h1 {
