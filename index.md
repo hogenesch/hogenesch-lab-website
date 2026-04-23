@@ -148,7 +148,7 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 <div class="preview-grid">
 <div class="preview-card">
 <h3>John B. Hogenesch, PhD</h3>
-<p>John B. Hogenesch is a chronobiologist and genomicist whose work spans core clock biology, temporal genomics, public scientific resources, and circadian medicine.</p>
+<p>John B. Hogenesch is a circadian and genome biologist whose work spans core clock biology, temporal genomics, public scientific resources, and circadian medicine.</p>
 <p>He is Thomas F. Boat Chair at Cincinnati Children's Hospital Medical Center, with appointments in Human Genetics, Pulmonary Medicine, and Immunobiology.</p>
 </div>
 <div class="preview-card">
