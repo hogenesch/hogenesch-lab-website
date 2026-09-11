@@ -84,7 +84,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 
 <section class="theme-block">
 <h2>Human Genetics and Rare Disease</h2>
-<p>Through the Human Genetics Division at Cincinnati Children's, the lab studies circadian and sleep phenotypes in rare genetic disease. Published work from this program includes Smith-Kingsmore syndrome and a patient-derived mouse model of DLG4-related SHINE syndrome that reproduces molecular, neurological, and sleep phenotypes.</p>
+<p>Through the Human Genetics Division at Cincinnati Children's, the lab studies circadian and sleep phenotypes in rare genetic disease. In Smith-Kingsmore syndrome, work with Andrew Liu and clinical collaborators connected gain-of-function <em>MTOR</em> variants with altered mTOR activity, circadian rhythms, and sleep-wake behavior. Published work also includes a patient-derived mouse model of DLG4-related SHINE syndrome that reproduces molecular, neurological, and sleep phenotypes.</p>
 <p>The DLG4 SHINE Foundation supports this work as a funding and community partner.</p>
 <div class="logo-strip research-logo-strip">
 <span class="logo-strip-label">Related Programs and Foundations</span>
@@ -94,7 +94,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 </div>
 <ul class="theme-list">
 <li>Rare-disease sleep and circadian phenotyping in Human Genetics.</li>
-<li>Published work on Smith-Kingsmore syndrome in collaboration with clinical and functional genomics investigators.</li>
+<li>Clinical and functional studies of <em>MTOR</em> variants in Smith-Kingsmore syndrome, including circadian and sleep-wake phenotypes.</li>
 <li>A patient-derived model connecting a SHINE syndrome variant with molecular, neurological, and sleep phenotypes.</li>
 <li>Translational connections between genetic diagnosis, mechanism, and time-dependent physiology.</li>
 </ul>

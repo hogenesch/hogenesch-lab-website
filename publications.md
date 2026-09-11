@@ -74,6 +74,7 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 
 ## Human Genetics and Rare Disease
 
+- **mTOR and Smith-Kingsmore syndrome.** Liu AC, Shen Y, Serbinski CR, He H, Roman D, Endale M, Aschbacher-Smith L, King KA, Granadillo JL, López I, Krueger DA, Dye TJ, Smith DF, Hogenesch JB, Prada CE. [Clinical and functional studies of MTOR variants in Smith-Kingsmore syndrome reveal deficits of circadian rhythm and sleep-wake behavior](https://pubmed.ncbi.nlm.nih.gov/39030910/). *HGG Adv*. 2024.
 - **SHINE syndrome model.** Tamir S, Paulose J, Nguyen A, Gadara D, Witt RM, Prasad B, Hogenesch JB. [A patient-derived mouse model reproduces molecular, neurological, and sleep symptoms of SHINE syndrome](https://pubmed.ncbi.nlm.nih.gov/42565830/). *Hum Mol Genet*. 2026.
 
 <footer class="page-footer">
