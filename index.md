@@ -82,7 +82,7 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 <p class="section-intro">The program moved from defining clock components to measuring temporal biology across genomes and tissues, then to methods that recover biological time from human data. That progression provides the experimental and computational basis for current work in circadian medicine and human genetics.</p>
 </div>
 <figure class="feature-figure">
-<img src="assets/images/landmark-contributions-map.svg?v=20260318-1" alt="Chronological timeline showing the lab's contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
+<img src="assets/images/landmark-contributions-map.svg?v=20260911-1" alt="Chronological timeline showing the lab's contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
 <figcaption>A chronological view of the lab's major contributions, with time as the organizing variable across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
 </section>
