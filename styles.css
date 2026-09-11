@@ -12,6 +12,7 @@
 
 html {
   background: var(--bg);
+  scroll-behavior: smooth;
 }
 
 body {
@@ -165,6 +166,28 @@ ol {
 
 a {
   color: var(--accent);
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid #f2b134;
+  outline-offset: 3px;
+}
+
+.skip-link {
+  position: fixed;
+  z-index: 100;
+  top: 0.75rem;
+  left: 0.75rem;
+  padding: 0.65rem 0.9rem;
+  transform: translateY(-180%);
+  background: var(--ink);
+  color: #ffffff;
+  font: 700 0.88rem/1.2 var(--sans);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
 }
 
 img {
@@ -375,6 +398,31 @@ img {
   grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.95fr);
   gap: 2rem;
   align-items: start;
+}
+
+.trajectory-section .section-head {
+  max-width: 52rem;
+}
+
+.trajectory-section .feature-figure {
+  max-width: 62rem;
+}
+
+.resource-band {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  align-items: end;
+  padding: 2rem;
+  background: var(--surface);
+}
+
+.resource-band h2 {
+  margin-top: 0;
+}
+
+.resource-band p:last-child {
+  margin-bottom: 0;
 }
 
 .landmark-list {
@@ -849,10 +897,17 @@ img {
   .arc-shell,
   .landmark-shell,
   .feature-section,
+  .resource-band,
   .resource-grid,
   .theme-grid,
   .preview-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
   }
 }
 

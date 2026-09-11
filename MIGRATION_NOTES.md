@@ -69,7 +69,17 @@ adding complexity.
 ## Manual review items
 
 - Confirm whether `john.hogenesch@cchmc.org` is still the desired public contact address.
-- Replace the placeholders on `people.md` with a current roster when available.
 - Decide whether the homepage should keep both institutional logos in the hero area.
 - If a true legacy site export is found later, compare it against this reconstruction and
   pull over any missing public-facing historical content.
+
+## V3 refinement (September 2026)
+
+- Tightened the homepage around selected contributions, scientific trajectory, current work, and public resources.
+- Distinguished the 2002 genome-scale circadian transcription paper from the 2004 Gene Atlas paper.
+- Added published Smith-Kingsmore syndrome and SHINE syndrome work to the current scientific narrative.
+- Made `data/alumni.json` the source of truth for grouped alumni entries on the People page.
+- Added `build_site.py` to regenerate alumni markup, all static HTML pages, and sitemap dates in one command.
+- Removed the HTTP-only CircaDB endpoint from global navigation while preserving contextual links on Home and Resources.
+- Added keyboard focus styles, skip links, reduced-motion handling, a favicon, and a custom 404 page.
+- Updated cache-busting and sitemap metadata to improve deployment visibility.

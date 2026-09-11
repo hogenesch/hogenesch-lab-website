@@ -18,12 +18,12 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
   <a href="join.html">Join</a>
 </nav>
 <nav class="secondary-nav" aria-label="More">
-  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a>
 </nav>
 </div>
 </div>
 
-<header class="hero home-hero">
+<header class="hero home-hero" id="page-content">
 <div class="hero-copy">
 <p class="eyebrow">Hogenesch Lab</p>
 <h1>From clock genes to circadian medicine</h1>
@@ -33,8 +33,6 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 <a class="button" href="#contributions">Selected Contributions</a>
 <a class="button button-secondary" href="#current-research">Current Research</a>
 <a class="button button-secondary" href="publications.html">Selected Publications</a>
-<a class="button button-secondary" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
-<a class="button button-secondary" href="people.html">People and Training</a>
 </div>
 <div class="logo-strip">
 <span class="logo-strip-label">Affiliations</span>
@@ -46,7 +44,7 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 
 <section class="section" id="contributions">
 <div class="section-head">
-<p class="eyebrow">Selected Contributions</p>
+<p class="eyebrow">Scientific Record</p>
 <h2>Selected contributions</h2>
 </div>
 <div class="contribution-grid">
@@ -77,19 +75,16 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 </div>
 </section>
 
-<section class="section">
-<div class="arc-shell">
-<div>
-<p class="eyebrow">Why This Lab</p>
-<h2>Why this lab</h2>
-<p class="section-intro">Over two decades, the lab has contributed to circadian biology from molecular mechanisms to genome-scale systems and human physiology. The same progression produced clock gene discoveries, temporal atlases, analytical methods, and public resources. That trajectory informs current work in human timing, circadian medicine, and translation.</p>
-<p class="section-link"><a href="publications.html">See selected publications</a></p>
+<section class="section trajectory-section">
+<div class="section-head">
+<p class="eyebrow">Scientific Trajectory</p>
+<h2>From mechanism to medicine</h2>
+<p class="section-intro">The program moved from defining clock components to measuring temporal biology across genomes and tissues, then to methods that recover biological time from human data. That progression provides the experimental and computational basis for current work in circadian medicine and human genetics.</p>
 </div>
 <figure class="feature-figure">
 <img src="assets/images/landmark-contributions-map.svg?v=20260318-1" alt="Chronological timeline showing the lab's contributions across clock biology, atlases, algorithms, human ordering, and public resources." />
 <figcaption>A chronological view of the lab's major contributions, with time as the organizing variable across molecular clock biology, atlas-scale genomics, computational methods, and public resources.</figcaption>
 </figure>
-</div>
 </section>
 
 <section class="section" id="current-research">
@@ -111,33 +106,22 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 <p>The group examines how rhythmic programs vary across tissues, cell states, and organ systems.</p>
 </div>
 <div class="theme-card">
-<h3>Methods, resources, and translation</h3>
-<p>Current work extends computational tools and reusable datasets for circadian biology, human translation, genetics, and medicine.</p>
+<h3>Human genetics and rare disease</h3>
+<p>Published work connects circadian and sleep phenotypes to <em>MTOR</em> variants in Smith-Kingsmore syndrome and to a patient-derived model of DLG4-related SHINE syndrome.</p>
 </div>
 </div>
+<p class="section-link"><a href="research.html">Read the research program</a></p>
 </section>
 
-<section class="section feature-section">
-<div class="feature-copy">
+<section class="section resource-band">
+<div>
 <p class="eyebrow">Public Resources</p>
-<h2>Public resources developed by the lab</h2>
-<p>Resource building has been a recurring part of the lab's work. Gene Atlas, Clock Gene Wiki, and CircaDB were developed to make genomic and circadian data easier to use across the field.</p>
-<ul class="text-list">
-<li><strong>Gene Atlas</strong> established a tissue-scale reference for mammalian gene expression.</li>
-<li><strong>Clock Gene Wiki</strong> organized clock components and annotations in a public framework.</li>
-<li><strong>CircaDB</strong> provides access to circadian expression data across tissues and datasets.</li>
-</ul>
+<h2>Data and methods built for reuse</h2>
+<p>Gene Atlas, Clock Gene Wiki, CircaDB, and the lab's analytical methods make genomic and circadian data available for reuse across the field.</p>
+</div>
 <div class="feature-links">
-<a class="button" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a>
-<a class="button button-secondary" href="resources.html">View resources</a>
-</div>
-</div>
-<div class="feature-media">
-<figure class="feature-figure">
-<img src="assets/images/circadb-query-2013.jpg?v=20260309-1" alt="Published CircaDB query interface." />
-<figcaption>CircaDB provides direct access to circadian expression data by gene, dataset, tissue, phase, and significance threshold.</figcaption>
-<p class="visual-source">Pizarro et al., <em>Nucleic Acids Research</em> 2013. Open-access figure (CC BY-NC 3.0).</p>
-</figure>
+<a class="button" href="resources.html">View resources</a>
+<a class="button button-secondary" href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a>
 </div>
 </section>
 

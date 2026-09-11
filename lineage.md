@@ -16,12 +16,12 @@ description: Scientific Lineage of the Hogenesch Lab, acknowledging the influenc
   <a href="join.html">Join</a>
 </nav>
 <nav class="secondary-nav" aria-label="More">
-  <a class="active" href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+  <a class="active" href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a>
 </nav>
 </div>
 </div>
 
-<header class="page-header">
+<header class="page-header" id="page-content">
   <p class="eyebrow">Scientific Lineage</p>
   <h1>Scientific Lineage</h1>
   <p class="lede">

@@ -16,12 +16,12 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
   <a href="join.html">Join</a>
 </nav>
 <nav class="secondary-nav" aria-label="More">
-  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a>
 </nav>
 </div>
 </div>
 
-<header class="page-header">
+<header class="page-header" id="page-content">
   <p class="eyebrow">Selected Publications</p>
   <h1>Selected publications</h1>
   <p class="lede">
@@ -51,7 +51,8 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 <figcaption>Open-access figure from <em>Harmonics of circadian gene transcription in mammals</em> highlighting structured rhythmic transcription at genome scale.</figcaption>
 </figure>
 
-- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/gene-atlas-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>Gene Atlas.</strong></span> Panda S, Antoch MP, Miller BH, Su AI, Schook AB, Straume M, Schultz PG, Kay SA, Takahashi JS, Hogenesch JB. [Coordinated transcription of key pathways in the mouse by the circadian clock](https://pubmed.ncbi.nlm.nih.gov/12015981/). *Cell*. 2002.
+- **Genome-scale circadian transcription.** Panda S, Antoch MP, Miller BH, Su AI, Schook AB, Straume M, Schultz PG, Kay SA, Takahashi JS, Hogenesch JB. [Coordinated transcription of key pathways in the mouse by the circadian clock](https://pubmed.ncbi.nlm.nih.gov/12015981/). *Cell*. 2002.
+- <span class="pub-title-with-icon"><img class="pub-inline-icon" src="assets/images/gene-atlas-icon.svg?v=20260314-1" alt="" aria-hidden="true" /><strong>Gene Atlas.</strong></span> Su AI, Wiltshire T, Batalov S, Lapp H, Ching KA, Block D, Zhang J, Soden R, Hayakawa M, Kreiman G, Cooke MP, Walker JR, Hogenesch JB. [A gene atlas of the mouse and human protein-encoding transcriptomes](https://pubmed.ncbi.nlm.nih.gov/15075390/). *Proc Natl Acad Sci U S A*. 2004.
 - **Mammalian circadian transcriptome.** Hughes ME, DiTacchio L, Hayes KR, Vollmers C, Pulivarthy S, Baggs JE, Panda S, Hogenesch JB. [Harmonics of circadian gene transcription in mammals](https://pubmed.ncbi.nlm.nih.gov/19343201/). *PLoS Genet*. 2009.
 - **Functional genomics clock modulators.** Zhang EE, Liu AC, Hirota T, Miraglia LJ, Welch G, Pongsawakul PY, Liu X, Atwood A, Huss JW 3rd, Janes J, Su AI, Hogenesch JB, Kay SA. [A genome-wide RNAi screen for modifiers of the circadian clock in human cells](https://pubmed.ncbi.nlm.nih.gov/19765810/). *Cell*. 2009.
 - **Mouse organ atlas.** Zhang R, Lahens NF, Ballance HI, Hughes ME, Hogenesch JB. [A circadian gene expression atlas in mammals: implications for biology and medicine](https://pubmed.ncbi.nlm.nih.gov/25349387/). *Proc Natl Acad Sci U S A*. 2014.

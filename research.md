@@ -16,12 +16,12 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
   <a href="join.html">Join</a>
 </nav>
 <nav class="secondary-nav" aria-label="More">
-  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a>
 </nav>
 </div>
 </div>
 
-<header class="page-header">
+<header class="page-header" id="page-content">
   <p class="eyebrow">Research</p>
   <h1>Research across clocks, transcriptomes, and medicine</h1>
   <p class="lede">

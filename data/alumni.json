@@ -264,7 +264,7 @@
           "linkedin": ""
         },
         {
-          "name": "Josephine Harada",
+          "name": "Josephine Harada, PhD, MBA",
           "role": "Research Scientist",
           "lab_locations": [
             "GNF / Novartis",
@@ -356,7 +356,7 @@
           "linkedin": ""
         },
         {
-          "name": "Jacki Growe",
+          "name": "Jacki Growe, MS",
           "role": "Staff",
           "lab_locations": [
             "Penn Medicine"
@@ -373,7 +373,8 @@
           "lab_locations": [
             "GNF / Novartis"
           ],
-          "current_position": "Director, Biotechnology Genome Center of Excellence; USA Today 2022 Iowa Woman of the Year",
+          "current_position": "Director, Biotechnology Genome Center of Excellence",
+          "honor": "USA Today 2022 Iowa Woman of the Year",
           "current_institution": "Corteva",
           "website": "https://www.viewsonagriculture.com/contributors/gina-zastrow-hayes/",
           "scholar": "",
@@ -405,6 +406,8 @@
         },
         {
           "name": "Loren Miraglia",
+          "icon": "assets/images/hops-icon.svg",
+          "icon_alt": "Hops icon",
           "role": "Staff",
           "lab_locations": [
             "GNF / Novartis"
@@ -416,7 +419,7 @@
           "linkedin": ""
         },
         {
-          "name": "Kinnery Naik Patel",
+          "name": "Kinnery Naik Patel, MPH",
           "role": "Staff",
           "lab_locations": [
             "GNF / Novartis"
