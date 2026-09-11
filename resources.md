@@ -6,18 +6,19 @@ description: Methods, software, and public datasets from the Hogenesch Lab, incl
 
 <div class="masthead">
 <a class="site-title" href="index.html">Hogenesch Lab</a>
+<div class="nav-stack">
 <nav class="site-nav" aria-label="Primary">
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
-  <a href="lineage.html">Scientific Lineage</a>
-  <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
-  <a href="press.html">In the Press</a>
   <a class="active" href="resources.html">Resources</a>
-  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
+<nav class="secondary-nav" aria-label="More">
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+</nav>
+</div>
 </div>
 
 <header class="page-header">
@@ -66,12 +67,6 @@ description: Methods, software, and public datasets from the Hogenesch Lab, incl
 <p>Searchable mammalian circadian gene-expression profiles for bench and computational investigators.</p>
 <p><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">Explore CircaDB</a> &#8226; <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/">Publication</a></p>
 </div>
-<div class="resource-card">
-<img class="resource-icon" src="assets/images/gene-atlas-icon.svg" alt="Grid atlas icon representing Gene Atlas." />
-<h2>Gene Atlas</h2>
-<p>One of the earliest comprehensive maps of gene expression across mammalian tissues and a foundational functional genomics resource.</p>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Publication</a></p>
-</div>
 </div>
 
 ## Public Datasets and Reference Resources
@@ -80,8 +75,8 @@ description: Methods, software, and public datasets from the Hogenesch Lab, incl
 <div class="resource-card resource-card-featured">
 <img class="resource-icon" src="assets/images/gene-atlas-icon.svg" alt="Grid atlas icon representing Gene Atlas." />
 <h2>Gene Atlas</h2>
-<p>The Gene Atlas is one of the earliest comprehensive maps of gene expression across mammalian tissues and remains one of the lab's most influential functional genomics resources.</p>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">Publication</a></p>
+<p>The 2002 circadian transcription study and the expanded 2004 Gene Atlas established tissue-scale references for mammalian gene expression.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/12015981/">2002 study</a> &#8226; <a href="https://pubmed.ncbi.nlm.nih.gov/15075390/">2004 Gene Atlas</a></p>
 </div>
 <div class="resource-card">
 <h2>Circadian Atlas</h2>

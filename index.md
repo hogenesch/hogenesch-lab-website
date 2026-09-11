@@ -8,18 +8,19 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 
 <div class="masthead">
 <a class="site-title" href="index.html">Hogenesch Lab</a>
+<div class="nav-stack">
 <nav class="site-nav" aria-label="Primary">
   <a class="active" href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
-  <a href="lineage.html">Scientific Lineage</a>
-  <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
-  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
-  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
+<nav class="secondary-nav" aria-label="More">
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+</nav>
+</div>
 </div>
 
 <header class="hero home-hero">
@@ -27,7 +28,7 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 <p class="eyebrow">Hogenesch Lab</p>
 <h1>From clock genes to circadian medicine</h1>
 <p class="hero-subtitle">Biological time across molecular mechanisms, temporal genomics, and human physiology.</p>
-<p class="lede">Our work helped define core components of the mammalian circadian clock, including BMAL1 and NPAS2, map genome-scale circadian transcription across tissues, and develop widely used methods including JTK_CYCLE, MetaCycle, and CYCLOPS. The lab also developed public resources including Gene Atlas and CircaDB. Current work focuses on measuring circadian timing and amplitude in humans and translating temporal biology into physiology, pharmacology, transplantation, and medicine.</p>
+<p class="lede">Our work helped define core components of the mammalian circadian clock, including BMAL1 and NPAS2, map genome-scale circadian transcription across tissues, and develop widely used methods including JTK_CYCLE, MetaCycle, and CYCLOPS. The lab also developed public resources including Gene Atlas and CircaDB. Current work focuses on human circadian timing and translating temporal biology into physiology, pharmacology, transplantation, and medicine.</p>
 <div class="hero-actions">
 <a class="button" href="#contributions">Selected Contributions</a>
 <a class="button button-secondary" href="#current-research">Current Research</a>
@@ -98,8 +99,8 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 </div>
 <div class="theme-grid">
 <div class="theme-card">
-<h3>Measuring human circadian timing and amplitude</h3>
-<p>Current work focuses on measuring circadian timing and amplitude in humans and relating those measures to physiology, pharmacology, and treatment.</p>
+<h3>Measuring human circadian timing</h3>
+<p>Current work focuses on measuring circadian timing in humans and relating biological time to physiology, pharmacology, and treatment.</p>
 </div>
 <div class="theme-card">
 <h3>Molecular output and physiology</h3>

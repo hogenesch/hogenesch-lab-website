@@ -6,18 +6,19 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 
 <div class="masthead">
 <a class="site-title" href="index.html">Hogenesch Lab</a>
+<div class="nav-stack">
 <nav class="site-nav" aria-label="Primary">
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a href="people.html">People</a>
-  <a href="lineage.html">Scientific Lineage</a>
-  <a href="collaborations.html">Collaborations</a>
   <a class="active" href="publications.html">Publications</a>
-  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
-  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
+<nav class="secondary-nav" aria-label="More">
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+</nav>
+</div>
 </div>
 
 <header class="page-header">

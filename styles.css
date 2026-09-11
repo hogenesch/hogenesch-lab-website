@@ -41,7 +41,14 @@ body {
   letter-spacing: 0.01em;
 }
 
-.site-nav {
+.nav-stack {
+  display: grid;
+  justify-items: end;
+  gap: 0.2rem;
+}
+
+.site-nav,
+.secondary-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
@@ -49,7 +56,8 @@ body {
   font: 600 0.88rem/1.2 var(--sans);
 }
 
-.site-nav a {
+.site-nav a,
+.secondary-nav a {
   padding: 0.48rem 0.72rem;
   border-radius: 999px;
   color: var(--ink);
@@ -57,9 +65,22 @@ body {
 }
 
 .site-nav a:hover,
-.site-nav a.active {
+.site-nav a.active,
+.secondary-nav a:hover,
+.secondary-nav a.active {
   background: var(--accent-soft);
   color: var(--accent);
+}
+
+.secondary-nav {
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 500;
+}
+
+.secondary-nav a {
+  padding-block: 0.32rem;
+  color: var(--muted);
 }
 
 .hero,
@@ -841,7 +862,23 @@ img {
   }
 
   .masthead {
+    align-items: flex-start;
     margin-bottom: 2.5rem;
+  }
+
+  .nav-stack {
+    width: 100%;
+    justify-items: start;
+  }
+
+  .site-nav,
+  .secondary-nav {
+    gap: 0.18rem;
+  }
+
+  .site-nav a,
+  .secondary-nav a {
+    padding-inline: 0.52rem;
   }
 
   h1 {

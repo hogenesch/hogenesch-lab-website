@@ -6,18 +6,19 @@ description: Meet the Hogenesch Lab, including John B. Hogenesch, current team m
 
 <div class="masthead">
 <a class="site-title" href="index.html">Hogenesch Lab</a>
+<div class="nav-stack">
 <nav class="site-nav" aria-label="Primary">
   <a href="index.html">Home</a>
   <a href="research.html">Research</a>
   <a class="active" href="people.html">People</a>
-  <a href="lineage.html">Scientific Lineage</a>
-  <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
-  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
-  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
+<nav class="secondary-nav" aria-label="More">
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+</nav>
+</div>
 </div>
 
 <header class="page-header">
@@ -35,7 +36,7 @@ description: Meet the Hogenesch Lab, including John B. Hogenesch, current team m
 
 Thomas F. Boat Chair, Cincinnati Children's Hospital Medical Center.
 
-Research in the Hogenesch Lab spans circadian biology, systems genomics, public data
+Research in the Hogenesch Lab spans circadian biology, temporal genomics, public data
 resources, and circadian medicine.
 
 <p class="profile-links"><a href="https://en.wikipedia.org/wiki/John_B._Hogenesch">Wikipedia</a> <a href="https://scholar.google.com/citations?user=GseT2dUAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">PubMed</a></p>
@@ -49,7 +50,6 @@ resources, and circadian medicine.
 <img class="institution-logo" src="assets/images/srbr-logo.png?v=20260310-1" alt="Society for Research on Biological Rhythms logo" />
 <div>
 <p>John Hogenesch has devoted decades of service to <a href="https://srbr.org/about-us/board-of-directors/" target="_blank" rel="noopener">SRBR</a>, including roles as President, President-Elect, Treasurer, Comptroller, and Ad Hoc Member.</p>
-<p>The <a href="https://srbr.org/2026-biennial-meeting/" target="_blank" rel="noopener">2026 Biennial Meeting</a> will be held May 9-13, 2026, in Amelia Island, Florida.</p>
 </div>
 </div>
 </div>
@@ -63,8 +63,8 @@ resources, and circadian medicine.
 ## Current Members
 
 <ul class="alumni-list alumni-list-current">
-<li><div class="alumni-headline"><strong>Jiffin Paulose, PhD</strong><span class="alumni-role">Staff</span></div><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/contact">Website</a></span></li>
-<li><div class="alumni-headline"><strong>Sharon Tamir</strong><span class="alumni-role">Trainee</span></div><span class="alumni-meta">Current</span></li>
+<li><div class="alumni-headline"><strong>Jiffin Paulose, PhD</strong><span class="alumni-role">Lab Manager</span></div><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span><span class="alumni-entry-links"><a href="https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/hogenesch/contact">Website</a></span></li>
+<li><div class="alumni-headline"><strong>Sharon Tamir</strong><span class="alumni-role">Graduate Student</span></div><span class="alumni-meta">Cincinnati Children's Hospital Medical Center</span></li>
 </ul>
 
 <div class="callout people-join-callout">

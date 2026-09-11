@@ -6,18 +6,19 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 
 <div class="masthead">
 <a class="site-title" href="index.html">Hogenesch Lab</a>
+<div class="nav-stack">
 <nav class="site-nav" aria-label="Primary">
   <a href="index.html">Home</a>
   <a class="active" href="research.html">Research</a>
   <a href="people.html">People</a>
-  <a href="lineage.html">Scientific Lineage</a>
-  <a href="collaborations.html">Collaborations</a>
   <a href="publications.html">Publications</a>
-  <a href="press.html">In the Press</a>
   <a href="resources.html">Resources</a>
-  <a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
   <a href="join.html">Join</a>
 </nav>
+<nav class="secondary-nav" aria-label="More">
+  <a href="lineage.html">Scientific Lineage</a><a href="collaborations.html">Collaborations</a><a href="press.html">In the Press</a><a href="http://circadb.hogeneschlab.org/" target="_blank" rel="noopener">CircaDB</a>
+</nav>
+</div>
 </div>
 
 <header class="page-header">
@@ -35,14 +36,9 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <p>Each theme below links to representative publications. You can also jump straight to <a href="publications.html">Selected Publications</a> or <a href="resources.html">Resources</a>.</p>
 </div>
 
-<div class="callout">
-<h2>Clock biology and oxygen sensing</h2>
-<p>The lab's early bHLH-PAS work intersects two Nobel-recognized stories. The 2017 Nobel Prize in Physiology or Medicine honored discoveries of molecular mechanisms controlling the circadian rhythm, and the 2019 prize honored discoveries of how cells sense and adapt to oxygen availability. In the official 2019 historical account, NobelPrize.org names Hogenesch et al., 1997 in the HIF-2alpha branch of that oxygen-sensing story.</p>
-</div>
-
 <section class="theme-block">
 <h2>Molecular Circadian Clock</h2>
-<p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. That early bHLH-PAS work also intersects the HIF-2alpha oxygen-sensing story, not just the clock story. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
+<p>Foundational work from the lab helped define the mammalian clock at the level of transcription factors and feedback architecture. This includes discovery and characterization of BMAL1/MOP3, NPAS2, and BMAL2, together with several related bHLH-PAS domain genes. Related early work identified HIF-2alpha. Later work involved mechanistic studies of how these factors regulate downstream transcription.</p>
 <ul class="theme-list">
 <li>Core clock transcription factors in mammalian systems.</li>
 <li>Feedback regulation and clock-controlled gene expression.</li>
@@ -70,7 +66,6 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <li>PSEA for phase-structured pathway interpretation.</li>
 <li>CYCLOPS and CYCLOPS2 for recovering temporal order and addressing newer integration problems in unordered human datasets.</li>
 <li>CircaDB as a public gene-expression database for rhythmic biology.</li>
-<li><em>You're welcome.</em></li>
 </ul>
 <p class="section-link"><strong>Selected publications:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/20876817/" target="_blank" rel="noopener">JTK_CYCLE</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/23180795/" target="_blank" rel="noopener">CircaDB</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/28439010/" target="_blank" rel="noopener">CYCLOPS</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/27378304/" target="_blank" rel="noopener">MetaCycle</a></p>
 </section>
@@ -90,7 +85,7 @@ description: Published research from the Hogenesch Lab spans molecular clock mec
 <section class="theme-block">
 <h2>Human Genetics and Rare Disease</h2>
 <p>Through the Human Genetics Division at Cincinnati Children's, the lab also studies circadian and sleep phenotypes in rare genetic disease. Published work from this program includes Smith-Kingsmore syndrome, linking clinical phenotyping to molecular and cellular analysis in a translational genetics setting.</p>
-<p>Current work in this area is also supported by the DLG4 SHINE Foundation. Because SHINE-related studies are ongoing, the site links the foundation here as a current funding and community partner without describing unpublished results.</p>
+<p>The DLG4 SHINE Foundation supports work in this area as a funding and community partner.</p>
 <div class="logo-strip research-logo-strip">
 <span class="logo-strip-label">Related Programs and Foundations</span>
 <img src="assets/images/cchmc-logo.png?v=20260309-1" alt="Cincinnati Children's Hospital Medical Center logo" />
