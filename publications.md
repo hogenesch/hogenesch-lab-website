@@ -36,11 +36,6 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hogenesch+JB%5BAuthor%5D">Browse Hogenesch publications on PubMed</a>.</p>
 </div>
 
-<div class="callout">
-<h2>Nobel context</h2>
-<p>The official historical materials for the 2019 Nobel Prize in Physiology or Medicine on oxygen sensing name Hogenesch et al., 1997 in the HIF-2alpha branch of the field. The clock papers below also sit in the scientific arc recognized by the 2017 Nobel Prize in Physiology or Medicine.</p>
-</div>
-
 ## HIF-2alpha, Hypoxia, and Molecular Clock Mechanisms
 
 - **1997 bHLH-PAS family paper.** Hogenesch JB, Chan WK, Jackiw VH, Brown RC, Gu YZ, Pray-Grant M, Perdew GH, Bradfield CA. [Characterization of a subset of the basic-helix-loop-helix-PAS superfamily that interacts with components of the dioxin signaling pathway](https://pubmed.ncbi.nlm.nih.gov/9079689/). *J Biol Chem*. 1997.
@@ -76,6 +71,10 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
 ## Human Circadian Biology and Circadian Medicine
 
 - **Dosing time matters.** Ruben MD, Smith DF, FitzGerald GA, Hogenesch JB. [Dosing time matters](https://pubmed.ncbi.nlm.nih.gov/31395773/). *Science*. 2019.
+
+## Human Genetics and Rare Disease
+
+- **SHINE syndrome model.** Tamir S, Paulose J, Nguyen A, Gadara D, Witt RM, Prasad B, Hogenesch JB. [A patient-derived mouse model reproduces molecular, neurological, and sleep symptoms of SHINE syndrome](https://pubmed.ncbi.nlm.nih.gov/42565830/). *Hum Mol Genet*. 2026.
 
 <footer class="page-footer">
 <p>For software, datasets, and public resources highlighted by these papers, visit <a href="resources.html">Resources</a>.</p>
