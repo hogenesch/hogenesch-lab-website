@@ -33,6 +33,7 @@ description: Hogenesch Lab studies circadian biology from core clock genes to hu
 <a class="button" href="#contributions">Selected Contributions</a>
 <a class="button button-secondary" href="#current-research">Current Research</a>
 <a class="button button-secondary" href="publications.html">Selected Publications</a>
+<a class="button button-secondary" href="circadian-papers.html">Circadian Papers</a>
 </div>
 <div class="logo-strip">
 <span class="logo-strip-label">Affiliations</span>

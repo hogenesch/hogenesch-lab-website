@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Circadian Papers | Hogenesch Lab</title>
+    <link>https://hogeneschlab.org/circadian-papers.html</link>
+    <description>Selected new research on biological time, from clocks and genomics to sleep, metabolism, and medicine.</description>
+    <language>en</language>
+    <atom:link href="https://hogeneschlab.org/circadian-papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What chronic jet lag leaves behind in the brain</title>
+      <link>https://hogeneschlab.org/circadian-papers.html#chronic-jet-lag-rat-brain</link>
+      <guid isPermaLink="true">https://hogeneschlab.org/circadian-papers.html#chronic-jet-lag-rat-brain</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Peer-reviewed · Kubištová et al., Frontiers in Neuroscience, Nov. 19, 2026. After six months of weekly shifts in the light–dark cycle, rats spent a week back on a stable schedule. At that point, only 3 of 21 gene-by-region profiles that were rhythmic in controls still had a detectable daily rhythm. Hippocampal Per2 was the only one of the three that retained both its amplitude and peak timing. Why it matters: A week on a stable schedule did not restore most of the measured rhythms outside the brain’s central clock. Keep in mind: These were bulk tissue measurements in male rats. A weaker tissue rhythm could reflect weaker rhythms in individual cells, cells falling out of sync, or both.</description>
+    </item>
+  </channel>
+</rss>

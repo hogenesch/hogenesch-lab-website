@@ -28,6 +28,7 @@ description: Selected landmark publications from the Hogenesch Lab, with major p
     This page highlights landmark papers rather than a complete bibliography. For the full
     publication list, use the Google Scholar and PubMed links below.
   </p>
+<p>For new research from across the field, see <a href="circadian-papers.html">Circadian Papers</a>.</p>
 </header>
 
 <div class="callout">

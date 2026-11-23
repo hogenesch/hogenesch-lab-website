@@ -40,3 +40,15 @@ To regenerate the site locally:
 - Update `data/alumni.json` for alumni changes; `build_site.py` regenerates the grouped People-page entries.
 - Add new images under `assets/images/` and reference them with relative paths.
 - Keep primary navigation limited to `Home`, `Research`, `People`, `Publications`, `Resources`, and `Join`.
+
+## Circadian Papers
+
+`data/circadian-papers.json` is the approved public archive, not a shortlist or
+draft queue. For each issue, add an ISO date and a `papers` array in editorial
+order. Each paper needs a stable lowercase hyphenated `id`, `title`, original
+HTTPS `url`, `citation`, `type` (Peer-reviewed or Preprint), `finding`, `why`,
+and `caveat`. Keep unapproved material outside this public repository.
+
+Run `python3 build_paper_feed.py` to regenerate the page and RSS without
+Pandoc, or run the full site build. Commit the JSON and both generated files
+together. Never publish the weekly shortlist by default.

@@ -7,6 +7,8 @@ import json
 from pathlib import Path
 import subprocess
 
+from build_paper_feed import render as render_paper_feed
+
 ROOT = Path(__file__).resolve().parent
 PAGES = [
     "index", "research", "people", "lineage", "collaborations",
@@ -100,6 +102,7 @@ def render_sitemap():
             f"    <changefreq>{frequency}</changefreq>\n    <priority>{priority}</priority>\n  </url>"
         )
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    urls.append("  <url>\n    <loc>https://hogeneschlab.org/circadian-papers.html</loc>\n    <changefreq>weekly</changefreq>\n  </url>")
     sitemap += "\n".join(urls) + "\n</urlset>\n"
     (ROOT / "sitemap.xml").write_text(sitemap)
 
@@ -107,4 +110,5 @@ def render_sitemap():
 if __name__ == "__main__":
     render_alumni()
     render_pages()
+    render_paper_feed()
     render_sitemap()
