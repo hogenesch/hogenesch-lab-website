@@ -26,7 +26,8 @@
           "url": "https://doi.org/10.3389/fnins.2026.1993417",
           "finding": "After six months of weekly shifts in the light–dark cycle, rats spent a week back on a stable schedule. At that point, only 3 of 21 gene-by-region profiles that were rhythmic in controls still had a detectable daily rhythm. Hippocampal Per2 was the only one of the three that retained both its amplitude and peak timing.",
           "why": "A week on a stable schedule did not restore most of the measured rhythms outside the brain’s central clock.",
-          "caveat": "These were bulk tissue measurements in male rats. A weaker tissue rhythm could reflect weaker rhythms in individual cells, cells falling out of sync, or both."
+          "caveat": "These were bulk tissue measurements in male rats. A weaker tissue rhythm could reflect weaker rhythms in individual cells, cells falling out of sync, or both.",
+          "byline": "JBH"
         }
       ]
     }
