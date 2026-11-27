@@ -1,6 +1,21 @@
 {
   "issues": [
     {
+      "date": "2026-11-27",
+      "papers": [
+        {
+          "id": "protein-quality-control-fruit-fly-clock",
+          "title": "Protein quality control helps set the pace of the fruit fly clock",
+          "citation": "Geisseova et al., PNAS, Nov. 19, 2026",
+          "type": "Peer-reviewed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43056288/",
+          "finding": "Geisseova and colleagues found that disrupting Caliban-dependent ribosome quality control delayed the buildup of the clock protein PERIOD. The flies also showed longer, weaker activity rhythms in constant darkness. The study connects the cell’s handling of stalled ribosomes to the timing of the circadian clock.",
+          "link_text": "Read the paper in PNAS",
+          "byline": "JBH"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "papers": [
         {

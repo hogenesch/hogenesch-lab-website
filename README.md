@@ -46,8 +46,11 @@ To regenerate the site locally:
 `data/circadian-papers.json` is the approved public archive, not a shortlist or
 draft queue. For each issue, add an ISO date and a `papers` array in editorial
 order. Each paper needs a stable lowercase hyphenated `id`, `title`, original
-HTTPS `url`, `citation`, `type` (Peer-reviewed or Preprint), `finding`, `why`,
-and `caveat`. Keep unapproved material outside this public repository.
+HTTPS `url`, `citation`, `type` (Peer-reviewed or Preprint), and `finding`.
+Optional `why` and `caveat` fields add labeled context paragraphs; `link_text`
+customizes the source link and includes it in RSS; `byline` adds a sign-off to
+both HTML and RSS. Omit unused optional fields. Keep unapproved material outside
+this public repository.
 
 Run `python3 build_paper_feed.py` to regenerate the page and RSS without
 Pandoc, or run the full site build. Commit the JSON and both generated files

@@ -30,26 +30,39 @@ def render(root=ROOT):
         for paper in issue["papers"]:
             key, url = paper["id"], paper["url"]
             parsed = urlsplit(url)
-            fields = ("title", "citation", "finding", "why", "caveat")
+            fields = ("title", "citation", "finding")
+            optional_fields = ("why", "caveat", "link_text", "byline")
             if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", key) or key in seen_ids:
                 raise ValueError(f"Invalid or duplicate paper ID: {key}")
             if parsed.scheme != "https" or not parsed.hostname or parsed.username or parsed.password:
                 raise ValueError(f"{key}: link must be a public HTTPS source")
             if any(not isinstance(paper[f], str) or not paper[f].strip() for f in fields):
                 raise ValueError(f"{key}: all editorial fields must be filled")
+            if any(f in paper and (not isinstance(paper[f], str) or not paper[f].strip()) for f in optional_fields):
+                raise ValueError(f"{key}: optional editorial fields must be nonempty text when present")
             if paper["type"] not in {"Peer-reviewed", "Preprint"}:
                 raise ValueError(f"{key}: set the publication type")
             seen_ids.add(key)
             p = {k: escape(v) for k, v in paper.items()}
+            context = ""
+            summary = f'{paper["type"]} · {paper["citation"]}. {paper["finding"]}'
+            for field, label in (("why", "Why it matters:"), ("caveat", "Keep in mind:")):
+                if field in paper:
+                    context += f'<p><strong>{label}</strong> {p[field]}</p>'
+                    summary += f' {label} {paper[field]}'
+            link_text = p.get("link_text", "Read the original paper")
+            byline = f'<p>{p["byline"]}</p>' if "byline" in paper else ""
             cards.append(
                 f'<article class="callout" id="{key}"><h3>{p["title"]}</h3>'
                 f'<p><strong>{p["type"]}</strong> · {p["citation"]}</p>'
-                f'<p>{p["finding"]}</p><p><strong>Why it matters:</strong> {p["why"]}</p>'
-                f'<p><strong>Keep in mind:</strong> {p["caveat"]}</p>'
-                f'<p><a href="{p["url"]}">Read the original paper</a></p></article>'
+                f'<p>{p["finding"]}</p>{context}'
+                f'<p><a href="{p["url"]}">{link_text}</a></p>{byline}</article>'
             )
             # Plain text avoids embedding markup or article excerpts in RSS.
-            summary = f'{paper["type"]} · {paper["citation"]}. {paper["finding"]} Why it matters: {paper["why"]} Keep in mind: {paper["caveat"]}'
+            if "link_text" in paper:
+                summary += f' {paper["link_text"]}: {url}'
+            if "byline" in paper:
+                summary += f' {paper["byline"]}'
             items.append((key, paper["title"], day, summary))
         display_day = f"{day.strftime('%B')} {day.day}, {day.year}"
         editions.append(
